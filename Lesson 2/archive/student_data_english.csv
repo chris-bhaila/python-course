@@ -1,0 +1,109 @@
+roll_no,name,address,age,gender,hobby,iq,pass_status
+15,Suman,Lalitpur,24,Other,Reading,89,Fail
+17,Suman,Birtamod,24,Other,Cricket,114,Pass
+94,Laxmi Gurung,Rajbiraj,17,Male,Painting,88,Pass
+4,Bishnu Maya,Beni,23,Other,Cycling,122,Fail
+22,Bishnu Maya,Balewa,17,Male,Yoga,97,Fail
+63,Sapna,Biratnagar,19,Male,Traveling,129,Fail
+24,Krishna KC,Kushma,16,Female,Meditation,91,Pass
+2,,Mahendranagar,23,Female,Yoga,133,Fail
+50,Ajay,Rajbiraj,19,Male,Writing,134,Fail
+10,Ganesh,Nepalgunj,25,Male,Cricket,133,Pass
+38,Bishnu Maya,Syangja,15,Female,Video Games,108,Fail
+84,Ajay,Lalitpur,20,Male,Dancing,122,Pass
+89,Sapna,Dharan,22,Male,Reading,81,
+39,Ritu,Baglung,23,Other,Swimming,100,Fail
+7,Sita Kumari,Lalitpur,15,Female,Playing Flute,97,Fail
+69,Parijat,Hetauda,23,Female,Playing Flute,92,Pass
+9,Pawan,Tulsipur,19,Other,Chess,120,Pass
+53,Gita Thapa,Kathmandu,22,Male,Badminton,89,Pass
+8,Suresh,Dhangadhi,23,Female,Swimming,103,Pass
+99,Vishal,Butwal,19,Other,Traveling,130,Pass
+79,,Beni,15,Other,Football,132,Fail
+13,Tara Devi,Pokhara,24,Female,Meditation,140,Pass
+34,Bishnu Maya,Lalitpur,17,Male,Painting,129,Fail
+40,Anju Lama,Bhaktapur,15,Other,Dancing,94,Fail
+3,Ganesh,Kushma,17,Male,Cooking,123,Pass
+16,Anjali,Janakpur,20,Male,Chess,93,Pass
+26,Anita,Kushma,25,Female,Photography,99,Pass
+18,Vikas,Rajbiraj,18,Other,Painting,119,Pass
+1,Suman,,24,Female,Badminton,116,Pass
+6,,Lalitpur,23,Male,Dancing,131,Pass
+87,Hari Prasad,Tulsipur,18,Other,Cooking,103,Pass
+14,Suresh,Bharatpur,18,Male,Reading,,Fail
+52,Ranjana,Lalitpur,24,Female,Meditation,132,Fail
+55,Narayan Gopal,,18,Female,Traveling,90,Pass
+97,Vikas,Hetauda,22,Other,Badminton,131,Fail
+76,Priya,Tulsipur,22,Male,Playing Flute,84,Fail
+62,Krishna KC,Tansen,21,Female,Video Games,111,Fail
+48,Maya,Dhangadhi,18,Other,Gardening,117,Pass
+83,Laxmi Gurung,Tansen,24,Other,Football,128,Fail
+56,Karuna,Dharan,24,Other,Playing Guitar,86,Pass
+10,Ganesh,,25,Male,Cricket,133,Pass
+35,Suman,Kathmandu,,Female,Reading,88,Fail
+23,Ranjana,Birtamod,17,Other,Badminton,136,Fail
+78,Narayan Gopal,Lahan,21,Female,,122,Pass
+93,Sujit,Lahan,24,Other,Traveling,104,Fail
+7,Sita Kumari,,15,Female,Playing Flute,97,Fail
+67,Gita Thapa,Hetauda,20,Other,Meditation,106,Fail
+29,Sujit,Hetauda,23,Female,Painting,110,Fail
+70,Vikas,Damak,20,Male,Yoga,102,Pass
+57,Manoj,Mahendranagar,24,Female,Playing Flute,138,Pass
+73,Gita Thapa,Tulsipur,20,Female,Dancing,120,Fail
+68,Santosh Magar,Rajbiraj,21,Other,Cooking,126,Pass
+28,Hari Prasad,Bharatpur,17,Female,,83,Fail
+32,Priya,Baglung,18,Female,Swimming,113,Pass
+64,Vishal,Butwal,23,Female,Cooking,96,Pass
+42,Sunita,Beni,19,Female,Reading,124,Pass
+60,Sunita,Kathmandu,,,Football,101,Pass
+66,,,20,Male,Traveling,92,Pass
+25,Bhanubhakta Acharya,Hetauda,16,Other,Meditation,106,Fail
+31,Maya,,25,Other,Yoga,99,Pass
+30,Saraswati,Bhaktapur,23,Female,Badminton,104,Pass
+49,Pravin,Syangja,16,Male,Gardening,100,Fail
+92,Ramesh,Biratnagar,17,Other,Chess,118,Pass
+20,Rajesh Hamal,Itahari,16,Female,Chess,117,Pass
+44,Manoj,Waling,24,Female,Cooking,123,Fail
+77,Krishna KC,Mahendranagar,25,Other,Cricket,85,Pass
+4,Bishnu Maya,Beni,23,Other,Cycling,122,Fail
+33,Bhanubhakta Acharya,Bhaktapur,15,Other,Writing,120,Pass
+61,Ramesh,Biratnagar,22,Male,Chess,96,Fail
+37,Sanjay,Nepalgunj,25,Other,Playing Flute,81,Pass
+59,Rajesh Hamal,Baglung,18,Male,,135,Fail
+82,Deepak,Putalibazar,23,Female,Gardening,80,Pass
+46,Manisha,Nepalgunj,17,Other,Dancing,122,Fail
+36,Manoj,Balewa,24,Female,Photography,98,Pass
+98,Anita,Biratnagar,20,Female,Cooking,126,Pass
+72,Sapna,,25,Female,Gardening,95,Pass
+43,Nisha,Syangja,23,Female,Painting,106,Pass
+41,Priya,Tulsipur,18,Other,Playing Guitar,126,Fail
+19,Dinesh,Syangja,21,Other,Cricket,,Pass
+96,Nisha,Birtamod,17,Female,Cricket,120,Pass
+26,Anita,,25,Female,Photography,99,Pass
+12,Arjun Rai,Dharan,25,Other,Painting,100,Fail
+5,Ajay,Tansen,20,Other,Cycling,96,Fail
+80,,Birgunj,25,Other,Playing Flute,132,Pass
+91,Ritu,Tansen,16,Male,,127,Fail
+88,Saraswati,Janakpur,23,Other,Meditation,135,Pass
+45,Suresh,Balewa,16,Other,Singing,95,Pass
+92,Ramesh,Biratnagar,17,Other,Chess,118,Pass
+11,Deepak,Lalitpur,22,Other,Football,85,Fail
+14,Suresh,Bharatpur,18,Male,Reading,135,Fail
+75,Nisha,Birtamod,24,Male,Playing Guitar,109,Fail
+51,Maya,Ghorahi,23,Male,Playing Flute,95,Pass
+81,Sujit,Pokhara,17,Male,,80,Pass
+65,Nisha,Mahendranagar,,Male,Painting,101,Fail
+74,Asmita,Lahan,16,Male,Playing Guitar,115,Pass
+100,Manisha,Kushma,17,Male,Gardening,112,Fail
+95,Anju Lama,Dhangadhi,15,Other,Yoga,81,Pass
+92,Ramesh,Biratnagar,17,Other,Chess,118,Pass
+21,Nisha,Syangja,19,Other,Yoga,99,Pass
+90,Hari Prasad,Ghorahi,23,Other,Cricket,115,Pass
+86,Anita,Balewa,24,Other,Yoga,93,Pass
+27,,Birtamod,22,Female,Chess,118,Fail
+58,Dinesh,Baglung,25,Male,Swimming,84,Pass
+54,Deepak,Biratnagar,16,Other,Swimming,133,Pass
+85,Vikas,Kathmandu,17,Other,Video Games,123,Fail
+78,Narayan Gopal,Lahan,21,Female,Video Games,122,Pass
+71,,Baglung,16,Other,Playing Flute,123,Pass
+47,,Kushma,,Other,Singing,86,Fail
