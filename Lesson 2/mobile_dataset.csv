@@ -1,0 +1,1009 @@
+brand,model_name,price_npr,ram_gb,storage_gb,screen_size_inches,battery_mah,camera_mp,processor,operating_system,5g_support,fast_charging,fingerprint_sensor,release_year,seller_location,condition,warranty_months
+Samsung,Galaxy A54 5G,39999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,24
+Apple,iPhone 12,89999,4,128,6.1,2815,12,A14 Bionic,iOS,True,True,True,2020,Lalitpur,Like New,12
+Xiaomi,Redmi Note 12 Pro+,25999,6,128,6.67,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2022,Birgunj,Good,12
+Oppo,F19 Pro+ 5G,32999,8,256,6.43,4500,64,MediaTek Dimensity 900,Android,True,True,True,2021,Pokhara,Brand New,18
+Vivo,V23e,27999,8,128,6.44,4400,50,MediaTek Dimensity 6020,Android,True,True,True,2022,Dharan,Good,12
+Realme,Realme 11 Pro,21999,8,256,6.7,5000,108,MediaTek Dimensity 920,Android,True,True,True,2023,Butwal,Like New,12
+OnePlus,Nord 3,39999,12,256,6.74,4500,50,Qualcomm Snapdragon 782G,Android,True,True,True,2023,Kathmandu,Brand New,24
+Nokia,G50,15999,4,128,6.52,5000,50,MediaTek,Android,True,False,True,2021,Janakpur,Good,9
+Huawei,Nova 11,32999,8,256,6.67,4200,64,Kirin 990E,Android,True,True,True,2022,Kathmandu,Like New,12
+Infinix,Note 12,13999,4,64,6.9,5000,50,Helio G96,Android,True,True,False,2023,Biratnagar,Brand New,24
+Tecno,Pova Neo 3,10999,4,64,6.8,6000,13,Unisoc T606,Android,False,True,False,2021,Hetauda,Fair,6
+Samsung,Galaxy M34,21999,6,128,6.5,6000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,24
+Apple,iPhone SE (3rd Gen),67999,4,128,4.7,1821,12,A15 Bionic,iOS,True,True,True,2022,Pokhara,Like New,12
+Xiaomi,Poco X5 Pro,34999,8,256,6.67,4800,108,Qualcomm Snapdragon 778G,Android,True,True,True,2023,Lalitpur,Brand New,24
+Oppo,Reno 8T,26999,8,256,6.4,4500,100,MediaTek Helio G99,Android,True,True,True,2022,Birgunj,Good,12
+Vivo,Y35,19999,4,128,6.58,5000,50,MediaTek Dimensity 6020,Android,True,False,True,2023,Butwal,Like New,12
+Realme,GT Neo 3T,28999,12,256,6.7,4500,64,MediaTek Dimensity 8100,Android,True,True,True,2024,Kathmandu,Brand New,24
+Nokia,X200,17999,3,32,6.1,4500,16,Snapdragon 480,Android,False,False,False,2021,Janakpur,Fair,3
+Samsung,Galaxy A14,18999,4,128,6.6,5000,50,Exynos 850,Android,True,True,True,2022,Kathmandu,Good,12
+Apple,iPhone 13,109999,4,256,6.1,3095,12,A15 Bionic,iOS,True,True,True,2021,Lalitpur,Like New,12
+Xiaomi,Mi 13 Lite,32999,8,256,6.55,4500,50,Qualcomm Snapdragon 7s,Android,True,True,True,2023,Dharan,Brand New,24
+Tecno,Camon 19 Pro,14999,6,128,6.75,5000,60,Helio G96,Android,True,True,True,2023,Birgunj,Good,12
+Samsung,Galaxy A54 5G,33999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Redmi Note 12Pro,19999,6,128,6.6,5000,108,MediaTek Helio,Android,True,True,True,2022,Pokhara,Brand New,12
+Realme,Realme 11 Pro,24999,8,256,6.7,5000,108,MediaTek Dimensity 7050,Android,True,True,True,2023,Lalitpur,Good,18
+OnePlus,Nord 3,37999,12,256,6.74,4500,50,Snapdragon 782G,Android,True,True,True,2023,Birgunj,Like New,24
+Samsung,Galaxy S23 FE,79999,8,256,6.4,4500,50,Snapdragon 8 Gen 1,Android,True,True,True,2023,Kathmandu,Brand New,24
+Apple,iPhone 14,89999,4,256,6.1,3279,12,Apple A15,iOS,True,True,False,2022,Kathmandu,Like New,12
+Nokia,G21,14999,4,64,6.5,5000,50,Unisoc,Android,False,False,True,2021,Biratnagar,Good,6
+Huawei,P50,32999,8,128,6.5,4200,50,Kirin,Android,True,False,True,2022,Dharan,Good,12
+Vivo,V25 Pro,28999,8,256,6.44,4500,64,Snapdragon 778G,Android,True,True,True,2023,Butwal,Like New,12
+Oppo,A1,19999,6,128,6.55,4500,50,Dimensity 900,Android,True,True,True,2022,Hetauda,Brand New,12
+Tecno,Pova 5,14999,4,128,6.8,6000,50,MediaTek Helio,Android,True,True,False,2023,Janakpur,Good,6
+Infinix,Hot 20i,11999,3,64,6.6,5000,13,Unisoc,Android,False,False,False,2021,Kathmandu,Fair,0
+Samsung,Galaxy M14,19999,4,128,6.6,6000,50,Exynos 1330,Android,True,True,True,2023,Pokhara,Brand New,18
+Apple,iPhone 13,74999,4,128,6.1,3095,12,Apple A15,iOS,True,True,True,2021,Lalitpur,Like New,24
+Samsung,Galaxy A34,27999,8,256,6.6,5000,48,Exynos 1280,Android,True,True,True,2023,Birgunj,Good,12
+Xiaomi,POCO X5 Pro,25999,8,256,6.67,5100,108,Snapdragon 778G,Android,True,True,True,2023,Kathmandu,Like New,12
+Nokia,X30,34999,8,256,6.7,4500,64,Snapdragon 695,Android,True,True,True,2023,Dharan,Brand New,24
+Huawei,Nova 9,29999,8,128,6.57,4200,50,Kirin 985,Android,True,True,True,2022,Kathmandu,Good,12
+Oppo,Find X4,69999,12,512,6.7,5000,108,Snapdragon 8 Gen 1,Android,True,True,True,2023,Pokhara,Brand New,24
+Samsung,Galaxy A54 5G,39999,8,128,6.5,5000,50,Exynos 1380,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Redmi Note 12 Pro,24999,6,128,6.67,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2023,Bhaktapur,Brand New,24
+Realme,Realme 11 Pro,35999,8,256,6.4,4700,108,MediaTek Helio G99,Android,True,True,True,2024,Pokhara,Like New,12
+Apple,iPhone 13,89999,4,256,6.1,3240,12,Apple A15,iOS,True,True,False,2021,Lalitpur,Good,18
+Samsung,Galaxy S21 FE,69999,8,256,6.4,4500,64,Snapdragon 888,Android,True,True,True,2021,Kathmandu,Good,12
+OnePlus,Nord 3,34999,12,256,6.74,5000,50,MediaTek Dimensity 9000,Android,True,True,True,2023,Dharan,Brand New,24
+Nokia,X30,27999,6,128,6.5,4200,50,Snapdragon 695,Android,True,False,True,2023,Birgunj,Like New,12
+Huawei,P50 Pro,85999,8,256,6.6,4200,50,Kirin 9000L,Android,True,False,True,2022,Janakpur,Good,12
+Infinix,Note 30,19999,6,128,6.78,5000,108,MediaTek Helio G99,Android,True,True,True,2023,Butwal,Brand New,12
+Tecno,Camon 20 Pro,14999,4,128,6.6,5000,64,Helio G85,Android,False,True,True,2022,Hetauda,Like New,6
+Samsung,Galaxy A34,32999,8,128,6.5,5000,48,Exynos 1280,Android,True,True,True,2022,Kathmandu,Good,12
+Xiaomi,Poco X5 Pro,30999,8,256,6.67,4900,108,Snapdragon 778G,Android,True,True,True,2023,Pokhara,Like New,12
+Oppo,Find X5,54999,12,256,6.7,4800,108,MediaTek Dimensity 9000,Android,True,True,True,2023,Biratnagar,Brand New,24
+Vivo,V17,23999,6,128,6.44,4200,48,Qualcomm Snapdragon 480,Android,False,True,True,2021,Dharan,Fair,6
+Realme,9 Pro,18999,6,128,6.4,4500,108,MediaTek Dimensity 920,Android,True,True,True,2022,Lalitpur,Good,12
+Nokia,G21,13999,4,64,6.52,5000,50,Unisoc T606,Android,False,False,True,2021,Kathmandu,Fair,6
+Samsung,Galaxy M14,15999,3,64,6.6,6000,50,Exynos 1330,Android,True,True,True,2022,Butwal,Brand New,12
+Apple,iPhone 12,67999,4,128,6.1,2815,12,Apple A14,iOS,True,True,False,2020,Janakpur,Good,24
+Oppo,Reno 8,33999,8,256,6.4,4500,50,Snapdragon 680,Android,True,True,True,2022,Kathmandu,Like New,12
+Tecno,Pova Neo 2,9900,3,64,6.5,5000,13,Unisoc T606,Android,False,False,False,2022,Birgunj,Fair,0
+Infinix,Smart 7 Pro,11999,2,32,6.5,6000,48,MediaTek Helio G85,Android,False,False,True,2023,Hetauda,Brand New,12
+Samsung,Galaxy A54 5G,35999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Like New,12
+Apple,iPhone 12,89999,4,128,6.1,2815,12,Apple A14,iOS,True,True,True,2020,Lalitpur,Good,12
+Xiaomi,Redmi Note 12 Pro,26999,8,128,6.6,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2022,Pokhara,Brand New,18
+Oppo,Renno 7,18999,4,64,6.4,4500,48,MediaTek Dimensity 700,Android,True,True,True,2021,Birgunj,Good,12
+Vivo,Y33s,17999,4,64,6.58,5000,50,Unisoc T618,Android,False,False,True,2022,Dharan,Good,6
+Realme,Narzo 50A,14999,4,128,6.5,6000,50,MediaTek Helio G85,Android,False,True,True,2021,Butwal,Like New,12
+OnePlus,Nord N300,25999,6,128,6.56,5000,50,MediaTek Dimensity 705,Android,True,True,True,2023,Kathmandu,Brand New,24
+Nokia,G400,19999,6,64,6.52,4500,48,Qualcomm Snapdragon 480+,Android,True,False,True,2022,Janakpur,Good,12
+Huawei,Nova 11,35999,8,256,6.95,4200,60,Kirin 9000E,Android,True,False,True,2023,Kathmandu,Like New,12
+Infinix,Note 13,14999,4,128,6.6,5000,50,MediaTek Helio G85,Android,False,True,False,2022,Biratnagar,Fair,6
+Tecno,Pova 5 Pro,18999,6,128,6.78,7000,64,MediaTek Helio G99,Android,True,True,True,2023,Pokhara,Brand New,24
+Samsung,Galaxy M14,23999,4,128,6.6,5000,50,Exynos 1330,Android,True,True,True,2023,Kathmandu,Like New,12
+Apple,iPhone SE (3rd gen),62999,4,128,4.7,3040,12,Apple A15,iOS,True,True,True,2022,Lalitpur,Good,12
+Xiaomi,Poco X5,25999,8,256,6.67,5100,64,Qualcomm Snapdragon 778G,Android,True,True,True,2023,Kathmandu,Brand New,18
+Oppo,A16s,21999,4,128,6.52,5000,50,MediaTek Helio G85,Android,False,True,True,2022,Dharan,Like New,12
+Vivo,Y52t,13999,4,64,6.58,4500,50,Unisoc T606,Android,True,False,True,2020,Butwal,Fair,0
+Realme,C55,23999,6,128,6.58,5000,64,Mediatek MT6781,Android,True,True,True,2023,Birgunj,Brand New,24
+Nokia,X30,28999,8,256,6.55,4700,50,Qualcomm Snapdragon 732G,Android,True,True,True,2021,Kathmandu,Like New,12
+Huawei,P50 Pro,79999,12,512,6.6,4500,64,Kirin 9000,Android,True,True,True,2021,Biratnagar,Good,12
+Samsung,Galaxy S23 FE,79999,8,128,6.1,4500,50,Snapdragon 8 Gen 1,Android,True,True,True,2023,Kathmandu,Brand New,12
+Apple,iPhone 13,98999,4,128,6.1,3240,12,Apple A15,iOS,True,True,False,2021,Lalitpur,Like New,6
+Xiaomi,Redmi Note 12 Pro,21999,6,128,6.6,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2023,Pokhara,Good,12
+Oppo,F23,19999,4,64,6.4,4500,48,MediaTek Helio G85,Android,False,True,True,2022,Birgunj,Good,6
+Vivo,V23e,34999,8,256,6.5,4200,64,Snapdragon 778G,Android,True,True,True,2022,Dharan,Like New,12
+Realme,GT Neo 3,32999,12,256,6.7,4500,50,MediaTek Dimensity 8100,Android,True,True,True,2022,Butwal,Brand New,24
+OnePlus,Nord 3,29999,8,128,6.7,4500,50,Snapdragon 782G,Android,True,True,True,2023,Kathmandu,Brand New,12
+Nokia,G50,14999,4,128,6.5,5000,48,Unisoc,Android,False,False,True,2021,Janakpur,Fair,0
+Huawei,P50,22999,8,256,6.3,4200,50,Kirin,Android,True,False,True,2021,Pokhara,Good,12
+Infinix,Hot 20i,12999,4,64,6.52,5000,13,Helio G85,Android,False,True,True,2023,Biratnagar,Brand New,12
+Tecno,Camon 20,14999,4,128,6.8,5200,50,MediaTek Helio G85,Android,False,True,True,2022,Hetauda,Like New,6
+Samsung,Galaxy A54,48999,8,256,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,12
+Apple,iPhone 12,69999,4,64,6.1,2815,12,Apple A14,iOS,True,True,False,2020,Lalitpur,Fair,0
+Xiaomi,Poco X5 Pro,25999,8,256,6.67,4700,108,Snapdragon 7 Gen 1,Android,True,True,True,2023,Kathmandu,Like New,12
+Oppo,A17k,12999,3,64,6.56,5000,50,MediaTek Helio G35,Android,False,True,True,2022,Birgunj,Good,6
+Vivo,Y22s,15999,4,64,6.51,5000,50,Unisoc T606,Android,True,False,True,2021,Dharan,Fair,0
+Realme,9 Pro 5G,24999,6,128,6.6,4500,108,MediaTek Dimensity 920,Android,True,True,True,2022,Janakpur,Like New,12
+Nokia,X30,19999,6,128,6.4,4200,48,Snapdragon 480,Android,True,False,True,2021,Kathmandu,Good,6
+Huawei,Nova 9,32999,8,256,6.57,4200,50,Kirin 985,Android,True,True,True,2022,Pokhara,Brand New,12
+Infinix,Note 30 Pro,9999,2,32,6.52,5000,16,Helio G85,Android,False,False,True,2020,Butwal,Good,0
+Tecno,Spark 9 Pro,10999,3,64,6.6,5000,50,MediaTek Helio G85,Android,False,True,True,2021,Hetauda,Good,6
+Samsung,Galaxy A54 5G,34999,8,128,6.5,5000,48,Exynos 1280,Android,True,True,True,2023,Kathmandu,Like New,12
+Apple,iPhone 13,79999,4,128,6.1,3240,12,Apple A15,iOS,True,True,False,2021,Lalitpur,Good,18
+Xiaomi,Redmi Note 12 Pro,19999,6,128,6.6,5000,50,MediaTek Dimensity 1080,Android,True,True,True,2023,Birgunj,Brand New,12
+Oppo,Reno8,29999,8,256,6.4,4500,50,MediaTek Helio G99,Android,True,True,True,2022,Pokhara,Like New,6
+Vivo,Y33s,14999,4,64,6.58,5000,50,Unisoc T606,Android,False,False,True,2022,Dharan,Fair,0
+Realme,Narzo 60 Pro,23999,6,128,6.6,4800,108,MediaTek Dimensity 6020,Android,True,True,True,2023,Kathmandu,Brand New,24
+OnePlus,Nord 3,37999,8,256,6.74,4500,50,Dimensity 9000,Android,True,True,True,2023,Biratnagar,Like New,12
+Nokia,G21 Plus,12999,4,64,6.5,5000,50,UNISOC,Android,False,False,True,2021,Butwal,Good,9
+Huawei,Nova 11,25999,8,256,6.67,4400,64,Kirin 9000E,Android,True,True,True,2022,Kathmandu,Like New,12
+Infinix,Note 30 Pro,13999,4,128,6.95,5200,108,Helio G99,Android,True,True,True,2023,Janakpur,Brand New,6
+Tecno,Camon 20 Pro,10999,4,64,6.6,5000,50,MediaTek Helio G99,Android,True,True,True,2021,Hetauda,Fair,0
+Samsung,Galaxy M23,21999,6,128,6.4,6000,50,Exynos 980,Android,True,True,True,2023,Kathmandu,Brand New,12
+Apple,iPhone SE (3rd Gen),54999,4,128,4.7,3046,12,Apple A15,iOS,True,True,True,2022,Lalitpur,Like New,12
+Xiaomi,Poco X5 Pro,39999,8,256,6.67,5100,108,Snapdragon 778G,Android,True,True,True,2023,Pokhara,Good,18
+Oppo,A16s,14999,3,32,6.52,5000,50,MediaTek Helio G85,Android,False,False,True,2022,Birgunj,Good,9
+Vivo,V25e,32999,8,128,6.44,4500,64,MediaTek Dimensity 900,Android,True,True,True,2023,Dharan,Like New,12
+Realme,C55,8999,3,32,6.5,6000,50,Helio G85,Android,False,True,True,2020,Kathmandu,Fair,0
+Nokia,G50,18999,6,128,6.82,5050,48,Snapdragon 480,Android,True,False,True,2021,Pokhara,Good,12
+Huawei,P50 Pro,49999,12,512,6.6,4300,50,Kirin 9000,Android,True,True,True,2023,Kathmandu,Like New,24
+Samsung,Galaxy A54,34999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Like New,12
+Apple,iPhone 13,79999,4,128,6.1,3095,12,A15,iOS,True,True,False,2021,Lalitpur,Like New,12
+Xiaomi,Redmi Note 13 Pro,25999,6,128,6.6,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2023,Pokhara,Brand New,24
+OnePlus,Nord CE 3,37999,8,128,6.7,4500,64,Snapdragon 7 Gen 1,Android,True,True,True,2023,Biratnagar,Good,12
+Realme,GT Neo 5,33999,12,256,6.7,5000,50,MediaTek Dimensity 8100,Android,True,True,True,2023,Dharan,Like New,18
+Samsung,Galaxy S23,119999,8,256,6.1,3900,50,Snapdragon 8 Gen 2,Android,True,True,True,2023,Kathmandu,Brand New,18
+Nokia,G42 5G,18999,4,64,6.5,5000,50,Snapdragon 480+,Android,True,False,True,2022,Butwal,Good,12
+Oppo,A96,23999,6,128,6.59,5000,50,Snapdragon 680,Android,True,True,True,2022,Kathmandu,Like New,12
+Vivo,V27e,28999,8,256,6.64,4600,50,MediaTek Dimensity 720,Android,True,True,True,2023,Pokhara,Good,12
+Huawei,Nova 11i,21999,8,128,6.8,4300,50,Kirin 7100,Android,False,False,True,2022,Birgunj,Fair,6
+Infinix,Note 30 Pro,14999,6,128,6.75,5000,108,MediaTek Helio G99,Android,True,True,True,2023,Hetauda,Brand New,24
+Tecno,Pova 5,13999,8,256,6.8,6000,50,Unisoc T616,Android,True,True,False,2022,Janakpur,Good,12
+Samsung,Galaxy A34 5G,45999,8,128,6.4,5000,48,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,12
+Apple,iPhone SE (3rd Gen),69999,4,64,4.7,1960,12,A15,iOS,True,True,True,2022,Lalitpur,Like New,12
+Xiaomi,Poco X5 Pro,32999,8,256,6.67,4800,108,Snapdragon 778G,Android,True,True,True,2023,Dharan,Good,12
+Samsung,Galaxy M14,17999,4,128,6.6,6000,50,MediaTek Helio,Android,True,False,False,2021,Butwal,Fair,6
+Nokia,G42 4G,14999,3,64,6.3,4000,50,Snapdragon 480,Android,False,False,True,2021,Kathmandu,Good,12
+Oppo,Find X6 Lite,84999,12,256,6.7,4800,108,Snapdragon 8+ Gen 1,Android,True,True,True,2024,Kathmandu,Brand New,24
+Vivo,X80 Lite,54999,8,128,6.56,4500,108,Snapdragon 782G,Android,True,True,True,2024,Pokhara,Like New,12
+Samsung,Galaxy A54 5G,44999,8,128,6.5,5000,50,Exynos 1380,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Redmi Note 12 Pro+ 5G,38999,8,256,6.67,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2023,Biratnagar,Brand New,12
+OnePlus,Nord 3 5G,55999,12,256,6.74,4800,50,MediaTek Dimensity 9000,Android,True,True,True,2023,Lalitpur,Like New,18
+Realme,GT Neo 5,37999,12,256,6.7,5500,108,Snapdragon 7 Gen 1,Android,True,True,True,2023,Pokhara,Brand New,12
+Samsung,Galaxy S23 FE,89999,8,256,6.4,4500,50,Snapdragon 8 Gen 1,Android,True,True,True,2023,Kathmandu,Good,18
+Apple,iPhone 14,129999,6,256,6.1,3279,12,Apple A15,iOS,True,True,False,2022,Kathmandu,Like New,24
+Nokia,X200,15999,4,64,6.52,4000,16,Unisoc T606,Android,False,False,False,2021,Birgunj,Fair,0
+Vivo,Y22s,21999,6,128,6.51,5000,50,MediaTek Helio G85,Android,False,False,True,2022,Dharan,Good,6
+Huawei,Nova 11,28999,8,128,6.67,4200,64,Kirin 9000E,Android,True,False,True,2023,Butwal,Like New,12
+Xiaomi,Poco F5,46999,12,512,6.67,5500,108,Snapdragon 8+ Gen 1,Android,True,True,True,2023,Kathmandu,Brand New,24
+Samsung,Galaxy A34 5G,30999,6,128,6.5,5000,48,Exynos 1280,Android,True,True,True,2022,Pokhara,Good,12
+Oppo,Find X5 Lite,25999,8,128,6.43,4500,64,MediaTek 9000,Android,True,True,True,2022,Janakpur,Like New,12
+Tecno,Pov,8999,3,32,6.0,3500,13,Unspecified,Android,False,False,False,2020,Birgunj,Fair,6
+Infinix,Note 9,13999,4,64,6.3,5000,48,MediaTek Helio G85,Android,False,False,True,2021,Hetauda,Good,12
+Samsung,Galaxy M14,19999,4,128,6.6,6000,50,Exynos 1330,Android,True,True,True,2023,Kathmandu,Brand New,24
+Apple,iPhone SE (3rd gen),65999,4,128,4.7,1920,12,Apple A15,iOS,True,True,True,2022,Lalitpur,Good,12
+Realme,9 Pro+,29999,8,128,6.4,4500,50,MediaTek Dimensity 920,Android,True,True,True,2022,Kathmandu,Like New,12
+Vivo,S15,26999,8,256,6.56,4700,32,Mediatek Helio G99,Android,True,True,True,2023,Pokhara,Like New,12
+Nokia,G21,14999,3,64,6.52,5000,13,Unisoc T606,Android,False,False,True,2021,Dharan,Good,6
+Oppo,A77 5G,34999,8,128,6.56,4500,64,Snapdragon 765G,Android,True,True,True,2022,Biratnagar,Like New,12
+Samsung,Galaxy M54 5G,41999,6,128,6.6,6000,50,Exynos 1380,Android,True,True,True,2024,Kathmandu,Brand New,24
+Samsung,Galaxy A54 5G,34999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Redmi Note 11 Pro,18999,6,128,6.6,5020,108,Mediatek Helio G96,Android,True,True,True,2023,Pokhara,Brand New,12
+Realme,Narzo 60 Pro,24999,8,256,6.7,4600,108,MediaTek Dimensity 7050,Android,True,True,True,2024,Lalitpur,Like New,12
+Apple,iPhone 13 Mini,89999,4,128,5.4,3095,12,Apple A15,iOS,True,True,False,2022,Kathmandu,Good,6
+Samsung,Galaxy S22,79999,8,256,6.1,3700,50,Snapdragon 8 Gen 1,Android,True,True,True,2022,Dharan,Good,6
+OnePlus,Nord 3,35999,12,256,6.74,4500,50,MediaTek Dimensity 9000,Android,True,True,True,2023,Bhaktapur,Like New,12
+Nokia,G42,16999,6,128,6.52,5000,50,Qualcomm Snapdragon 480+,Android,True,False,True,2023,Biratnagar,Brand New,12
+Vivo,Vivo V25,29999,8,128,6.44,4500,64,MediaTek Dimensity 900,Android,True,True,True,2023,Pokhara,Like New,12
+Huawei,Nova 11,32999,8,256,6.78,4200,64,Kirin 990E,Android,True,True,True,2022,Kathmandu,Good,6
+Realme,C55,14999,4,64,6.5,5000,50,Mediatek Helio G85,Android,False,True,False,2023,Butwal,Brand New,12
+Infinix,Note 12 G96,17999,6,128,6.6,5200,50,Mediatek Helio G96,Android,True,True,True,2023,Janakpur,Like New,12
+Tecno,Camon 20 Pro,19999,8,256,6.8,5500,64,Mediatek Helio G99,Android,True,True,True,2024,Hetauda,Brand New,24
+Samsung,Galaxy A34 5G,28999,8,128,6.6,5000,48,Exynos 1280,Android,True,True,True,2023,Lalitpur,Good,12
+Apple,iPhone 14,139999,6,256,6.1,3279,12,Apple A15,iOS,True,True,False,2022,Kathmandu,Like New,12
+Xiaomi,Poco X5 Pro,33999,8,256,6.67,5100,108,Snapdragon 778G,Android,True,True,True,2023,Birgunj,Like New,12
+Oppo,A58s,21999,6,128,6.56,4500,50,Mediatek Dimensity 700,Android,True,True,True,2023,Dharan,Good,12
+Nokia,X30,25999,8,128,6.52,4200,64,Qualcomm Snapdragon 770G,Android,True,False,True,2024,Kathmandu,Brand New,24
+Vivo,Y66,15999,4,64,6.51,4500,16,MediaTek MT6765,Android,False,False,True,2021,Janakpur,Fair,0
+Samsung,Galaxy M14,14999,4,128,6.6,6000,50,Exynos 133,Android,True,True,True,2024,Pokhara,Brand New,12
+Tecno,Pov,8999,2,32,5.5,3500,8,Unisoc,Android,False,False,False,2021,Butwal,Fair,0
+Infinix,Note 12 VIP,23999,8,256,6.8,5080,108,Mediatek Helio G96,Android,True,True,True,2022,Kathmandu,Like New,12
+Samsung,Galaxy A54 5G,38999,8,128,6.5,5000,50,Exynos 1380,Android,True,True,True,2023,Kathmandu,Brand New,12
+Apple,iPhone 12,89999,4,64,6.1,3110,12,A14 Bionic,iOS,True,True,False,2020,Lalitpur,Like New,18
+Xiaomi,Redmi Note 12 Pro,35999,6,128,6.66,5000,108,MediaTek Helio G99,Android,True,True,True,2022,Birgunj,Good,12
+Oppo,Oppo Reno8,44999,8,256,6.4,4500,64,MediaTek Dimensity 1300,Android,True,True,True,2022,Pokhara,Brand New,24
+Vivo,Vivo V25,37999,8,128,6.44,4500,64,MediaTek Dimensity 900,Android,True,True,True,2023,Kathmandu,Like New,12
+Realme,Realme 11 Pro,23999,6,128,6.4,5000,108,MediaTek Helio G99,Android,True,True,True,2023,Butwal,Good,12
+OnePlus,OnePlus Nord CE 3 Lite,21999,8,128,6.72,5000,108,Snapdragon 782G,Android,True,True,True,2023,Dharan,Good,12
+Nokia,Nokia G42,14999,4,64,6.52,5000,50, Qualcomm Snapdragon 480+,Android,True,False,True,2022,Biratnagar,Fair,6
+Huawei,Huawei Nova 11,25999,8,256,6.8,4500,50,Kirin 980,Android,False,False,True,2021,Janakpur,Good,12
+Infinix,Infinix Zero Ultra,29999,12,256,6.8,5200,200,MediaTek Dimensity 920,Android,True,True,True,2023,Kathmandu,Brand New,24
+Tecno,Tecno Camon 19 Pro,18999,8,128,6.6,5000,64,Helio G96,Android,True,True,True,2022,Pokhara,Like New,12
+Samsung,Galaxy M14,16999,4,64,6.6,6000,50,Exynos 1330,Android,True,True,True,2023,Lalitpur,Brand New,12
+Samsung,Galaxy S21 FE,79999,8,256,6.4,4500,12,Snapdragon 888,Android,True,True,True,2021,Kathmandu,Like New,18
+Apple,iPhone SE (3rd Gen),57999,4,128,4.7,2821,12,A15 Bionic,iOS,True,True,True,2023,Hetauda,Brand New,24
+Xiaomi,Poco X5 Pro,34999,8,256,6.67,5160,108,Snapdragon 778G,Android,True,True,True,2023,Birgunj,Good,12
+Oppo,Find N2 Flip,89999,12,512,7.1,4310,50,Snapdragon 8+ Gen 1,Android,True,True,True,2023,Dharan,Brand New,24
+Vivo,X90 Pro,109999,12,512,6.78,4880,60,MediaTek Dimensity 9200,Android,True,True,True,2024,Kathmandu,Brand New,24
+Samsung,Galaxy A54 5G,34999,8,128,6.5,5000,50,Snapdragon 778G,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Redmi Note 12 Pro+,23999,6,128,6.67,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2023,Lalitpur,Brand New,12
+OnePlus,Nord CE 3 Lite,19999,8,128,6.7,5000,108,Snapdragon 695,Android,True,True,True,2024,Pokhara,Brand New,24
+Samsung,Galaxy S21 FE,89999,8,128,6.4,4500,12,Exynos 2100,Android,True,True,True,2021,Kathmandu,Good,12
+Apple,iPhone 14,149999,4,128,6.1,3279,12,Apple A15,iOS,True,True,False,2022,Birgunj,Like New,12
+Realme,Realme 12 Pro,25999,8,128,6.6,4800,108,MediaTek Dimensity 920,Android,True,True,True,2023,Dharan,Brand New,18
+Nokia,G22,15999,4,64,6.5,5000,50,Unisoc,Android,False,False,True,2022,Butwal,Good,12
+Oppo,A57 4G,17999,6,128,6.56,5000,50,MediaTek Helio,Android,False,True,True,2023,Kathmandu,Brand New,12
+Huawei,Nova 10 SE,29999,8,256,6.67,4800,108,Kirin,Android,True,True,True,2022,Biratnagar,Like New,12
+Vivo,Y35,21999,6,128,6.58,4850,50,Snapdragon 782G,Android,True,True,True,2023,Pokhara,Good,6
+Tecno,Pova 4 Pro,13999,4,128,6.8,7000,50,Helio G99,Android,False,True,True,2024,Kathmandu,Brand New,24
+Xiaomi,Poco X5 Pro,27999,8,256,6.67,4700,108,Snapdragon 778G,Android,True,True,True,2023,Janakpur,Like New,12
+Samsung,Galaxy M14,24999,6,128,6.6,6000,50,Exynos 13350,Android,True,True,True,2024,Kathmandu,Brand New,18
+Nokia,X100,18999,3,32,5.9,4200,13,Unisoc,Android,False,False,False,2021,Hetauda,Fair,6
+Apple,iPhone 13,129999,4,128,6.1,3240,12,Apple A15,iOS,True,True,True,2021,Lalitpur,Like New,12
+Samsung,Galaxy A14,19999,4,128,6.6,5000,50,Exynos 850,Android,True,False,True,2022,Dharan,Good,12
+Oppo,Find X5 Lite,55999,8,256,6.55,4600,108,MediaTek Dimensity 9000,Android,True,True,True,2023,Bhaktapur,Like New,24
+Realme,Narzo 60 Pro,19999,4,128,6.43,4500,50,MediaTek G88,Android,True,False,True,2022,Kathmandu,Good,12
+Infinix,Note 13,14999,4,128,6.8,5200,50,Helio G85,Android,False,True,True,2021,Birgunj,Fair,6
+Samsung,Galaxy A34,34999,8,128,6.6,5000,48,Exynos 1280,Android,True,True,True,2023,Pokhara,Brand New,18
+Apple,iPhone SE (2nd gen),67999,3,64,4.7,1821,12,Apple A13,iOS,False,True,True,2020,Janakpur,Fair,0
+Samsung,Galaxy A54 5G,39999,8,256,6.5,5000,50,Exynos 1280,Android,True,True,True,2022,Kathmandu,Like New,12
+Xiaomi,Redmi Note 11 Pro,19999,6,128,6.67,5200,108,MediaTek Helio G96,Android,True,True,True,2021,Pokhara,Brand New,12
+Apple,iPhone 13,79999,4,128,6.1,3095,12,Apple A15,iOS,True,True,False,2021,Lalitpur,Good,24
+Oppo,Oppo Reno8,35999,8,256,6.4,4500,64,MediaTek Dimensity 8100,Android,True,True,True,2022,Birgunj,Like New,12
+Samsung,Galaxy M33,17999,6,128,6.6,6000,50,Exynos 1280,Android,True,True,True,2022,Kathmandu,Good,12
+Realme,Realme 10 Pro+,24999,8,256,6.7,5000,108,MediaTek Dimensity 920,Android,True,True,True,2023,Dharan,Brand New,18
+Nokia,Nokia G21,13999,4,64,6.52,5050,50,Unisoc T606,Android,False,False,True,2023,Biratnagar,Good,12
+OnePlus,OnePlus Nord CE 3,28999,8,128,6.72,4500,64,Snapdragon 782G,Android,True,True,True,2023,Kathmandu,Like New,12
+Huawei,P50,35999,8,256,6.5,4200,50,Kirin 9000,Android,True,False,True,2022,Pokhara,Good,18
+Vivo,Vivo V25,29999,8,256,6.44,4500,64,MediaTek Dimensity 900,Android,True,True,True,2023,Kathmandu,Brand New,24
+Samsung,Galaxy A34 5G,32999,8,128,6.6,5100,48,Exynos 1280,Android,True,True,True,2023,Lalitpur,Like New,12
+Xiaomi,Poco X5 Pro,26999,8,256,6.67,4600,108,Snapdragon 778G,Android,True,True,True,2023,Butwal,Brand New,12
+Tecno,Tecno Camon 19,14999,4,64,6.0,5000,50,MediaTek Helio G85,Android,False,True,False,2021,Hetauda,Fair,6
+Infinix,Infinix Note 30,19999,6,128,6.75,5200,108,MediaTek Helio G99,Android,True,True,True,2022,Janakpur,Good,12
+Samsung,Galaxy S23 FE,89999,8,256,6.4,4500,50,Snapdragon 8 Gen 1,Android,True,True,True,2023,Kathmandu,Brand New,24
+Apple,iPhone SE (3rd Gen),49999,4,64,4.7,2960,12,Apple A15,iOS,True,True,True,2022,Pokhara,Like New,12
+Nokia,Nokia X30,45999,8,256,6.4,4200,50,Snapdragon 778G,Android,True,True,True,2023,Birgunj,Good,18
+Realme,Realme 11 Pro,21999,6,128,6.4,5000,108,MediaTek Helio G96,Android,True,True,True,2023,Dharan,Brand New,12
+Oppo,Oppo K53,15999,4,64,6.3,5020,50,MediaTek Helio G90,Android,False,True,True,2020,Janakpur,Fair,6
+Vivo,Vivo Y72t,13999,4,64,6.51,5000,50,MediaTek Dimensity 700,Android,True,True,True,2022,Kathmandu,Good,12
+Tecno,Tecno Spark 10,10999,3,32,6.0,6000,16,Unisoc Tiger T606,Android,False,False,False,2022,Butwal,Fair,6
+Samsung,Galaxy A54 5G,37999,8,128,6.5,5000,50,Exynos 1380,Android,True,True,True,2023,Kathmandu,Brand New,12
+Apple,iPhone 12,89999,4,128,6.1,2815,12,Apple A14,iOS,True,True,False,2020,Lalitpur,Like New,12
+Xiaomi,Redmi Note 12 Pro,25999,6,128,6.67,5080,108,MediaTek Helio G96,Android,True,True,True,2022,Birgunj,Good,12
+Oppo,Reno7,43999,8,256,6.4,4500,64,MediaTek Dimensity 900,Android,True,True,True,2022,Kathmandu,Brand New,24
+Vivo,V25e,32999,8,256,6.44,4500,64,MediaTek Dimensity 900,Android,True,True,True,2023,Pokhara,Like New,12
+Realme,Realme 11 Pro+,29999,8,256,6.7,5000,200,Mediatek Dimensity 7050,Android,True,True,True,2023,Biratnagar,Brand New,12
+OnePlus,Nord CE 3,35999,8,128,6.7,5000,108,Snapdragon 782G,Android,True,True,True,2023,Dharan,Good,12
+Nokia,XR20,49999,8,128,6.8,4500,50,Snapdragon 480,Android,True,False,True,2022,Butwal,Like New,18
+Huawei,P60,75999,12,256,6.6,6600,54,Kirin 9000S,Android,True,True,True,2023,Hetauda,Brand New,24
+Infinix,Zero Ultra,26999,8,256,6.8,4500,200,MediaTek Dimensity 920,Android,True,True,True,2023,Kathmandu,Good,12
+Tecno,Pov 5 Pro,19999,6,128,6.5,5000,64,Unisoc T616,Android,False,True,False,2021,Janakpur,Fair,6
+Samsung,Galaxy A14,16999,4,128,6.6,5000,50,Exynos 850,Android,True,False,True,2022,Kathmandu,Good,12
+Apple,iPhone SE (2022),57999,4,64,4.7,2011,12,Apple A15,iOS,True,True,True,2022,Lalitpur,Like New,12
+Xiaomi,Poco X5,32999,8,256,6.67,5080,108,Snapdragon 778G,Android,True,True,True,2023,Pokhara,Brand New,24
+Oppo,Find X5 Pro,89999,12,256,6.7,5000,108,Snapdragon 8 Gen 2,Android,True,True,True,2023,Kathmandu,Brand New,24
+Vivo,Y78,23999,6,128,6.56,4500,50,MediaTek Helio G99,Android,True,True,True,2022,Birgunj,Good,12
+Realme,Narzo 60 Pro,19999,6,128,6.6,5000,64,MediaTek Dimensity 6020,Android,True,False,True,2024,Dharan,Brand New,24
+Nokia,X30,21999,8,128,6.5,4200,48,Snapdragon 732G,Android,True,False,True,2021,Butwal,Fair,6
+Huawei,Nova 11,32999,8,256,6.7,5100,64,Kirin 985,Android,True,True,True,2022,Janakpur,Like New,12
+Infinix,Note 30 Pro,21999,4,128,6.6,5200,50,MediaTek Helio G99,Android,True,True,True,2022,Kathmandu,Good,12
+Tecno,Camon 21,14999,4,64,6.6,5000,50,Helio G85,Android,False,True,True,2021,Hetauda,Brand New,12
+Samsung,Galaxy A54 5G,34999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,12
+Xiaomi,Redmi Note 13 Pro,19999,6,128,6.67,5080,108,MediaTek Dimensity 920,Android,True,True,True,2023,Pokhara,Like New,12
+Realme,Realme 12 Pro,15999,6,128,6.4,5000,50,MediaTek Dimensity 810,Android,True,True,True,2022,Lalitpur,Good,6
+Oppo,A16s,17999,4,64,6.52,5000,50,MediaTek Helio G36,Android,False,False,True,2022,Biratnagar,Good,6
+Samsung,Galaxy M14,14999,4,128,6.6,6000,50,Exynos 1330,Android,True,False,True,2023,Butwal,Brand New,24
+Nokia,G22,13999,4,64,6.52,5050,50,Unisoc Tiger,Android,False,False,False,2023,Hetauda,Like New,12
+Apple,iPhone 13,79999,4,128,6.1,3240,12,Apple A15,iOS,True,True,True,2021,Kathmandu,Like New,12
+Samsung,Galaxy S22,89999,8,256,6.1,3700,50,Snapdragon 8 Gen 1,Android,True,True,True,2022,Pokhara,Brand New,24
+OnePlus,Nord 3,39999,12,256,6.74,4500,50,MediaTek Dimensity 9000,Android,True,True,True,2023,Lalitpur,Brand New,12
+Vivo,V27,32999,8,256,6.64,4600,50,MediaTek Dimensity 900,Android,True,True,True,2023,Birgunj,Brand New,12
+Huawei,Nova 11,37999,8,256,6.7,4200,64,Kirin 985,Android,True,False,True,2022,Dharan,Like New,6
+Infinix,Note 13 Pro,10999,4,128,6.6,5000,48,Helio G85,Android,False,True,False,2023,Butwal,Good,12
+Tecno,Pova 4,7999,4,64,6.8,6000,50,Helio G99,Android,False,True,False,2023,Janakpur,Brand New,24
+Samsung,Galaxy A34,25999,8,128,6.6,5000,48,Exynos 1280,Android,True,True,True,2023,Kathmandu,Good,12
+Apple,iPhone SE (3rd Gen),52999,4,128,4.7,1920,12,Apple A15,iOS,True,True,True,2022,Lalitpur,Like New,12
+Xiaomi,Poco X5,24999,8,256,6.67,5200,64,Snapdragon 7 Gen 1,Android,True,True,True,2023,Biratnagar,Brand New,12
+Nokia,G42,9999,4,64,6.52,5000,50,Unisoc T700,Android,False,False,True,2020,Janakpur,Fair,0
+Infinix,Hot 30i,7599,3,64,6.6,5000,50,Helio G85,Android,False,True,False,2023,Kathmandu,Fair,6
+Oppo, Reno8 Lite,24999,8,128,6.43,4500,108,MediaTek Dimensity 900,Android,True,True,True,2023,Kathmandu,Brand New,12
+Samsung,Galaxy Z Flip4,119999,12,256,6.7,3700,108,Snapdragon 8+ Gen 1,Android,True,True,True,2022,Pokhara,Brand New,12
+Samsung,Galaxy A54 5G,42999,8,128,6.5,5000,50,Exynos 1380,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Redmi Note 12 Pro,21999,6,128,6.6,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2022,Pokhara,Brand New,12
+Realme,Realme 11 Pro+,29999,8,256,6.7,4800,108,MediaTek Helio G99,Android,True,True,True,2023,Lalitpur,Like New,12
+Apple,iPhone 12,74999,4,64,6.1,2815,12,Apple A14,iOS,True,True,False,2020,Kathmandu,Good,6
+Samsung,Galaxy S21 FE,65999,8,256,6.4,4500,12,Snapdragon 888,Android,True,True,True,2021,Biratnagar,Good,12
+Nokia,X30,18999,6,128,6.5,4200,50,Snapdragon 695,Android,True,False,True,2022,Dharan,Fair,6
+Oppo,OPPO A17k,14999,4,64,6.56,5000,50,MediaTek Helio G35,Android,False,False,True,2023,Butwal,Brand New,12
+Vivo,Vivo Y35,16999,4,128,6.58,5000,50,Snapdragon 695,Android,True,True,True,2023,Kathmandu,Brand New,24
+Tecno,Tecno Spark 11 Pro,8999,3,32,6.6,5000,30,Unisoc,Android,False,False,False,2021,Janakpur,Fair,0
+OnePlus,OnePlus Nord N300,28999,6,128,6.56,5000,50,MediaTek Dimensity 810,Android,True,True,True,2022,Pokhara,Like New,12
+Samsung,Galaxy A14 5G,19999,4,128,6.6,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,18
+Huawei,P60 Pro,55999,8,256,6.6,5100,50,Kirin 9000,Android,True,True,True,2022,Lalitpur,Like New,12
+Infinix,Infinix Note 30,12999,4,128,6.78,5000,50,MediaTek Helio G85,Android,False,True,False,2023,Birgunj,Brand New,6
+Xiaomi,Poco X5 Pro,45999,8,256,6.67,4800,108,Snapdragon 778G,Android,True,True,True,2023,Biratnagar,Like New,12
+Samsung,Galaxy M14,14999,4,128,6.6,6000,50,Exynos 1330,Android,True,True,True,2023,Kathmandu,Brand New,12
+Apple,iPhone 13,89999,4,128,6.1,3227,12,Apple A15,iOS,True,True,True,2021,Kathmandu,Like New,12
+Nokia,G22,11999,3,64,6.52,5000,20,Unisoc T606,Android,False,False,False,2022,Hetauda,Fair,6
+Oppo,Reno7,21999,6,128,6.43,4500,64,MediaTek Dimensity 810,Android,True,True,True,2022,Dharan,Good,12
+Vivo,S1 Pro,19999,6,128,6.44,4500,64,MediaTek Helio G96,Android,True,True,True,2023,Janakpur,Brand New,12
+Tecno,Camon 20 Pro,17999,6,128,6.5,5200,64,Mediatek Helio G99,Android,True,True,True,2023,Kathmandu,Like New,12
+Samsung,Galaxy A54 5G,39999,8,128,6.4,5000,50,Exynos 1380,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Redmi Note 12 Pro 5G,21999,6,128,6.67,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2023,Lalitpur,Brand New,12
+Realme,Realme 11 Pro+,25999,8,256,6.78,5200,200,MediaTek Dimensity 7050,Android,True,True,True,2024,Pokhara,Brand New,24
+Samsung,Galaxy S21 FE,74999,8,256,6.4,4500,64,Snapdragon 888,Android,True,True,True,2021,Biratnagar,Good,6
+Apple,iPhone 13,89999,4,128,6.1,3095,12,Apple A15,iOS,True,True,True,2021,Kathmandu,Good,6
+OnePlus,Nord 3,37999,8,128,6.74,4500,50,Snapdragon 782G,Android,True,True,True,2023,Dharan,Like New,12
+Oppo,Find X5 Lite,29999,8,256,6.6,4500,64,Mediatek Helio G99,Android,True,True,True,2022,Butwal,Fair,6
+Nokia,X30,13999,6,128,6.5,4200,48,Snapdragon 695,Android,True,False,True,2023,Kathmandu,Like New,12
+Infinix,Note 13 Pro,14999,6,128,6.6,5000,108,MediaTek Helio G99,Android,True,True,False,2023,Birgunj,Brand New,12
+Tecno,Camon 20 Pro,16999,8,256,6.8,5450,64,Mediatek Helio G99,Android,True,True,True,2023,Janakpur,Good,12
+Samsung,Galaxy A34 5G,34999,8,128,6.5,5000,48,Exynos 1280,Android,True,True,True,2022,Kathmandu,Like New,18
+Apple,iPhone 12,59999,4,64,6.1,2815,12,Apple A14,iOS,True,True,True,2020,Lalitpur,Fair,0
+Huawei,P50 Pro,44999,8,256,6.6,4360,50,Kirin 9000E,Android,True,True,True,2021,Pokhara,Good,6
+Vivo,V23e,25999,8,128,6.44,4400,44,Dimensity 900,Android,True,True,True,2022,Kathmandu,Like New,12
+Xiaomi,Poco X5 Pro,28999,8,256,6.67,5160,108,Snapdragon 778G,Android,True,True,True,2023,Hetauda,Brand New,24
+Samsung,Galaxy M14,19999,4,128,6.6,6000,50,Exynos 1330,Android,True,False,True,2024,Birgunj,Brand New,24
+OnePlus,Ace 2,35999,12,256,6.74,4900,64,Snapdragon 8+ Gen 1,Android,True,True,True,2023,Dharan,Like New,12
+Nokia,G21,9999,3,32,6.52,5000,13,Unisoc T606,Android,False,False,True,2021,Janakpur,Fair,0
+Infinix,Hot 20i,8999,4,64,6.52,5000,50,Unisoc,Android,False,False,False,2022,Kathmandu,Brand New,12
+Tecno,Spark 10 Pro,11999,4,128,6.8,5000,50,MediaTek Helio G96,Android,False,False,True,2022,Pokhara,Good,6
+Samsung,Galaxy A54 5G,39999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Redmi Note 12 Pro,24999,6,128,6.67,5100,108,MediaTek Helio G96,Android,True,True,True,2023,Lalitpur,Brand New,12
+Realme,Realme 11 Pro,32999,8,256,6.7,4800,108,MediaTek Dimensity 6020,Android,True,True,True,2023,Pokhara,Like New,12
+OnePlus,Nord 3,45999,12,256,6.74,4500,60,MediaTek Dimensity 9000,Android,True,True,True,2023,Biratnagar,Brand New,24
+Samsung,Galaxy S22 FE,89999,8,256,6.4,4500,50,Snapdragon 8 Gen 1,Android,True,True,True,2023,Kathmandu,Good,12
+Nokia,G21 Plus,14999,4,64,6.52,5050,50,Unisoc T606,Android,False,False,True,2022,Butwal,Good,6
+Apple,iPhone 13,129999,4,128,6.1,3240,12,Apple A15,iOS,True,True,False,2021,Kathmandu,Like New,12
+Huawei,P60 Pro,119999,8,256,6.72,4500,50,Kirin 9000,Android,True,True,True,2023,Dharan,Brand New,24
+Oppo,Find X5 Lite,37999,6,128,6.55,4500,64,MediaTek Dimensity 720,Android,True,True,True,2022,Pokhara,Like New,12
+Vivo,Y72t,25999,8,128,6.43,4500,50,MediaTek Dimensity 900,Android,True,True,True,2023,Birgunj,Brand New,12
+Infinix,Note 12,14999,4,128,6.6,5000,50,MediaTek Helio G99,Android,True,True,True,2022,Hetauda,Good,6
+Tecno,Pova Neo 2,10999,3,64,6.6,5000,13,Unisoc T606,Android,False,True,False,2022,Janakpur,Fair,3
+Samsung,Galaxy A14,19999,4,128,6.6,5000,50,Exynos 1330,Android,True,True,True,2023,Lalitpur,Brand New,12
+Apple,iPhone SE (2022),67999,4,64,4.7,1911,12,Apple A15,iOS,True,True,True,2022,Kathmandu,Like New,6
+Xiaomi,Poco F5,55999,8,256,6.67,4800,64,Snapdragon 8+ Gen 1,Android,True,True,True,2023,Biratnagar,Brand New,24
+Nokia,G22,17999,3,32,6.52,5000,50,Unisoc Tiger,Android,False,False,True,2021,Kathmandu,Good,12
+Samsung, Galaxy M54,32999,8,256,6.7,6000,108,Exynos 1380,Android,True,True,True,2024,Kathmandu,Brand New,12
+Vivo,V27e,30999,8,128,6.62,4700,50,MediaTek Dimensity 7200,Android,True,True,True,2023,Dharan,Like New,12
+Oppo,Reno8T,23999,6,128,6.7,4500,64,MediaTek Dimensity 700,Android,True,True,True,2022,Butwal,Good,12
+Tecno,Camon 19 Pro,21999,8,256,6.8,5000,64,MediaTek Helio G96,Android,True,True,True,2022,Kathmandu,Like New,12
+Samsung,Galaxy A54,32999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Redmi Note 12 Pro,19999,8,256,6.67,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2023,Pokhara,Brand New,12
+OnePlus,Nord CE 3,35999,12,256,6.7,4500,64,Snapdragon 782G,Android,True,True,True,2023,Lalitpur,Good,18
+Samsung,Galaxy S21 FE,69999,8,256,6.4,4500,12,Snapdragon 888,Android,True,True,True,2021,Bhaktapur,Good,0
+Apple,iPhone 13,79999,4,256,6.1,3240,12,Apple A15,iOS,True,True,False,2021,Kathmandu,Like New,24
+Oppo,Find X5,45999,8,256,6.55,4800,50,MediaTek Dimensity 9000,Android,True,True,True,2022,Birgunj,Brand New,12
+Realme,Narzo 50,14999,6,128,6.6,5000,48,Helio G96,Android,True,True,True,2022,Dharan,Good,6
+Nokia,G60,18999,6,128,6.5,6000,50,Snapdragon 695,Android,True,False,True,2023,Butwal,Like New,12
+Huawei,Nova 11,23999,8,256,6.8,4500,50,Kirin 9000L,Android,True,True,True,2022,Kathmandu,Good,9
+Infinix,Note 12 G96,14999,4,64,6.52,5000,50,Helio G96,Android,True,True,False,2022,Janakpur,Fair,3
+Tecno,Pova Neo 3,8999,3,64,6.6,6000,50,Unisoc T612,Android,False,True,False,2023,Hetauda,Brand New,0
+Samsung,Galaxy A34,29999,8,128,6.4,5000,48,Exynos 1280,Android,True,True,True,2023,Pokhara,Like New,12
+Apple,iPhone 12,59999,4,128,6.1,2815,12,Apple A14,iOS,False,True,True,2020,Lalitpur,Good,6
+Xiaomi,Poco X5 Pro,36999,8,256,6.67,5065,108,Snapdragon 778G,Android,True,True,True,2023,Biratnagar,Brand New,12
+Vivo,V27,31999,8,128,6.64,4500,50,MediaTek Dimensity 720,Android,True,True,True,2022,Kathmandu,Like New,12
+Oppo,A57s,19999,4,128,6.56,5000,50,Snapdragon 680,Android,False,False,True,2021,Dharan,Good,6
+Nokia,G21,14999,3,64,6.52,5050,13,Unisoc T606,Android,False,False,True,2022,Kathmandu,Fair,0
+Samsung,Galaxy M14,15999,4,128,6.4,6000,50,Exynos 1330,Android,True,True,True,2023,Birgunj,Brand New,24
+Realme,C55,17999,6,128,6.56,6000,50,MediaTek Helio G88,Android,True,True,True,2023,Kathmandu,Like New,12
+Infinix,Note 13,19999,8,256,6.8,5000,64,Helio G96,Android,True,True,True,2023,Janakpur,Brand New,18
+Tecno,Camon 19,13999,4,128,6.52,5000,50,Helio G85,Android,False,False,True,2021,Kathmandu,Good,9
+Samsung,Galaxy A54 5G,35999,8,128,6.4,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Redmi Note 12 Pro,17999,6,128,6.67,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2023,Pokhara,Brand New,12
+OnePlus,Nord 3,28999,12,256,6.74,4500,50,MediaTek Dimensity 9000,Android,True,True,True,2023,Lalitpur,Good,18
+Samsung,Galaxy S21,74999,8,256,6.2,4000,108,Exynos 2100,Android,True,True,True,2021,Biratnagar,Good,0
+Apple,iPhone 13,89999,4,128,6.1,3240,12,Apple A15,iOS,True,True,False,2021,Kathmandu,Like New,12
+Realme,9 Pro+,21999,8,128,6.4,4500,108,MediaTek Dimensity 920,Android,True,True,True,2022,Dharan,Like New,6
+Samsung,Galaxy A34 5G,30999,6,128,6.5,5000,48,Exynos 1280,Android,True,True,True,2023,Butwal,Brand New,24
+Oppo,A96,18999,6,128,6.59,5000,50,Snapdragon 680,Android,False,True,True,2022,Janakpur,Good,12
+Nokia,G50,14999,4,64,6.52,5000,48,Unisoc,Android,False,False,False,2021,Birgunj,Fair,0
+Infinix,Note 12i,12999,4,64,6.6,5000,50,Unisoc,Android,False,False,True,2023,Kathmandu,Brand New,24
+Huawei,Nova 9 SE,25999,8,256,6.78,4000,108,Kirin 985,Android,True,False,True,2022,Pokhara,Like New,12
+Tecno,Pova 5 Pro,14999,6,128,6.8,7000,50,MediaTek Helio G99,Android,True,True,True,2023,Lalitpur,Brand New,0
+Samsung,Galaxy M14,19999,4,64,6.6,6000,50,Exynos 1330,Android,True,True,True,2023,Kathmandu,Brand New,12
+Apple,iPhone 12,79999,4,128,6.1,2815,12,Apple A14,iOS,True,True,False,2020,Bhaktapur,Good,6
+Xiaomi,Poco X5 Pro,28999,8,256,6.67,5000,108,Snapdragon 778G,Android,True,True,True,2023,Biratnagar,Like New,12
+Vivo,V27,33999,12,256,6.64,4600,50,Dimensity 7200,Android,True,True,True,2023,Dharan,Brand New,24
+Realme,GT Neo 3T,19999,6,128,6.7,4500,50,MediaTek Dimensity 8100,Android,True,True,True,2022,Butwal,Good,6
+Nokia,G22,10999,3,32,6.52,5000,13,Unisoc,Android,False,False,False,2022,Hetauda,Fair,0
+Oppo,Find X5 Lite,44999,12,256,6.55,4500,108,Snapdragon 8 Gen 1,Android,True,True,True,2022,Janakpur,Like New,12
+Samsung,Galaxy A54,37999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,12
+Xiaomi,Redmi Note 12 Pro,18999,6,128,6.67,5200,108,MediaTek Helio G96,Android,True,True,True,2022,Pokhara,Like New,12
+OnePlus,Nord CE 3 Lite,26999,8,256,6.72,5000,108,Snapdragon 782G,Android,True,True,True,2023,Lalitpur,Good,6
+Apple,iPhone 13,79999,4,256,6.1,3240,12,A15 Bionic,iOS,True,True,False,2021,Kathmandu,Like New,12
+Samsung,Galaxy M14,17999,4,128,6.6,6000,50,Exynos 133,Android,True,False,True,2024,Birgunj,Brand New,18
+Realme,Narzo 60 Pro,21999,8,256,6.7,4800,108,MediaTek Dimensity 720,Android,True,True,True,2024,Dharan,Good,12
+Nokia,X300,14999,4,64,6.51,4500,48,Snapdragon 720G,Android,False,False,True,2020,Butwal,Fair,0
+Oppo,A58s,19999,6,128,6.56,5000,50,MediaTek Helio G85,Android,False,True,True,2022,Kathmandu,Like New,6
+Vivo,Y65,14999,4,64,6.58,5000,50,MediaTek Dimensity 700,Android,True,True,True,2023,Janakpur,Brand New,12
+Infinix,Note 30 Pro,17999,8,256,6.8,5500,108,Helio G96,Android,True,True,True,2023,Biratnagar,Good,12
+Tecno,Pova 5,16999,8,128,6.8,6000,50,Helio G99,Android,True,True,True,2022,Kathmandu,Brand New,12
+Samsung,Galaxy F14,29999,6,128,6.4,6000,64,Exynos 1280,Android,True,True,True,2023,Pokhara,Like New,9
+Apple,iPhone SE (2022),57999,4,128,4.7,1821,12,A15 Bionic,iOS,True,False,True,2022,Kathmandu,Good,12
+Nokia,4.2 Plus,9999,2,32,5.5,3200,8,Snapdragon 212,Android,False,False,False,2020,Lalitpur,Fair,0
+Huawei,P50 Pro,68999,8,256,6.6,4200,50,Kirin 9000E,Android,True,True,True,2021,Kathmandu,Like New,24
+Xiaomi,Poco X5 Pro,34999,8,256,6.67,5080,108,Snapdragon 778G,Android,True,True,True,2023,Dharan,Brand New,12
+Realme,GT 2 Pro,46999,12,256,6.7,5000,50,Snapdragon 8 Gen 1,Android,True,True,True,2022,Kathmandu,Like New,12
+Samsung,Galaxy A03s,10999,3,32,6.5,5000,13,Unisoc T606,Android,False,False,True,2021,Butwal,Fair,6
+Samsung,Galaxy A54 5G,37999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,12
+Apple,iPhone 13 Mini,94999,4,128,5.4,2815,12,Apple A15,iOS,True,True,False,2021,Lalitpur,Like New,12
+Xiaomi,Redmi Note 12 Pro,22999,6,128,6.67,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2023,Birgunj,Brand New,24
+Oppo,F21 Pro+,28999,8,256,6.4,4500,64,MediaTek Dimensity 900,Android,True,True,True,2022,Pokhara,Good,12
+Vivo,V21e,16999,4,64,6.3,4500,50,MediaTek Helio G90,Android,False,False,True,2021,Kathmandu,Fair,6
+Realme,Realme 11 Pro,23999,8,256,6.4,5000,108,MediaTek Dimensity 1200,Android,True,True,True,2023,Dharan,Brand New,12
+OnePlus,Nord CE 3,31999,8,128,6.7,4500,64,Snapdragon 782G,Android,True,True,True,2022,Butwal,Like New,12
+Nokia,G50,14999,4,64,6.52,5000,48,Unisoc T606,Android,False,False,True,2022,Biratnagar,Good,6
+Huawei,P50,25999,8,256,6.5,4200,50,Kirin 9000E,Android,True,True,True,2021,Janakpur,Good,12
+Infinix,Note 12 VIP,13999,6,128,6.78,5000,108,MediaTek Helio G96,Android,True,True,True,2023,Kathmandu,Brand New,0
+Tecno,Pova 5G,11999,4,64,6.6,6000,50,MediaTek Dimensity 700,Android,True,True,True,2021,Bhaktapur,Fair,3
+Samsung,Galaxy M14,16999,4,128,6.6,6000,50,Exynos 1330,Android,True,True,True,2023,Pokhara,Brand New,12
+Apple,iPhone 12,71999,4,128,6.1,2810,12,Apple A14,iOS,True,True,True,2020,Lalitpur,Like New,24
+Xiaomi,Poco X5 Pro,28999,8,256,6.67,4800,108,Snapdragon 778G,Android,True,True,True,2022,Kathmandu,Like New,12
+Oppo,Reno9,34999,12,256,6.4,4600,64,Snapdragon 778G,Android,True,True,True,2023,Kathmandu,Brand New,12
+Vivo,Y72,14999,4,128,6.5,5000,50,MediaTek Helio G80,Android,False,False,True,2020,Dharan,Good,6
+Nokia,G22,9999,3,32,6.52,5050,13,Unisoc T606,Android,False,False,True,2020,Butwal,Fair,0
+Realme,C55,14999,4,64,6.6,5000,50,Mediatek Helio G85,Android,True,True,True,2021,Hetauda,Good,12
+Samsung,Galaxy A34,38999,8,128,6.6,5100,48,Exynos 1280,Android,True,True,True,2023,Janakpur,Brand New,12
+Apple,iPhone SE (2022),55999,4,64,4.7,2011,12,Apple A15,iOS,True,True,False,2022,Kathmandu,Like New,12
+Tecno,Camon 19 Neo,10999,4,64,6.6,5000,48,Unisoc T606,Android,True,False,True,2022,Birgunj,Fair,6
+Samsung,Galaxy A34 5G,27999,6,128,6.5,5000,48,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,12
+Xiaomi,Redmi Note 12 Pro,23999,6,128,6.67,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2023,Pokhara,Like New,12
+Realme,Realme 12 5G,18999,8,256,6.5,4500,64,Dimensity 1080,Android,True,True,True,2023,Lalitpur,Good,6
+Samsung,Galaxy M14,14999,4,64,6.6,6000,50,Exynos 1330,Android,True,True,True,2023,Biratnagar,Brand New,12
+OnePlus,Nord N30,25999,8,128,6.74,4200,50,Snapdragon 695,Android,True,True,True,2023,Dharan,Like New,9
+Nokia,G21,13999,4,64,6.5,5000,50,Unisoc T606,Android,False,False,True,2022,Butwal,Good,12
+Apple,iPhone SE (2022),79999,4,128,4.7,1821,12,Apple A15,iOS,True,True,False,2022,Kathmandu,Brand New,12
+Oppo,F23 5G,32999,8,256,6.7,5000,50,Snapdragon 782G,Android,True,True,True,2023,Janakpur,Like New,12
+Vivo,Y27,19999,6,128,6.64,4700,50,MediaTek Dimensity 700,Android,True,True,True,2023,Kathmandu,Good,6
+Huawei,Nova 11,35999,8,256,6.8,4200,50,Kirin 990E,Android,True,False,True,2023,Pokhara,Like New,12
+Infinix,Note 13,16999,6,128,6.6,5000,64,Helio G99,Android,True,True,True,2023,Birgunj,Fair,6
+Tecno,Povey X5,12999,4,64,6.4,5000,18,Helio G88,Android,False,True,False,2022,Hetauda,Fair,0
+Samsung,Galaxy A16,19999,6,128,6.5,4500,48,Unisoc,Android,False,False,True,2022,Kathmandu,Good,12
+Xiaomi,Poco X5 Pro,33999,8,256,6.67,4860,108,Snapdragon 778G,Android,True,True,True,2023,Biratnagar,Brand New,12
+Nokia,G42,17999,6,128,6.52,5000,50,Snapdragon 480,Android,False,True,True,2022,Dharan,Like New,6
+Realme,Narzo 60,14999,4,64,6.5,4500,32,Dimensity 6020,Android,True,True,True,2022,Butwal,Good,12
+Apple,iPhone 13 Mini,109999,4,128,5.4,3095,12,Apple A15,iOS,True,True,False,2021,Kathmandu,Like New,12
+Oppo,A58s,15999,3,32,6.56,5000,50,MediaTek Helio G85,Android,False,True,True,2021,Janakpur,Fair,6
+Vivo,V27e,27999,8,128,6.64,4600,50,MediaTek Dimensity 720,Android,True,True,True,2024,Lalitpur,Brand New,24
+Infinix,Note 12 Pro,23999,6,128,6.6,5200,108,MediaTek Helio G80,Android,False,True,True,2023,Kathmandu,Brand New,12
+Samsung,Galaxy A54 5G,49999,6,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Poco X5 Pro,34999,8,128,6.67,5160,108,Snapdragon 778G,Android,True,True,True,2023,Lalitpur,Brand New,24
+Samsung,Galaxy M14,19999,4,128,6.6,6000,50,Exynos 1330,Android,True,False,True,2022,Birgunj,Good,12
+Realme,Narzo 60 Pro,26999,8,256,6.6,5000,108,MediaTek Dimensity 6020,Android,True,True,True,2023,Pokhara,Like New,18
+Apple,iPhone 13,79999,4,128,6.1,0,12,Apple A15,iOS,True,True,False,2021,Kathmandu,Good,12
+OnePlus,Nord 3,35999,8,256,6.74,4500,50,MediaTek Dimensity 9000,Android,True,True,True,2023,Dharan,Brand New,24
+Nokia,G21,14999,4,64,6.5,5050,50,Unisoc T606,Android,False,False,True,2022,Butwal,Good,6
+Samsung,Galaxy S21 FE,69999,8,256,6.4,4500,12,Snapdragon 888,Android,True,True,True,2021,Kathmandu,Fair,0
+Huawei,Nova 11,28999,8,128,6.7,4200,64,Kirin 985,Android,True,True,True,2023,Biratnagar,Like New,12
+Infinix,Note 13 Pro,16999,6,128,6.8,6000,108,MediaTek Helio G96,Android,True,True,False,2022,Janakpur,Good,12
+Tecno,Pova 5,11999,4,64,6.52,6000,48,Unisoc T616,Android,True,True,False,2022,Kathmandu,Brand New,6
+Samsung,Galaxy A34 5G,37999,8,256,6.6,5000,48,Exynos 1280,Android,True,True,True,2023,Lalitpur,Like New,14
+Xiaomi,Redmi Note 12,19999,6,128,6.67,5000,50,Snapdragon 4 Gen 1,Android,True,True,True,2022,Kathmandu,Fair,9
+Oppo,A57s,23999,8,128,6.56,5100,67,MediaTek Helio G85,Android,False,True,True,2023,Pokhara,Brand New,12
+Vivo,Y76,18999,6,128,6.56,4500,50,MediaTek Dimensity 700,Android,True,True,True,2022,Dharan,Good,9
+Nokia,X30,32999,8,256,6.5,4500,50,Snapdragon 778G,Android,True,True,True,2023,Birgunj,Like New,12
+Apple,iPhone SE (3rd Gen),55999,4,128,4.7,1821,12,Apple A15,iOS,True,True,True,2022,Kathmandu,Good,12
+Realme,GT 2 Pro,44999,12,256,6.7,5000,50,Snapdragon 8 Gen 1,Android,True,True,True,2022,Butwal,Like New,18
+Samsung,Galaxy A32,17999,4,64,6.4,5000,64,Exynos 850,Android,False,False,True,2021,Hetauda,Fair,0
+Oppo,Find X4 Pro,89999,12,512,6.7,5200,108,Snapdragon 8 Gen 1,Android,True,True,True,2024,Janakpur,Brand New,24
+Nokia,X50,25999,6,128,6.4,4400,48,MediaTek,Android,True,False,True,2021,Kathmandu,Good,6
+Samsung,Galaxy A54 5G,34999,8,128,6.5,5000,50,Snapdragon 720,Android,True,True,True,2023,Kathmandu,Like New,12
+Apple,iPhone 13,89999,4,128,6.1,3240,12,Apple A15,iOS,True,True,False,2021,Lalitpur,Good,6
+Xiaomi,Redmi Note 12 Pro,23999,6,128,6.6,5000,108,MediaTek Helio G96,Android,True,True,True,2022,Pokhara,Brand New,12
+Oppo,F21 Pro,28999,8,256,6.4,4500,64,MediaTek Dimensity 900,Android,True,True,True,2022,Birgunj,Like New,9
+Realme,Realme 11 Pro,21999,6,128,6.5,5000,50,MediaTek Helio G99,Android,True,True,True,2023,Dharan,Good,12
+Samsung,Galaxy M14,15999,4,64,6.5,6000,50,Exynos 850,Android,False,False,True,2024,Butwal,Brand New,24
+Nokia,Nokia X30,79999,8,256,6.4,4500,64,Snapdragon 778G,Android,True,True,True,2023,Kathmandu,Like New,12
+OnePlus,OnePlus Nord 3,51999,12,256,6.72,4500,50,MediaTek Dimensity 9200,Android,True,True,True,2023,Janakpur,Good,12
+Huawei,Nova 12,27999,8,128,6.3,4200,60,Kirin,Android,False,False,True,2022,Biratnagar,Fair,6
+Infinix,Infinix Note 13,14999,4,64,6.5,5000,50,Unisoc SC9863,Android,False,True,False,2021,Hetauda,Fair,0
+Tecno,Tecno Camon 20 Pro,17999,6,128,6.6,5000,64,MediaTek Helio G99,Android,True,True,True,2023,Kathmandu,Like New,12
+Samsung,Galaxy A14,19999,4,128,6.6,5000,50,Exynos 108,Android,True,False,True,2023,Pokhara,Good,12
+Apple,iPhone SE (3rd Gen),45999,4,128,4.7,2968,12,Apple A15,iOS,True,True,True,2022,Lalitpur,Like New,12
+Xiaomi,Poco X5 Pro,32999,8,256,6.67,5160,108,Snapdragon 778G,Android,True,True,True,2023,Kathmandu,Brand New,18
+Oppo,Reno9 5G,39999,12,256,6.7,4500,108,Snapdragon 778G,Android,True,True,True,2022,Birgunj,Like New,12
+Vivo,Vivo V25,37999,8,128,6.44,4500,64,MediaTek Dimensity 900,Android,True,True,True,2023,Dharan,Good,9
+Samsung,Galaxy S22 FE,79999,8,256,6.4,4500,50,Exynos 2100,Android,True,True,True,2022,Kathmandu,Like New,18
+Nokia,Nokia G22,14999,4,64,6.52,5050,13,Unisoc,Android,False,False,False,2023,Janakpur,Brand New,6
+Realme,Narzo N55,14999,4,64,6.56,5500,64,MediaTek Helio G85,Android,False,True,True,2022,Pokhara,Good,12
+Infinix,Hot 20i,9999,3,32,6.1,5000,8,Unisoc,Android,False,False,False,2021,Hetauda,Fair,0
+Tecno,Tecno Spark 10 Pro,13999,6,128,6.8,6000,50,MediaTek Helio G85,Android,False,True,True,2022,Butwal,Brand New,12
+Samsung,Galaxy A54,23999,8,128,6.5,5000,50,Exynos,Android,True,True,True,2023,Kathmandu,Brand New,12
+Xiaomi,Redmi Note 12 Pro,19999,6,128,6.6,5080,50,MediaTek Helio,Android,True,True,True,2023,Lalitpur,Like New,6
+Realme,Narzo 60 Pro,15999,8,256,6.4,4500,108,MediaTek Dimensity,Android,True,True,True,2022,Pokhara,Good,12
+OnePlus,Nord CE 3,29999,12,256,6.7,4800,64,Snapdragon 782G,Android,True,True,True,2023,Biratnagar,Brand New,18
+Apple,iPhone 13,89999,4,128,6.1,3095,12,Apple A15,iOS,True,True,False,2021,Kathmandu,Like New,24
+Samsung,Galaxy S22,64999,8,256,6.1,3700,50,Exynos 2200,Android,True,True,True,2022,Dharan,Good,12
+Huawei,P50 Pro,45999,8,128,6.5,4200,50,Kirin,Android,True,False,True,2022,Butwal,Good,12
+Nokia,X30,34999,6,128,6.5,4500,50,Snapdragon 732,Android,True,False,True,2023,Kathmandu,Like New,12
+Oppo,A1 Pro,21999,8,128,6.4,4500,64,Mediatek Helio,Android,True,True,True,2023,Janakpur,Brand New,24
+Vivo,V27,27999,12,256,6.64,4600,50,Dimensity 8100,Android,True,True,True,2023,Pokhara,Brand New,12
+Infinix,Hot 11S,10999,4,64,6.6,5000,48,Helio,Android,False,True,False,2021,Birgunj,Fair,0
+Tecno,Pov smartphone,9999,3,32,5.8,5000,13,Helio,Android,False,True,False,2020,Hetauda,Fair,0
+Samsung,Galaxy A34,34999,8,128,6.6,5000,48,Exynos,Android,True,True,True,2023,Lalitpur,Brand New,12
+Apple,iPhone 14,119999,6,256,6.1,3279,12,Apple A15,iOS,True,True,True,2022,Kathmandu,Brand New,24
+Xiaomi,Poco X5,30999,8,256,6.67,5000,108,Snapdragon 778G,Android,True,True,True,2023,Biratnagar,Like New,12
+Nokia,X30 5G,27999,8,256,6.52,4200,50,Snapdragon 695,Android,True,False,True,2023,Dharan,Good,12
+Realme,C55,14999,4,128,6.6,5000,50,Unisoc,Android,True,True,False,2023,Butwal,Brand New,6
+Oppo,Find N2,89999,12,512,6.8,4500,108,Snapdragon 8+ Gen 1,Android,True,True,True,2022,Kathmandu,Like New,12
+Samsung,Galaxy Z Flip4,129999,8,256,6.7,3700,12,Snapdragon 8+ Gen 1,Android,True,True,True,2022,Kathmandu,Brand New,24
+Samsung,Galaxy A54 5G,28999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Redmi Note 12 Pro,19999,6,128,6.6,5100,108,MediaTek Dimensity 1080,Android,True,True,True,2022,Lalitpur,Brand New,12
+Realme,Realme 11 Pro+,32999,8,256,6.7,6000,108,MediaTek Helio G99,Android,True,True,True,2023,Birgunj,Like New,18
+Samsung,Galaxy S22,74999,8,256,6.1,3700,50,Snapdragon 8 Gen1,Android,True,True,True,2022,Kathmandu,Good,24
+Oppo,Find X5,67999,12,256,6.55,4800,108,MediaTek Dimensity 9000,Android,True,True,True,2023,Pokhara,Brand New,24
+Apple,iPhone 14,109999,4,256,6.1,3279,12,Apple A15,iOS,True,True,True,2022,Lalitpur,Like New,12
+Nokia,Nokia G21,14999,4,64,6.5,5050,50,Unisoc,Android,False,False,False,2021,Kathmandu,Good,6
+Infinix,Infinix Zero Ultra,25999,12,256,6.8,4500,200,MediaTek Dimensity 920,Android,True,True,True,2023,Butwal,Brand New,12
+Samsung,Galaxy A14,16999,4,128,6.6,5000,50,Exynos 1280,Android,True,True,True,2022,Dharan,Fair,0
+Tecno,Pov: Spark 10 Pro,12999,6,128,6.6,5000,50,Helio A25,Android,False,False,False,2022,Biratnagar,Good,6
+Vivo,Vivo Y76,21999,8,128,6.58,4500,50,Snapdragon 680,Android,True,True,True,2022,Kathmandu,Like New,12
+OnePlus,Nord 3,29999,12,256,6.74,4500,100,MediaTek Dimensity 9000,Android,True,True,True,2023,Janakpur,Brand New,24
+Huawei,Nova 11,23999,8,256,6.7,4200,64,Kirin,Android,False,False,True,2021,Kathmandu,Good,12
+Samsung,Galaxy M34,19999,8,128,6.5,6000,50,Exynos 7904,Android,True,True,True,2023,Pokhara,Brand New,24
+Xiaomi,Poco X5 Pro,25999,8,256,6.67,5100,108,Snapdragon 7 Gen 1,Android,True,True,True,2023,Kathmandu,Like New,12
+Realme,Narzo N55,14999,4,64,6.52,5000,50,Mediatek Helio G85,Android,False,False,True,2022,Hetauda,Good,6
+Nokia,Nokia X30,79999,8,256,6.55,4200,50,Snapdragon 888,Android,True,False,True,2023,Janakpur,Like New,18
+Oppo,Reno9,35999,12,256,6.7,4800,80,MediaTek Dimensity 900,Android,True,True,True,2022,Birgunj,Brand New,24
+Apple,iPhone 13,94999,4,512,6.1,3095,12,Apple A15,iOS,True,True,True,2021,Kathmandu,Good,12
+Samsung,Galaxy A72,32999,8,256,6.7,5000,64,Snapdragon 720G,Android,False,True,True,2021,Pokhara,Like New,12
+Samsung,Galaxy A34 5G,22999,8,128,6.5,5000,48,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,12
+Xiaomi,Redmi Note 12 Pro,21999,6,128,6.67,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2023,Lalitpur,Like New,6
+Realme,Narzo 50 Pro,17999,8,256,6.6,5000,50,MediaTek Dimensity 920,Android,True,True,True,2022,Pokhara,Good,12
+Oppo,A57,14999,4,128,6.56,5000,50,MediaTek Helio G85,Android,False,True,True,2022,Birgunj,Good,9
+Samsung,Galaxy M14,18999,6,128,6.6,6000,50,Exynos 1330,Android,True,True,True,2023,Biratnagar,Brand New,12
+Nokia,G21,9999,3,64,6.52,5050,50,Unisoc,Android,False,False,True,2022,Janakpur,Fair,0
+Apple,iPhone SE (3rd Gen),59999,4,128,4.7,1821,12,Apple A15,iOS,True,True,False,2022,Kathmandu,Like New,12
+OnePlus,Nord CE 3,34999,8,256,6.74,5000,108,Snapdragon 782G,Android,True,True,True,2023,Pokhara,Brand New,12
+Huawei,P60 Pro,69999,12,512,6.8,4800,50,Kirin 9000,Android,True,True,True,2023,Dharan,Like New,12
+Vivo,Y76 5G,26999,8,256,6.64,4500,64,MediaTek Dimensity 920,Android,True,True,True,2023,Kathmandu,Brand New,12
+Samsung,Galaxy A14,15999,4,128,6.6,5000,48,Exynos 1330,Android,True,True,True,2023,Lalitpur,Good,6
+Xiaomi,Poco X5,16999,6,128,6.67,5100,48,Snapdragon 695,Android,True,False,True,2023,Bhaktapur,Like New,12
+Tecno,Pova 5 Pro,10999,4,64,6.8,6000,48,MediaTek Helio,Android,True,True,False,2024,Butwal,Brand New,24
+Infinix,Note 30 Pro,12999,6,128,6.78,5000,50,MediaTek Helio G99,Android,True,True,True,2022,Hetauda,Fair,0
+Samsung,Galaxy A53,35999,8,256,6.5,5000,108,Exynos 1280,Android,True,True,True,2022,Janakpur,Like New,12
+Nokia,G22,8999,3,32,6.52,5000,13,Unisoc,Android,False,False,True,2022,Kathmandu,Fair,0
+Apple,iPhone 14,114999,6,256,6.1,3279,12,Apple A15,iOS,True,True,True,2022,Kathmandu,Brand New,12
+Oppo,Find X5,32999,8,256,6.7,4800,108,Snapdragon 8 Gen 1,Android,True,True,True,2023,Biratnagar,Like New,12
+Vivo,Y72,19999,4,128,6.51,4500,50,MediaTek Dimensity 700,Android,True,False,True,2021,Dharan,Good,6
+Samsung,Galaxy A54 5G,34999,8,128,6.5,5000,50,Snapdragon 778G,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Redmi Note 12 Pro,19999,6,128,6.67,5000,50,MediaTek Dimensity 1080,Android,True,True,True,2023,Pokhara,Brand New,12
+OnePlus,Nord 3,29999,8,256,6.74,4500,64,Dimensity 9000,Android,True,True,True,2023,Lalitpur,Like New,18
+Realme,GT 5G,25999,8,128,6.5,4500,108,MediaTek Dimensity 920,Android,True,True,True,2024,Biratnagar,Brand New,12
+Samsung,Galaxy S20 FE,45000,8,128,6.5,4500,12,Snapdragon 865,Android,True,True,True,2020,Dharan,Good,0
+Apple,iPhone SE (3rd Gen),65999,4,128,4.7,2821,12,Apple A15,iOS,True,True,False,2022,Kathmandu,Good,12
+Nokia,G50,14999,6,64,6.52,5000,48,Qualcomm,Android,True,False,True,2022,Butwal,Fair,6
+Oppo,A96,21999,8,128,6.59,5000,50,MediaTek Helio,Android,True,True,True,2023,Kathmandu,Like New,12
+Vivo,V27e,23999,8,256,6.62,4600,50,MediaTek Dimensity 710,Android,True,True,True,2024,Pokhara,Brand New,18
+Infinix,Note 12,8999,4,64,6.0,5000,48,Unisoc,Android,False,False,False,2023,Birgunj,Brand New,6
+Tecno,Pova 5G,12999,6,128,6.8,7000,50,MediaTek Dimensity 900,Android,True,True,True,2022,Hetauda,Good,0
+Samsung,Galaxy A14,18999,4,128,6.6,5000,50,Samsung Exynos 850,Android,False,False,True,2023,Janakpur,Brand New,24
+Apple,iPhone 14,129999,6,256,6.1,3279,12,Apple A15,iOS,True,True,True,2022,Kathmandu,Like New,24
+Xiaomi,Poco X5 Pro,35999,8,256,6.67,5000,108,Snapdragon 778G,Android,True,True,True,2023,Lalitpur,Like New,12
+Realme,8 Pro,16999,6,128,6.4,4500,50,Mediatek Helio,Android,True,True,True,2021,Biratnagar,Good,6
+Huawei,Nova 10,29999,8,128,6.7,4300,60,Kirin 980,Android,False,False,True,2021,Dharan,Fair,0
+Nokia,G60,25999,6,128,6.52,6000,50,Snapdragon 695,Android,True,True,True,2023,Butwal,Like New,12
+Samsung,Galaxy M14 5G,19999,6,128,6.6,6000,50,Exynos 1330,Android,True,True,True,2024,Kathmandu,Brand New,24
+Oppo,Find X5 Lite,45999,12,256,6.55,5000,108,Snapdragon 8 Gen 1,Android,True,True,True,2023,Pokhara,Like New,18
+Samsung,Galaxy A54 5G,39999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Like New,12
+Apple,iPhone 12,79999,4,128,6.1,2815,12,A14 Bionic,iOS,True,True,False,2020,Lalitpur,Good,6
+Xiaomi,Redmi Note 12,19999,6,128,6.6,5000,50,MediaTek Helio G96,Android,True,True,True,2022,Birgunj,Brand New,12
+Oppo,A57,15999,4,64,6.56,5000,48,MediaTek Helio G37,Android,False,True,True,2022,Kathmandu,Like New,6
+Vivo,Y33s,24999,6,128,6.58,5000,50,Qualcomm Snapdragon 680,Android,True,True,True,2022,Pokhara,Good,12
+Realme,Narzo 60 Pro,34999,8,256,6.7,4800,108,MediaTek Dimensity 8020,Android,True,True,True,2023,Dharan,Like New,12
+OnePlus,Nord 3,48999,12,256,6.74,4500,50,MediaTek Dimensity 9000,Android,True,True,True,2023,Bhaktapur,Brand New,24
+Nokia,G21,14999,4,64,6.5,5050,50,Unisoc SC9863A,Android,False,False,True,2023,Biratnagar,Good,12
+Huawei,P60,89999,12,256,6.6,4400,60,Kirin 9000e,Android,True,True,True,2022,Janakpur,Like New,18
+Infinix,Note 12i,12999,4,64,6.8,5000,50,MediaTek Helio G85,Android,False,True,False,2021,Butwal,Fair,0
+Tecno,Pova Neo 2,11999,4,64,6.6,7000,16,Unisoc T606,Android,False,True,False,2022,Hetauda,Brand New,12
+Samsung,Galaxy M14,21499,4,128,6.6,6000,50,Exynos 1330,Android,True,True,True,2023,Kathmandu,Good,12
+Samsung,Galaxy S23 FE,109999,8,256,6.4,4200,50,Snapdragon 8 Gen 1,Android,True,True,True,2023,Pokhara,Brand New,24
+Apple,iPhone SE (3rd Gen),54999,4,128,4.7,1960,12,A15 Bionic,iOS,True,True,True,2022,Lalitpur,Like New,12
+Xiaomi,Poco X5 Pro,39999,8,256,6.67,4860,108,Snapdragon 778G,Android,True,True,True,2023,Kathmandu,Brand New,24
+Oppo,Find X5,87999,12,512,6.78,5000,108,MediaTek Dimensity 9200,Android,True,True,True,2023,Janakpur,Like New,18
+Vivo,V27 5G,69999,12,256,6.64,4600,50,MediaTek Dimensity 7200,Android,True,True,True,2023,Dharan,Brand New,24
+Nokia,N60,25999,6,128,6.5,4500,60,Snapdragon 732G,Android,False,True,True,2022,Birgunj,Good,12
+Realme,C55,16999,4,64,6.5,5000,50,MediaTek Helio G85,Android,False,True,True,2022,Kathmandu,Fair,6
+Tecno,Pova 4,14999,3,64,6.5,6000,50,Unisoc T606,Android,False,True,False,2023,Pokhara,Brand New,12
+Samsung,Galaxy A14,18999,4,128,6.6,5000,50,Exynos 850,Android,True,True,True,2021,Kathmandu,Good,12
+Samsung,Galaxy A54 5G,39999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2022,Kathmandu,Like New,12
+Xiaomi,Redmi Note 12 Pro,29999,8,256,6.6,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2023,Biratnagar,Brand New,24
+Oppo,A54s,19999,6,128,6.52,5000,50,MediaTek Helio G35,Android,False,False,True,2022,Birgunj,Good,12
+Realme,Narzo 50A,13999,4,64,6.59,6000,50,MediaTek Helio G85,Android,False,False,True,2021,Pokhara,Good,6
+Samsung,Galaxy S23,115000,12,256,6.1,3900,50,Snapdragon 8 Gen 2,Android,True,True,True,2023,Lalitpur,Brand New,24
+Apple,iPhone 14,129999,4,128,6.1,3279,12,Apple A15,iOS,True,True,False,2022,Kathmandu,Brand New,24
+Nokia,G21,13999,4,64,6.5,5050,50,Unisoc T606,Android,False,False,True,2021,Dharan,Good,12
+Vivo,Y33s,21999,6,128,6.58,5000,50,MediaTek Helio G80,Android,True,True,True,2022,Janakpur,Like New,12
+Tecno,Pova Neo 2,8999,3,64,6.6,5000,50,Unisoc T606,Android,False,True,True,2024,Butwal,Brand New,0
+Infinix,Note 30,15999,4,64,6.7,5000,50,MediaTek Helio G85,Android,False,True,True,2023,Kathmandu,Good,12
+Samsung,Galaxy A14,18999,4,128,6.6,5000,50,Exynos 1330,Android,True,True,True,2023,Bhaktapur,Like New,12
+OnePlus,Nord 3,34999,8,256,6.74,4500,64,MediaTek Dimensity 9000,Android,True,True,True,2023,Kathmandu,Brand New,24
+Huawei,P50 Pro,89999,8,256,6.5,4300,50,Kirin 9000E,Android,True,False,True,2022,Lalitpur,Like New,12
+Samsung,Galaxy M14,14999,4,128,6.6,6000,50,Exynos 1330,Android,True,True,True,2023,Pokhara,Fair,6
+Xiaomi,Poco X5,26999,8,256,6.67,5160,108,Snapdragon 778G,Android,True,True,True,2023,Kathmandu,Like New,12
+Realme,GT Neo 3T,25999,12,256,6.62,4500,64,MediaTek Dimensity 8100,Android,True,True,True,2022,Birgunj,Brand New,24
+Nokia,X20,17999,6,128,6.5,4500,48,Qualcomm Snapdragon 460,Android,False,False,True,2022,Dharan,Good,12
+Samsung,Galaxy A34,34999,8,128,6.6,5000,48,Exynos 1380,Android,True,True,True,2023,Hetauda,Like New,12
+Apple,iPhone 13,99999,4,256,6.1,3095,12,Apple A15,iOS,True,True,True,2021,Janakpur,Good,12
+Infinix,Note 12,14999,6,128,6.5,5000,50,MediaTek Helio G96,Android,True,True,True,2022,Kathmandu,Fair,6
+Tecno,Spark 10 Pro,10999,4,64,6.52,5000,50,Unisoc T606,Android,True,False,True,2023,Pokhara,Brand New,12
+Samsung,Galaxy S21 FE,64999,8,128,6.4,4500,12,Snapdragon 888,Android,True,True,True,2021,Kathmandu,Good,12
+Samsung,Galaxy A54 5G,39999,8,128,6.5,5000,50,Exynos 1380,Android,True,True,True,2023,Kathmandu,Brand New,12
+Apple,iPhone 14,119999,4,128,6.1,3279,12,Apple A15,iOS,True,True,False,2022,Lalitpur,Like New,12
+Xiaomi,Redmi Note 13 Pro,34999,8,256,6.67,5200,108,MediaTek Dimensity 720,Android,True,True,True,2024,Pokhara,Brand New,24
+Oppo,Reno 8T,29999,6,128,6.4,4500,50,MediaTek Helio G99,Android,True,True,True,2023,Birgunj,Good,12
+Vivo,Vivo X90,69999,12,256,6.56,4600,50,Snapdragon 8 Gen 1,Android,True,True,True,2023,Kathmandu,Like New,6
+Realme,Realme GT Neo 5,37999,8,128,6.7,5000,64,MediaTek Dimensity 1200,Android,True,True,True,2023,Dharan,Brand New,12
+OnePlus,OnePlus Nord 3,39999,8,256,6.74,4500,50,Snapdragon 782G,Android,True,True,True,2024,Butwal,Brand New,24
+Nokia,Nokia X60,21999,6,128,6.5,4200,48,Snapdragon 7c,Android,False,False,True,2021,Janakpur,Good,0
+Huawei,P50 Pro,65999,12,512,6.58,4400,50,Kirin 9000E,Android,True,True,True,2022,Kathmandu,Like New,18
+Infinix,Infinix Note 30 Pro,22999,8,256,6.7,5100,108,MediaTek Helio G99,Android,True,True,True,2023,Biratnagar,Good,12
+Tecno,Tecno Camon 19 Pro,19999,6,128,6.8,4500,64,MediaTek Helio G85,Android,True,False,True,2022,Pokhara,Fair,6
+Samsung,Galaxy M54,25999,6,128,6.6,6000,50,Exynos 1280,Android,True,True,True,2023,Dharan,Brand New,12
+Apple,iPhone SE (3rd Gen),69999,3,64,4.7,2815,12,Apple A15,iOS,True,True,True,2022,Kathmandu,Like New,12
+Xiaomi,Poco X5 Pro,29999,8,256,6.67,4700,108,Snapdragon 7 Gen 2,Android,True,True,True,2024,Kathmandu,Brand New,24
+Oppo,Find X6 Pro,89999,12,512,6.8,5000,108,Snapdragon 8 Gen 2,Android,True,True,True,2023,Birgunj,Like New,12
+Vivo,Y72 5G,25999,4,128,6.4,4100,50,MediaTek Dimensity 700,Android,True,False,True,2022,Hetauda,Good,0
+Realme,Realme 11 Pro+,44999,12,256,6.7,4800,108,MediaTek Dimensity 1200,Android,True,True,True,2024,Janakpur,Brand New,24
+Nokia,Nokia G54,14999,4,128,6.52,4500,16,Snapdragon 480,Android,False,False,True,2020,Birgunj,Fair,0
+Samsung,Galaxy A34,32999,6,128,6.4,5000,48,Exynos 1280,Android,True,True,True,2023,Pokhara,Good,12
+Samsung,Galaxy A54,39999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,12
+Apple,iPhone 13,119999,4,128,6.1,3095,12,Apple A15,iOS,True,True,False,2021,Lalitpur,Like New,6
+Xiaomi,Redmi Note 12,23999,6,128,6.6,5000,50,Snapdragon 4 Gen,Android,True,True,True,2023,Pokhara,Good,12
+Oppo,A57,21999,4,64,6.56,5000,50,MediaTek Helio G85,Android,False,True,True,2022,Birgunj,Good,6
+Vivo,Y22s,19999,4,64,6.51,5000,50,MediaTek Helio,Android,True,True,True,2022,Kathmandu,Fair,0
+Realme,Narzo 50,14999,4,128,6.5,5000,48,MediaTek Dimensity 810,Android,True,True,True,2021,Dharan,Good,9
+OnePlus,Nord N20,36999,6,128,6.43,4500,64,Snapdragon 695,Android,True,True,True,2022,Butwal,Like New,12
+Nokia,G22,15999,4,64,6.52,5050,13,Unisoc or similar,Android,False,False,True,2022,Kathmandu,Good,6
+Huawei,Nova Y70,24999,6,128,6.75,6000,50,Kirin-like,Android,True,False,True,2023,Biratnagar,Brand New,24
+Infinix,Note 12 Pro,18999,4,128,6.6,5000,50,MediaTek,Android,True,True,True,2023,Kathmandu,Brand New,12
+Tecno,Pova Neo 3,13999,4,128,6.8,6000,48,MediaTek,Android,False,True,True,2022,Janakpur,Good,6
+Samsung,Galaxy S23 FE,159999,8,256,6.4,4500,50,Snapdragon 8 Gen 1,Android,True,True,True,2023,Kathmandu,Brand New,24
+Apple,iPhone 12,89999,4,128,6.1,2815,12,Apple A14,iOS,True,True,False,2020,Lalitpur,Like New,12
+Xiaomi,Poco X5 Pro,36999,8,256,6.67,5160,108,Snapdragon 778G,Android,True,True,True,2023,Pokhara,Like New,12
+Oppo,Find X6,79999,12,256,6.8,4500,50,Snapdragon 8+,Android,True,True,True,2023,Birgunj,Brand New,24
+Vivo,V25,35999,8,256,6.44,4500,64,Dimensity 7200,Android,True,True,True,2023,Dharan,Like New,12
+Realme,8 Pro,32999,6,128,6.4,5000,108,MediaTek Dimensity 920,Android,True,True,True,2023,Butwal,Brand New,12
+Nokia,G21,16999,4,64,6.52,5000,50,Unisoc,Android,False,False,True,2021,Hetauda,Fair,0
+Samsung,Galaxy A14,18999,4,128,6.5,5000,50,Exynos 1330,Android,True,True,True,2022,Kathmandu,Good,12
+Samsung,Galaxy A54 5G,37999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,12
+Apple,iPhone 12,79999,4,128,6.1,2815,12,Apple A14,iOS,True,True,False,2020,Lalitpur,Like New,24
+Xiaomi,Redmi Note 12 Pro,28999,6,128,6.67,5000,108,MediaTek Helio G96,Android,True,True,True,2022,Pokhara,Good,12
+Oppo,F21 Pro,25999,8,256,6.4,5000,64,MediaTek Dimensity 1200,Android,True,True,True,2021,Birgunj,Good,6
+Vivo,V23e,21999,6,128,6.44,4500,50,MediaTek Dimensity 900,Android,True,True,True,2022,Dharan,Fair,3
+Realme,Realme 11 Pro,16999,6,128,6.4,5000,108,MediaTek Helio G99,Android,True,True,True,2023,Kathmandu,Brand New,12
+OnePlus,Nord CE 3 Lite,19999,8,128,6.7,5000,108,Snapdragon 695,Android,True,False,True,2023,Kathmandu,Like New,9
+Nokia,G60,14999,6,128,6.6,6150,50,Snapdragon 695,Android,True,False,True,2023,Biratnagar,Good,12
+Huawei,Nova 9 SE,19999,8,256,6.57,4200,108,Kirin 9000E,Android,True,True,True,2022,Pokhara,Fair,6
+Infinix,Note 12,13999,4,128,6.7,5000,50,MediaTek Helio G96,Android,True,True,True,2022,Butwal,Brand New,12
+Tecno,Camon 19,12999,4,64,6.4,5000,64,MediaTek Helio,Android,False,True,True,2021,Hetauda,Good,6
+Samsung,Galaxy M53 5G,35999,6,128,6.46,6000,108,Exynos 1280,Android,True,True,True,2022,Janakpur,Like New,12
+Apple,iPhone SE (3rd Gen),56999,4,128,4.7,2790,12,Apple A15,iOS,True,True,True,2022,Kathmandu,Brand New,24
+Xiaomi,Poco X5 Pro,35999,8,256,6.67,4500,108,Snapdragon 778G,Android,True,True,True,2023,Pokhara,Like New,12
+Oppo,Reno8,29999,8,256,6.55,4500,64,MediaTek Dimensity 8100,Android,True,True,True,2023,Dharan,Brand New,12
+Vivo,X90,54999,12,512,6.78,5000,50,Snapdragon 8 Gen 2,Android,True,True,True,2024,Kathmandu,Brand New,24
+Nokia,X30,25999,4,64,6.0,4500,48,Snapdragon 695,Android,True,False,True,2020,Birgunj,Fair,6
+Huawei,P50 Pro,49999,8,256,6.7,4360,50,Kirin 9000,Android,True,True,True,2021,Kathmandu,Good,12
+Infinix,Hot 20i,8999,3,32,6.5,5000,13,Unisoc,Android,False,False,False,2020,Janakpur,Fair,0
+Samsung,Galaxy A54,32999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,12
+Xiaomi,Redmi Note 12 Pro,19999,6,128,6.6,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2023,Lalitpur,Like New,12
+OnePlus,Nord N30,23999,6,128,6.72,5000,50,Snapdragon 695,Android,True,True,True,2023,Pokhara,Good,6
+Realme,Narzo 60 Pro,18999,8,128,6.6,4800,108,MediaTek Dimensity 6020,Android,True,True,True,2023,Birgunj,Brand New,12
+Samsung,Galaxy A14,14999,4,128,6.6,5000,50,Exynos 850,Android,False,False,True,2022,Kathmandu,Good,12
+Nokia,G42 5G,17999,6,128,6.6,5000,50,Snapdragon 480+,Android,True,False,True,2022,Dharan,Like New,6
+Apple,iPhone SE (2022),79999,4,128,4.7,2018,12,Apple A15,iOS,True,True,False,2022,Kathmandu,Brand New,12
+Oppo,Find X5 Lite,25999,8,128,6.67,4800,64,MediaTek Helio G99,Android,True,True,True,2023,Bhaktapur,Like New,12
+Vivo,Y76,21999,8,256,6.58,5000,50,Snapdragon 720G,Android,True,True,True,2022,Pokhara,Good,6
+Tecno,Pova 4 Pro,14999,6,128,6.8,6000,50,Helio G99,Android,True,True,True,2023,Biratnagar,Brand New,12
+Infinix,Note 13 Pro,16999,8,256,6.8,5080,108,MediaTek Helio G99,Android,True,True,True,2023,Janakpur,Like New,12
+Samsung,Galaxy M14 5G,23999,6,128,6.5,6000,50,Exynos 1330,Android,True,True,True,2023,Kathmandu,Brand New,24
+Huawei,Nova Y70,29999,8,128,6.75,5000,50,Kirin 7100,Android,False,False,True,2021,Birgunj,Good,6
+Xiaomi,Poco X5 Pro,29999,8,256,6.67,5065,108,Snapdragon 778G,Android,True,True,True,2023,Lalitpur,Brand New,12
+Samsung, Galaxy S22 FE,84999,8,256,6.4,4500,50,Snapdragon 8 Gen 1,Android,True,True,True,2023,Kathmandu,Brand New,24
+OnePlus,Ace Pro,44999,12,256,6.55,5000,50,Snapdragon 8+ Gen 1,Android,True,True,True,2023,Dharan,Like New,12
+Nokia,G60,21999,6,128,6.52,4500,50,Snapdragon 695,Android,True,False,True,2022,Butwal,Good,6
+Oppo,A16s,15999,4,64,6.52,5000,13,MediaTek Helio G85,Android,False,False,True,2022,Hetauda,Like New,6
+Samsung,Galaxy A54 5G,38999,8,128,6.5,5000,50,Exynos 1380,Android,True,True,True,2023,Kathmandu,Like New,12
+Apple,iPhone 13,119999,4,128,6.1,3095,12,Apple A15,iOS,True,True,False,2021,Lalitpur,Good,12
+Xiaomi,Redmi Note 12 Pro,25999,6,128,6.6,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2023,Pokhara,Brand New,24
+Oppo,Reno8 5G,35999,8,256,6.4,4500,50,MediaTek Dimensity 1300,Android,True,True,True,2022,Birgunj,Like New,12
+Vivo,Vivo V25,41999,8,128,6.44,4500,64,MediaTek Dimensity 900,Android,True,True,True,2022,Kathmandu,Good,12
+Realme,Realme 11 Pro+,34999,8,256,6.7,5000,108,MediaTek Dimensity 920,Android,True,True,True,2023,Dharan,Brand New,18
+OnePlus,OnePlus Nord 3,47999,12,256,6.7,5000,50,Qualcomm Snapdragon 782G,Android,True,True,True,2023,Kathmandu,Like New,12
+Nokia,Nokia X300,19999,4,64,6.3,4200,40,Unisoc,Android,False,False,False,2020,Biratnagar,Fair,6
+Huawei,Nova 11i,28999,6,128,6.8,4200,50,Kirin 985,Android,False,False,True,2022,Pokhara,Good,12
+Infinix,Infinix Note 12,15999,4,64,6.52,5000,50,MediaTek Helio G96,Android,True,True,True,2022,Butwal,Brand New,12
+Tecno,Tecno Spark 10 Pro,18999,6,128,6.6,5000,48,Unisoc T606,Android,False,False,True,2021,Janakpur,Like New,6
+Samsung,Galaxy M54,26999,8,128,6.5,6000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,24
+Apple,iPhone SE (2022),69999,4,64,4.7,3046,12,Apple A15,iOS,True,True,True,2022,Lalitpur,Good,12
+Xiaomi,Poco X5 Pro,35999,8,256,6.67,4800,108,Qualcomm Snapdragon 778G,Android,True,True,True,2023,Bhaktapur,Like New,12
+Oppo,Find X5,89999,12,512,6.55,5000,108,MediaTek Dimensity 9200,Android,True,True,True,2023,Kathmandu,Brand New,24
+Vivo,Y72t,21999,4,128,6.4,5000,50,MediaTek Helio G85,Android,False,True,True,2021,Dharan,Good,12
+Realme,C55,17999,4,64,6.5,5000,50,MediaTek Helio G85,Android,False,False,True,2022,Butwal,Brand New,12
+Nokia,Nokia G50,15999,4,128,6.52,5040,48,Snapdragon 480,Android,True,False,True,2021,Kathmandu,Like New,12
+Samsung,Galaxy S21 FE,54999,8,256,6.4,4500,12,Qualcomm Snapdragon 888,Android,True,True,True,2021,Kathmandu,Good,12
+Apple,iPhone 11,57999,4,128,6.1,3110,12,Apple A13,iOS,False,True,True,2019,Birgunj,Fair,0
+Infinix,Infinix Zero Ultra,54999,12,256,6.8,4500,200,MediaTek Dimensity 920,Android,True,True,True,2023,Kathmandu,Brand New,24
+Samsung,Galaxy A54 5G,35999,8,128,6.5,5000,50,Snapdragon 778G,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Redmi Note 12 Pro,19999,6,128,6.67,5000,108,MediaTek Helio G96,Android,True,True,True,2023,Pokhara,Brand New,12
+Apple,iPhone 14,79999,4,128,6.1,3279,12,Apple A15,iOS,True,True,False,2022,Lalitpur,Good,24
+Realme,Realme 10 Pro+,29999,8,256,6.7,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2023,Biratnagar,Like New,12
+Samsung,Galaxy S21 FE,49999,8,256,6.4,4500,108,Exynos 2100,Android,True,True,True,2021,Kathmandu,Good,12
+OnePlus,Nord 3,39999,12,256,6.74,4800,50,MediaTek Dimensity 9000,Android,True,True,True,2023,Dharan,Brand New,24
+Nokia,G50,14999,4,64,6.5,5000,48,Snapdragon 480,Android,False,False,True,2022,Butwal,Fair,6
+Oppo,A77s,21999,6,128,6.56,5000,50,MediaTek Helio G85,Android,False,True,True,2022,Kathmandu,Like New,12
+Vivo,Y75,19999,4,128,6.44,4500,50,MediaTek Dimensity 700,Android,True,False,True,2022,Lalitpur,Good,12
+Huawei,Nova 11,29999,8,256,6.8,4800,64,Kirin 985,Android,True,True,True,2023,Pokhara,Brand New,18
+Tecno,Pova Neo 2,12999,4,64,6.52,6000,13,Unisoc T700,Android,False,True,False,2021,Birgunj,Fair,6
+Xiaomi,Poco X5 Pro,35999,8,256,6.67,5160,108,Snapdragon 778G,Android,True,True,True,2023,Kathmandu,Like New,18
+Samsung,Galaxy A14,17999,4,128,6.6,5000,50,Exynos 850,Android,False,False,True,2023,Janakpur,Brand New,12
+Apple,iPhone SE (3rd Gen),48999,4,128,4.7,2821,12,Apple A15,iOS,True,True,False,2022,Kathmandu,Good,12
+Nokia,G42,16999,3,64,6.3,4500,50,Snapdragon 480,Android,False,False,True,2021,Biratnagar,Fair,6
+Infinix,Note 30,14999,4,128,6.8,5000,50,MediaTek Helio G96,Android,True,True,True,2022,Dharan,Good,12
+Samsung,Galaxy M14,14999,4,128,6.6,6000,50,Exynos 1330,Android,True,True,True,2023,Butwal,Brand New,24
+Oppo,Find X3 Lite,44999,12,512,6.7,4200,108,Snapdragon 870,Android,True,True,True,2021,Hetauda,Like New,18
+Samsung,Galaxy A54 5G,37999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,12
+Xiaomi,Redmi Note 13 Pro,21999,6,128,6.67,5080,108,MediaTek Dimensity 920,Android,True,True,True,2023,Pokhara,Like New,12
+OnePlus,Nord 3,35999,8,256,6.74,4500,50,MediaTek Dimensity 9000,Android,True,True,True,2023,Lalitpur,Brand New,12
+Realme,GT Neo 5G,25999,8,128,6.62,4800,64,MediaTek Dimensity 900,Android,True,True,True,2022,Biratnagar,Good,6
+Samsung,Galaxy A14,13999,4,128,6.6,5000,50,Exynos 850,Android,True,False,True,2023,Dharan,Like New,6
+Nokia,X30 5G,19999,6,128,6.5,4200,48,Qualcomm Snapdragon 695,Android,True,False,True,2022,Butwal,Good,12
+Apple,iPhone SE (3rd Gen),79999,4,128,4.7,1821,12,Apple A15,iOS,True,True,False,2022,Kathmandu,Brand New,12
+Huawei,P50 Pro,84999,8,256,6.6,4360,50,Kirin 9000E,Android,True,True,True,2022,Janakpur,Like New,12
+Infinix,Note 30 5G,17999,6,128,6.78,5000,50,MediaTek Dimensity 6080,Android,True,True,True,2023,Kathmandu,Fair,0
+Tecno,Pova 5G,14999,4,128,6.8,6000,50,MediaTek Dimensity 720,Android,True,True,True,2023,Birgunj,Brand New,6
+Samsung,Galaxy M14,13999,4,64,6.6,6000,50,Exynos 1280,Android,True,False,True,2023,Kathmandu,Good,12
+Oppo,A57 5G,19999,6,128,6.56,5000,48,Qualcomm Snapdragon 695,Android,True,True,True,2023,Pokhara,Like New,12
+Vivo,Y76 5G,28999,8,256,6.64,5000,64,MediaTek Dimensity 8020,Android,True,True,True,2023,Lalitpur,Brand New,12
+Realme,C55,14999,4,64,6.56,5000,50,MediaTek Helio G88,Android,False,True,True,2022,Biratnagar,Good,6
+Samsung,Galaxy S21 FE,74999,8,256,6.4,4500,12,Qualcomm Snapdragon 888,Android,True,True,True,2021,Kathmandu,Like New,-12
+Apple,iPhone 13,124999,4,256,6.1,3240,12,Apple A15,iOS,True,True,True,2021,Kathmandu,Good,12
+Nokia,G21,8999,3,32,6.52,5000,13,Unisoc T606,Android,False,False,True,2023,Dharan,Brand New,6
+Infinix,Smart 7 Pro,10999,3,32,6.0,6000,8,Unisoc T606,Android,False,False,True,2022,Butwal,Fair,0
+Tecno,Spark 11 Pro,9999,2,32,6.5,5000,13,Helio A22,Android,False,False,True,2021,Hetauda,Fair,0
+Oppo,Find X5 Lite,49999,8,256,6.6,4800,108,Qualcomm Snapdragon 778G,Android,True,True,True,2023,Janakpur,Brand New,12
+Samsung,Galaxy A73,74999,8,256,6.7,5000,108,Snapdragon 778G,Android,True,True,True,2023,Birgunj,Like New,12
+Samsung,Galaxy A54 5G,34999,8,128,6.5,5000,50,Exynos 1380,Android,True,True,True,2023,Kathmandu,Brand New,12
+Xiaomi,Redmi Note 13 Pro,25999,8,256,6.7,5100,108,MediaTek Dimensity 920,Android,True,True,True,2023,Pokhara,Like New,12
+Realme,Realme GT Neo5,38999,12,256,6.7,5500,64,MediaTek Dimensity 1200,Android,True,True,True,2024,Lalitpur,Brand New,24
+OnePlus,Nord 3,44999,8,128,6.74,4500,50,MediaTek Dimensity 8200,Android,True,True,True,2023,Biratnagar,Good,12
+Samsung,Galaxy S22 FE,89999,8,256,6.4,4500,50,Snapdragon 8 Gen 1,Android,True,True,True,2022,Dharan,Like New,12
+Apple,iPhone 13,99999,4,128,6.1,3240,12,Apple A15,iOS,True,True,False,2021,Kathmandu,Good,12
+Nokia,Nokia X30,68999,8,256,6.4,4200,50,Qualcomm Snapdragon 778G,Android,True,False,True,2023,Butwal,Like New,12
+Huawei,P50 Pro,79999,12,512,6.6,5800,108,Kirin 9000,Android,True,True,True,2022,Birgunj,Brand New,24
+Samsung,Galaxy A34 5G,21999,6,128,6.5,5000,48,Exynos 1280,Android,True,True,True,2023,Kathmandu,Fair,0
+Xiaomi,Poco X5 Pro,30999,8,256,6.67,5160,108,Snapdragon 778G,Android,True,True,True,2023,Janakpur,Good,12
+Oppo,Find X5 Lite,28499,6,128,6.43,4500,64,MediaTek Helio G99,Android,True,True,True,2023,Pokhara,Like New,12
+Vivo,Vivo V27e,25999,8,128,6.64,4600,50,MediaTek Dimensity 720,Android,True,True,True,2022,Hetauda,Brand New,12
+Realme,Realme 11 Pro+,33999,12,256,6.7,5200,108,MediaTek Dimensity 9000,Android,True,True,True,2024,Kathmandu,Brand New,24
+Samsung,Galaxy A14,14999,4,128,6.8,5000,50,Exynos 128,Android,True,True,True,2022,Birgunj,Fair,6
+OnePlus,Nord N20,19999,6,128,6.43,4500,64,Snapdragon 695,Android,True,False,True,2022,Dharan,Good,12
+Nokia,Nokia G22,16999,4,64,6.52,5000,50,Unisoc T606,Android,False,False,True,2023,Lalitpur,Good,12
+Tecno,Pova Neo 5G,14999,4,128,6.82,6000,50,MediaTek Dimensity 810,Android,True,True,True,2024,Kathmandu,Brand New,24
+Infinix,Note 12 VIP,19999,8,128,6.6,5000,108,Mediatek Helio G96,Android,True,True,True,2024,Butwal,Brand New,12
+Huawei,Nova 9 SE,29999,8,128,6.7,4200,108,Kirin 985,Android,True,False,True,2021,Kathmandu,Like New,6
+Samsung,Galaxy M14,17999,4,128,6.6,6000,50,Exynos 1330,Android,True,True,True,2022,Janakpur,Good,12
+Samsung,Galaxy A54 5G,34999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Redmi Note 12 Pro,25999,6,128,6.6,5000,50,MediaTek Dimensity 1080,Android,True,True,True,2023,Bhaktapur,Brand New,12
+Realme,Realme 11 Pro+,31999,8,256,6.7,4800,200,MediaTek Dimensity 7050,Android,True,True,True,2023,Lalitpur,Like New,12
+Samsung,Galaxy S22,89999,8,256,6.1,3700,50,Exynos 2200,Android,True,True,True,2022,Kathmandu,Good,12
+Apple,iPhone 14,129999,6,128,6.1,3279,12,Apple A15,iOS,True,True,True,2022,Pokhara,Like New,12
+Nokia,Nokia X20,15999,8,128,6.67,4470,64,Snapdragon 480,Android,True,False,True,2021,Birgunj,Fair,6
+Oppo,Oppo A96,23999,8,128,6.59,5000,50,Snapdragon 680,Android,False,True,True,2022,Dharan,Good,12
+Infinix,Infinix Note 12,14999,6,128,6.78,5000,50,MediaTek Helio G96,Android,True,True,True,2022,Butwal,Fair,6
+OnePlus,OnePlus Nord CE 3 Lite,19999,8,128,6.72,5000,108,Snapdragon 695,Android,True,True,True,2023,Kathmandu,Brand New,12
+Tecno,Tecno Spark 9 Pro,10999,4,64,6.52,5000,50,Unisoc T700,Android,False,False,False,2022,Janakpur,Good,6
+Huawei,Huawei Nova 9 SE,27999,8,256,6.57,4300,108,Kirin 985,Android,True,True,True,2021,Biratnagar,Like New,12
+Samsung,Galaxy A34 5G,34999,8,128,6.4,5000,48,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,24
+Xiaomi,Poco X5 Pro,35999,8,256,6.67,5200,108,Snapdragon 778G,Android,True,True,True,2023,Pokhara,Like New,12
+Apple,iPhone 13,94999,4,128,6.1,3227,12,Apple A15,iOS,True,True,True,2021,Lalitpur,Good,12
+Samsung,Galaxy M14,14999,4,128,6.6,6000,50,Exynos 133,Android,True,True,True,2023,Hetauda,Brand New,12
+Vivo,Vivo V27e,32999,8,256,6.62,4500,64,MediaTek Dimensity 7200,Android,True,True,True,2023,Kathmandu,Like New,12
+Realme,Realme 11 Pro,27999,8,128,6.6,5000,108,MediaTek Dimensity 7050,Android,True,True,True,2023,Birgunj,Good,12
+Nokia,Nokia G21,14999,4,64,6.5,5050,50,Unisoc T606,Android,False,False,False,2022,Dharan,Fair,6
+Oppo,Oppo Reno8,37999,12,256,6.4,4500,50,MediaTek Dimensity 920,Android,True,True,True,2023,Butwal,Like New,12
+Samsung,Galaxy A73 5G,54999,8,256,6.7,5000,108,Snapdragon 778G,Android,True,True,True,2023,Janakpur,Brand New,24
+Tecno,Tecno Camon 19 Pro,15999,6,128,6.8,5000,64,MediaTek Helio G96,Android,True,True,True,2023,Kathmandu,Good,12
+Samsung,Galaxy A54,44999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Like New,12
+Apple,iPhone 13,89999,4,128,6.1,3240,12,A15 Bionic,iOS,True,True,False,2021,Lalitpur,Good,12
+Xiaomi,Redmi Note 12,19999,6,128,6.6,5000,108,Snapdragon 685,Android,True,True,True,2022,Biratnagar,Brand New,12
+Oppo,Reno8,35999,8,256,6.4,4500,64,MediaTek Dimensity 8100,Android,True,True,True,2023,Pokhara,Like New,6
+Vivo,V23e,28999,8,128,6.44,4200,50,MediaTek Helio G85,Android,False,True,True,2022,Dharan,Good,6
+Realme,GT Neo 3,37999,12,256,6.7,5500,150,Dimensity 8100,Android,True,True,True,2023,Butwal,Brand New,24
+OnePlus,Nord 3,49999,8,128,6.74,4500,64,Snapdragon 782G,Android,True,True,True,2023,Kathmandu,Like New,12
+Nokia,X20,15999,4,64,6.5,5000,48,Snapdragon 695,Android,True,False,True,2022,Janakpur,Good,0
+Huawei,P50 Pro,94999,12,256,6.6,4200,108,Kirin 9000E,Android,True,False,True,2021,Kathmandu,Fair,0
+Infinix,Note 30,12999,4,128,6.8,5000,50,Helio G99,Android,True,True,True,2023,Birgunj,Brand New,12
+Tecno,Pova 5,14999,4,64,6.6,7000,50,Helio G99,Android,True,True,True,2022,Hetauda,Like New,6
+Samsung,Galaxy A34,46999,6,128,6.5,5000,48,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,24
+Apple,iPhone 12,68999,4,64,6.1,2815,12,A14 Bionic,iOS,True,True,False,2020,Lalitpur,Good,12
+Xiaomi,Poco X5 Pro,35999,8,256,6.67,4600,108,Snapdragon 778G,Android,True,True,True,2023,Pokhara,Like New,12
+Oppo,Find X5,79999,12,256,6.7,5000,80,MediaTek Dimensity 9000,Android,True,True,True,2023,Biratnagar,Brand New,24
+Vivo,Y76,19999,4,64,6.58,5000,50,Snapdragon 695,Android,True,True,True,2021,Dharan,Good,6
+Realme,Narzo 60 Pro,21999,6,128,6.6,4800,64,MediaTek Dimensity 1200,Android,True,True,True,2022,Butwal,Good,12
+Samsung,Galaxy M14,17999,4,64,6.4,6000,50,Exynos 1280,Android,True,True,True,2022,Janakpur,Fair,0
+Nokia,G22,12999,3,32,6.52,5050,13,Unisoc T616,Android,False,False,True,2022,Kathmandu,Brand New,12
+Infinix,Zero Ultra,7999,8,128,6.8,4500,200,MediaTek Dimensity 920,Android,True,True,True,2023,Birgunj,Brand New,12
+Tecno,Camon 19 Pro,25999,6,128,6.8,5000,64,Helio G96,Android,True,True,True,2023,Hetauda,Like New,12
+Samsung,Galaxy A54 5G,37999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2022,Kathmandu,Brand New,12
+Xiaomi,Redmi Note 12 Pro+,29999,6,128,6.67,5200,108,MediaTek Helio G96,Android,True,True,True,2023,Pokhara,Like New,12
+Realme,Narzo 60 Pro,35999,8,256,6.7,4700,108,MediaTek Dimensity 1120,Android,True,True,True,2023,Lalitpur,Brand New,18
+OnePlus,Nord 3,44999,12,256,6.74,4500,50,MediaTek Dimensity 9000,Android,True,True,True,2023,Biratnagar,Good,12
+Apple,iPhone 14,119999,4,128,6.1,3279,12,Apple A15,iOS,True,True,True,2022,Kathmandu,Brand New,12
+Samsung,Galaxy S21 FE,89999,8,256,6.4,4500,12,Snapdragon 888,Android,True,True,True,2021,Bhaktapur,Like New,6
+Nokia,G21,19999,4,64,6.5,5000,50,Unisoc,Android,False,False,True,2022,Dharan,Good,0
+Infinix,Note 12,14999,4,128,6.6,5000,50,Helio G96,Android,True,True,True,2022,Butwal,Fair,6
+Huawei,Nova 11,26999,8,256,6.7,4200,64,Kirin 9000E,Android,True,False,True,2023,Hetauda,Like New,12
+Oppo,F23,27999,8,256,6.56,4500,50,MediaTek Dimensity 1200,Android,True,True,True,2022,Janakpur,Good,12
+Vivo,V27 Pro,39999,12,256,6.64,4600,50,MediaTek Dimensity 7200,Android,True,True,True,2023,Kathmandu,Brand New,24
+Tecno,Camon 20 Pro,15999,4,128,6.8,5000,64,Mediatek MT6769,Android,False,True,False,2023,Pokhara,Fair,6
+Samsung,Galaxy A34 5G,33999,8,128,6.6,5000,48,Exynos 1280,Android,True,True,True,2023,Birgunj,Like New,12
+Apple,iPhone SE (2022),62999,4,64,4.7,1969,12,Apple A15,iOS,True,True,True,2022,Kathmandu,Good,12
+Xiaomi,Poco X5 Pro,37999,8,256,6.67,5100,108,Snapdragon 778G,Android,True,True,True,2023,Lalitpur,Brand New,24
+Samsung,Galaxy M14,18999,4,64,6.6,6000,50,Exynos 1330,Android,True,True,False,2023,Biratnagar,Fair,6
+Oppo,A58s,21999,4,128,6.56,4500,50,MediaTek Helio G85,Android,False,False,True,2022,Dharan,Good,12
+Realme,C55,17999,4,128,6.38,5000,50,Mediatek MT6769,Android,True,True,True,2023,Butwal,Brand New,24
+Nokia,X30,35999,8,256,6.5,4500,64,Snapdragon 782G,Android,True,True,True,2022,Kathmandu,Like New,12
+Infinix,Zero Ultra,49999,12,512,6.8,4500,200,Mediatek Dimensity 9200,Android,True,True,True,2023,Janakpur,Brand New,24
+Samsung,Galaxy A54 5G,37999,8,128,6.5,5000,50,Samsung Exynos 1280,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Redmi Note 12 Pro,19999,6,128,6.6,5000,108,MediaTek Helio G96,Android,True,True,True,2022,Pokhara,Brand New,12
+Realme,Realme 11 Pro,25999,8,256,6.8,4800,108,MediaTek Dimensity 6080,Android,True,True,True,2023,Lalitpur,Like New,18
+Samsung,Galaxy S23,119999,8,256,6.1,3900,50,Qualcomm Snapdragon 8 Gen 2,Android,True,True,True,2023,Kathmandu,Brand New,24
+Apple,iPhone 15,159999,6,256,6.1,3279,48,Apple A16,iOS,True,True,False,2023,Biratnagar,Brand New,12
+OnePlus,Nord 3,35999,8,256,6.7,4500,50,MediaTek Dimensity 9000,Android,True,True,True,2023,Dharan,Like New,12
+Nokia,X30 5G,27999,6,128,6.5,4500,64,Qualcomm Snapdragon 480+,Android,True,False,True,2022,Butwal,Good,6
+Vivo,Y78,24999,8,128,6.7,4700,64,MediaTek Dimensity 1300,Android,True,True,True,2023,Kathmandu,Like New,12
+Huawei,P60 Pro,74999,12,256,6.6,4400,50,Kirin 9000E,Android,True,True,True,2023,Kathmandu,Like New,18
+Infinix,Note 12g,13999,4,128,6.52,5000,50,Unisoc T612,Android,False,False,False,2021,Pokhara,Fair,0
+Tecno,Camon 20 Pro,17999,6,128,6.8,5000,108,MediaTek Helio G99,Android,True,True,True,2022,Birgunj,Good,12
+Samsung,Galaxy A22,14999,4,64,6.4,5000,48,Exynos 850,Android,False,True,True,2021,Lalitpur,Good,6
+Apple,iPhone SE (3rd Gen),129999,4,128,4.7,2018,12,Apple A15,iOS,True,True,True,2022,Janakpur,Like New,12
+Xiaomi,Poco X5 Pro,35999,8,256,6.67,4800,108,Snapdragon 778G,Android,True,True,True,2023,Kathmandu,Brand New,24
+Oppo,A17k,21999,4,128,6.56,5000,50,MediaTek Helio G35,Android,False,True,True,2022,Birgunj,Good,12
+Nokia,G50,19999,6,64,6.52,4500,50,Qualcomm Snapdragon 480,Android,False,False,True,2021,Dharan,Fair,0
+Realme,Narzo 60 Pro,21999,6,128,6.6,4500,64,MediaTek Dimensity 920,Android,True,True,True,2022,Butwal,Like New,12
+Samsung,Galaxy M14,17999,4,64,6.6,6000,50,Exynos 1330,Android,True,True,True,2023,Hetauda,Brand New,24
+Vivo,S16,39999,12,256,6.78,4700,108,MediaTek Dimensity 9000,Android,True,True,True,2024,Janakpur,Brand New,24
+Tecno,Pova 4,12999,4,128,6.6,6000,50,Unisoc T612,Android,False,True,False,2021,Kathmandu,Fair,0
+Samsung,Galaxy A54 5G,49999,8,128,6.5,5000,48,Exynos 1280,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Redmi Note 11 Pro,23999,6,128,6.6,5200,108,Mediatek Dimensity 920,Android,True,True,True,2022,Lalitpur,Brand New,12
+Realme,Realme 11 Pro+,32999,8,256,6.7,6000,108,Mediatek Dimensity 7050,Android,True,True,True,2024,Birgunj,Brand New,24
+Oppo,F23,25999,6,128,6.4,4500,50,Snapdragon 695,Android,True,True,True,2022,Pokhara,Good,0
+Samsung,Galaxy M14,18999,4,64,6.6,6000,50,Exynos 850,Android,True,False,True,2023,Biratnagar,Like New,6
+Apple,iPhone 13,89999,4,128,6.1,3095,12,A15 Bionic,iOS,True,True,False,2021,Kathmandu,Good,12
+OnePlus,Nord 3,34999,12,256,6.74,4500,50,Snapdragon 778G,Android,True,True,True,2023,Dharan,Brand New,18
+Nokia,X100,15999,4,64,6.3,3400,16,Unisoc,Android,False,False,True,2021,Butwal,Fair,0
+Huawei,P50 Pro,57999,8,256,6.6,4200,50,Kirin 9000L,Android,True,True,True,2022,Hetauda,Like New,12
+Vivo,V27e,27999,8,128,6.64,4600,64,MediaTek Dimensity 720,Android,True,True,True,2023,Kathmandu,Brand New,24
+Samsung,Galaxy S23 FE,79999,8,256,6.4,4500,50,Snapdragon 8 Gen 1,Android,True,True,True,2023,Janakpur,Like New,12
+Xiaomi,Poco X5 Pro,31999,8,256,6.67,5000,108,Snapdragon 778G,Android,True,True,True,2024,Pokhara,Brand New,24
+Realme,GT Neo 5,21999,8,128,6.7,5000,50,MediaTek Dimensity 8200,Android,True,True,True,2022,Kathmandu,Good,12
+Oppo,Reno9 Pro+,34999,12,256,6.7,4820,100,Snapdragon 8+ Gen 1,Android,True,True,True,2023,Birgunj,Brand New,18
+Nokia,X30,17999,3,32,5.9,3000,13,Snapdragon 480,Android,False,False,True,2020,Kathmandu,Fair,0
+Infinix,Note 30,14999,4,64,6.0,5200,50,Helio G99,Android,True,True,True,2022,Dharan,Good,6
+Tecno,Pova 5 Pro,19999,6,128,6.8,7000,64,Helio G99,Android,True,True,True,2023,Butwal,Brand New,24
+Samsung,Galaxy A14,15999,4,64,6.6,5000,50,Exynos 1330,Android,True,True,True,2022,Kathmandu,Brand New,12
+Apple,iPhone SE (3rd Gen),65999,4,128,4.7,2360,12,A15 Bionic,iOS,True,True,False,2022,Lalitpur,Good,12
+Samsung,Galaxy A34 5G,35999,6,128,6.5,5000,48,Exynos 1280,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Redmi Note 12 Pro,28999,8,256,6.67,5200,108,MediaTek Dimensity 1080,Android,True,True,True,2022,Biratnagar,Brand New,24
+Oppo,F21 Pro,24999,6,128,6.4,4500,50,MediaTek Dimensity 900,Android,True,True,True,2022,Lalitpur,Good,12
+Realme,Narzo 50 Pro,19999,6,128,6.6,5000,48,MediaTek Dimensity 920,Android,True,True,True,2023,Pokhara,Brand New,12
+Samsung,Galaxy A14,19999,4,128,6.6,5000,50,Exynos 1330,Android,True,True,True,2023,Kathmandu,Good,12
+Apple,iPhone SE (3rd Gen),87999,4,64,4.7,1821,12,Apple A15 Bionic,iOS,True,True,False,2022,Kathmandu,Like New,24
+OnePlus,Nord 3,35999,12,256,6.74,4500,108,Snapdragon 782G,Android,True,True,True,2023,Dharan,Brand New,12
+Nokia,G50 Plus,18999,4,128,6.5,4500,48,Snapdragon 695,Android,True,False,True,2021,Birgunj,Fair,6
+Vivo,Y78,23999,6,128,6.64,5000,64,MediaTek Dimensity 700,Android,True,True,True,2023,Kathmandu,Like New,12
+Huawei,Nova 11s,31999,8,256,6.8,4200,50,Kirin 980,Android,True,False,True,2022,Pokhara,Good,12
+Tecno,Pova Neo 3,14999,4,64,6.6,6000,50,Unisoc T606,Android,False,True,False,2021,Butwal,Fair,3
+Infinix,Note 30,16999,6,128,6.72,5000,50,MediaTek Helio G96,Android,True,True,True,2022,Hetauda,Good,12
+Samsung,Galaxy M54,25999,8,256,6.7,6000,108,Exynos 1380,Android,True,True,True,2024,Janakpur,Brand New,12
+Apple,iPhone 13,119999,4,128,6.1,3240,12,Apple A15 Bionic,iOS,True,True,True,2021,Kathmandu,Like New,24
+Xiaomi,Mi 11i,44999,8,256,6.67,4520,108,Snapdragon 888,Android,True,True,True,2021,Pokhara,Good,12
+Nokia,C21 Plus,8999,3,32,6.5,5000,13,Unisoc,Android,False,False,True,2023,Dharan,Brand New,0
+Oppo,A96,23999,8,256,6.59,5000,50,Snapdragon 680,Android,True,True,True,2022,Kathmandu,Like New,12
+Realme,8 Pro 5G,29999,12,256,6.4,4500,108,Snapdragon 780G,Android,True,True,True,2023,Birgunj,Brand New,12
+Samsung,Galaxy A54,45999,8,256,6.4,5100,50,Exynos 1380,Android,True,True,True,2023,Kathmandu,Brand New,12
+Huawei,P50,41999,8,128,6.5,4200,50,Kirin 9000,Android,True,False,True,2021,Biratnagar,Good,12
+Samsung,Galaxy A54,25999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,12
+Xiaomi,Redmi Note 13 Pro,18999,6,128,6.67,5100,108,MediaTek Dimensity 1080,Android,True,True,True,2023,Pokhara,Like New,12
+Realme,Narzo 60 Pro,15999,8,256,6.7,4800,50,MediaTek Dimensity 6020,Android,True,True,True,2023,Lalitpur,Good,6
+Samsung,Galaxy A14,12999,4,64,6.6,5000,50,Exynos 1330,Android,True,False,True,2022,Biratnagar,Good,12
+Apple,iPhone SE (3rd Gen),79999,4,128,4.7,1821,12,Apple A15,iOS,True,True,False,2022,Kathmandu,Brand New,12
+OnePlus,Nord 3,34999,12,256,6.74,4500,50,MediaTek Dimensity 9000,Android,True,True,True,2023,Dharan,Like New,12
+Samsung,Galaxy M14,14999,4,128,6.6,6000,50,Exynos 1330,Android,True,True,True,2023,Butwal,Brand New,24
+Nokia,Nokia X200,9999,3,32,6.5,4500,48,Snapdragon 480,Android,False,False,False,2021,Janakpur,Fair,0
+Infinix,Note 30,13999,6,128,6.6,5000,64,MediaTek Helio G99,Android,True,True,True,2023,Birgunj,Good,6
+Huawei,P60 Pro,89999,12,256,6.6,4500,54,Kirin 9000S,Android,True,True,True,2023,Hetauda,Like New,12
+Samsung,Galaxy S23,119999,8,256,6.1,3900,200,Snapdragon 8 Gen 2,Android,True,True,True,2023,Kathmandu,Brand New,24
+Oppo,Find X6,72999,12,256,6.8,5000,50,Snapdragon 8 Gen 2,Android,True,True,True,2024,Pokhara,Like New,12
+Vivo,Vivo X90,62999,12,256,6.8,4600,50,MediaTek Dimensity 9200,Android,True,True,True,2023,Lalitpur,Good,12
+Tecno,Pova 6,8999,4,64,6.2,6000,48,Helio G85,Android,False,True,True,2021,Biratnagar,Fair,0
+Xiaomi,Poco X5 Pro,25999,8,256,6.67,5160,108,Snapdragon 778G,Android,True,True,True,2023,Kathmandu,Brand New,12
+Samsung,Galaxy A34,29999,8,128,6.6,5000,48,Exynos 1280,Android,True,True,True,2023,Dharan,Like New,12
+Nokia,Nokia G21,10999,4,64,6.5,5050,50,Unisoc T606,Android,False,False,True,2022,Butwal,Good,6
+Oppo,A16s,14999,4,64,6.52,5000,50,Mediatek Helio G36,Android,False,True,True,2022,Janakpur,Good,12
+Realme,C55,16999,6,128,6.5,5000,50,MediaTek Helio G88,Android,True,True,True,2023,Kathmandu,Brand New,12
+Apple,iPhone 14,124999,4,128,6.1,3279,12,Apple A15,iOS,True,True,True,2022,Kathmandu,Like New,12
+Samsung,A53 5G,28999,8,128,6.5,5000,64,Exynos 1280,Android,True,True,True,2021,Kathmandu,Like New,12
+Xiaomi,Redmi Note 11,18999,6,128,6.43,5000,50,MediaTek Helio G96,Android,True,True,True,2022,Pokhara,Brand New,12
+Realme,Narzo 50,15999,6,128,6.6,5000,48,Helio G96,Android,True,True,True,2021,Lalitpur,Good,12
+OnePlus,Nord CE 2,39999,8,128,6.43,4500,64,Dimensity 1200,Android,True,True,True,2022,Birgunj,Like New,18
+Samsung,Galaxy A22,24999,6,128,6.4,5000,48,Exynos 850,Android,False,True,True,2021,Dharan,Good,12
+Nokia,G50,14999,4,64,6.82,5000,48,Mediatek,Android,False,False,True,2020,Butwal,Fair,6
+Huawei,P50 Lite,19999,6,128,6.5,5100,64,Kirin 710A,Android,False,False,True,2020,Kathmandu,Good,12
+Apple,iPhone 12,89999,4,128,6.1,2815,12,Apple A14,iOS,True,True,True,2020,Lalitpur,Like New,24
+Samsung,Galaxy S21 FE,79999,8,256,6.4,4500,12,Snapdragon 888,Android,True,True,True,2021,Kathmandu,Brand New,24
+Oppo,A54,21999,6,128,6.51,5000,50,Dimensity 700,Android,True,True,True,2021,Biratnagar,Good,12
+Vivo,Y72,17999,4,64,6.51,5000,50,MediaTek Helio,Android,True,True,True,2022,Pokhara,Fair,6
+Xiaomi,Poco X4 Pro,28999,8,256,6.67,5000,108,Snapdragon 695,Android,True,True,True,2022,Kathmandu,Like New,12
+Realme,9 Pro+,37999,12,256,6.7,4500,108,MediaTek Dimensity 920,Android,True,True,True,2022,Janakpur,Brand New,24
+OnePlus,Nord N200,19999,4,128,6.49,5000,13,Snapdragon 480,Android,True,False,True,2021,Dharan,Good,12
+Tecno,Pova 4,14999,6,128,6.6,6000,50,Helio G99,Android,True,True,True,2022,Butwal,Like New,12
+Infinix,Note 13,12999,4,128,6.6,5000,50,Helio G85,Android,False,True,True,2021,Hetauda,Fair,6
+Nokia,X20,23999,6,128,6.67,4500,64,Snapdragon 480,Android,True,False,True,2022,Kathmandu,Like New,12
+Samsung,Galaxy M32,15999,4,128,6.4,6000,64,Mediatek MT6769,Android,False,True,True,2020,Janakpur,Good,12
+Oppo,Find X3 Lite,49999,12,256,6.55,4500,64,Snapdragon 778G,Android,True,True,True,2021,Kathmandu,Brand New,24
+Huawei,Nova 9 SE,29999,8,256,6.78,4400,108,Kirin 9000E,Android,True,True,True,2021,Birgunj,Like New,12
+Samsung,Galaxy A54 5G,39999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Like New,12
+Apple,iPhone 14,129999,6,256,6.1,3279,12,Apple A15,iOS,True,True,False,2022,Lalitpur,Brand New,12
+Xiaomi,Redmi Note 12 Pro,34999,8,128,6.67,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2023,Biratnagar,Good,12
+Oppo,Reno8 5G,32999,8,256,6.4,4500,50,MediaTek Dimensity 1300,Android,True,True,True,2022,Pokhara,Like New,6
+Vivo,V25e,28999,8,128,6.44,4500,64,MediaTek Dimensity 900,Android,True,True,True,2023,Dharan,Good,12
+Realme,Realme 11 Pro,27999,8,256,6.7,5000,108,MediaTek Dimensity 720,Android,True,True,True,2022,Kathmandu,Brand New,12
+OnePlus,Nord 3,45999,12,256,6.74,4500,50,Qualcomm Snapdragon 778G,Android,True,True,True,2023,Butwal,Like New,9
+Nokia,G21 Plus,19999,4,64,6.5,5050,50,Unisoc,Android,False,False,True,2021,Hetauda,Good,0
+Huawei,Nova 11,35999,8,128,6.8,4200,64,Kirin 9000E,Android,True,True,True,2023,Janakpur,Like New,12
+Infinix,Note 13,14999,4,128,6.6,5200,50,MediaTek G85,Android,True,True,False,2022,Kathmandu,Fair,3
+Tecno,Pova 5,13999,6,128,6.6,6000,50,Unisoc T610,Android,False,True,False,2023,Birgunj,Good,6
+Samsung,Galaxy A34,37999,8,256,6.6,5000,48,Exynos 1280,Android,True,True,True,2022,Pokhara,Like New,12
+Apple,iPhone SE (3rd Gen),54999,4,128,4.7,3000,12,Apple A15,iOS,True,True,True,2022,Kathmandu,Fair,0
+Xiaomi,Poco X5 Pro,38999,8,256,6.67,5100,108,Snapdragon 7 Gen 2,Android,True,True,True,2023,Lalitpur,Brand New,12
+Nokia,G22,16999,3,64,6.52,5050,50,Unisoc,Android,False,False,True,2021,Dharan,Good,0
+Samsung,Galaxy M14,19999,4,128,6.6,6000,50,Exynos 1330,Android,True,True,True,2024,Butwal,Brand New,24
+Oppo,A76,19999,4,64,6.1,4500,50,Qualcomm Snapdragon 680,Android,False,True,True,2021,Kathmandu,Fair,6
+Vivo,Y35,25999,6,128,6.58,5000,50,MediaTek Helio G85,Android,False,True,True,2022,Janakpur,Like New,12
+Realme,GT Master Edition,57999,12,256,6.43,4500,64,Snapdragon 8+ Gen 1,Android,True,True,True,2023,Kathmandu,Brand New,24
+Huawei,Nova 9 SE,29999,8,128,6.78,4000,108,Kirin 985,Android,True,True,True,2022,Birgunj,Good,12
+Samsung,Galaxy A54 5G,35999,8,128,6.5,5000,50,Snapdragon 778G,Android,True,True,True,2023,Kathmandu,Like New,12
+Samsung,Galaxy M14,19999,4,128,6.6,6000,50,Exynos 1280,Android,True,False,True,2023,Pokhara,Brand New,12
+Xiaomi,Redmi Note 13,24999,6,128,6.5,5080,50,MediaTek Helio G85,Android,True,True,True,2023,Lalitpur,Like New,12
+Realme,Realme 12 Pro,26999,8,256,6.7,5000,108,MediaTek Dimensity 1200,Android,True,True,True,2024,Biratnagar,Brand New,12
+OnePlus,Nord 3,41999,12,256,6.74,4500,64,Snapdragon 782G,Android,True,True,True,2023,Dharan,Good,24
+Apple,iPhone 15,129999,6,512,6.1,0,48,Apple A16,iOS,True,True,False,2023,Kathmandu,Brand New,12
+Apple,iPhone 14,89999,4,256,6.1,0,12,Apple A15,iOS,True,True,True,2022,Pokhara,Like New,12
+Nokia,G50,14999,4,64,6.5,5000,48,Snapdragon 480+,Android,True,False,True,2022,Lalitpur,Good,6
+Infinix,Note 12,13999,4,128,6.59,5000,50,MediaTek Helio G96,Android,True,True,True,2022,Birgunj,Fair,0
+Vivo,V23e,18999,6,128,6.44,4400,50,MediaTek Dimensity 700,Android,True,False,True,2023,Butwal,Good,6
+Oppo,A57s,23999,8,128,6.56,5000,50,Snapdragon 695,Android,True,True,True,2023,Hetauda,Like New,12
+Tecno,Pova Neo 2,10999,4,64,6.8,6000,50,Unisoc T606,Android,False,True,False,2022,Janakpur,Fair,3
+Huawei,Nova Y60,17999,4,128,6.75,6000,48,Kirin 700,Android,True,False,True,2023,Kathmandu,Good,12
+Samsung,Galaxy S21 FE,71999,8,256,6.4,4500,64,Snapdragon 888,Android,True,True,True,2021,Biratnagar,Good,6
+Xiaomi,Poco X5 Pro,46999,12,256,6.67,4800,108,Snapdragon 778G,Android,True,True,True,2023,Dharan,Like New,12
+Realme,Narzo 50 Pro,17999,6,128,6.6,4500,48,MediaTek Dimensity 810,Android,True,True,True,2022,Butwal,Fair,0
+Nokia,G42,9999,3,32,6.52,4200,50,Snapdragon 480,Android,True,False,True,2021,Kathmandu,Brand New,0
+Infinix,Hot 12 Pro,9999,4,64,6.82,5200,13,Unisoc,Android,False,False,False,2023,Pokhara,Good,6
+Oppo,Find X3 Lite,29999,8,128,6.4,4200,108,MediaTek Dimensity 900,Android,True,True,True,2022,Lalitpur,Like New,12
+Samsung,Galaxy A34,29999,6,128,6.6,5000,48,Exynos 1280,Android,True,True,True,2023,Kathmandu,Brand New,12
+Samsung,Galaxy A54 5G,35999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2022,Kathmandu,Brand New,18
+Apple,iPhone 13,89999,4,128,6.1,3240,12,Apple A15,iOS,True,True,False,2021,Lalitpur,Like New,12
+Xiaomi,Redmi Note 12,21999,6,128,6.6,5000,50,MediaTek Helio G96,Android,True,True,True,2023,Pokhara,Brand New,12
+Oppo,A16,14999,4,64,6.2,5000,50,MediaTek Helio G37,Android,False,True,True,2022,Biratnagar,Good,6
+Vivo,Y72,19999,4,128,6.3,5000,50,MediaTek Dimensity 700,Android,True,True,True,2021,Dharan,Good,9
+Realme,Narzo 50,15999,6,128,6.5,5000,48,MediaTek Helio G96,Android,True,True,True,2022,Butwal,Brand New,12
+OnePlus,Nord N20,27999,6,128,6.43,4500,64,Snapdragon 695,Android,True,False,True,2021,Kathmandu,Like New,10
+Nokia,G42,18999,4,128,6.55,5000,50,Snapdragon 480,Android,True,False,True,2023,Janakpur,Brand New,24
+Huawei,Nova 11,29999,8,256,6.7,4200,108,Kirin 920E,Android,True,True,True,2023,Kathmandu,Like New,12
+Infinix,Smart 7,7999,3,64,6.1,5000,16,Unisoc T606,Android,False,False,False,2023,Birgunj,Fair,0
+Tecno,Pov Ray X4,10999,4,64,6.0,5000,13,Unisoc SC9863,Android,False,False,True,2020,Hetauda,Good,6
+Samsung,Galaxy M14,19999,4,128,6.4,6000,50,Exynos 850,Android,True,True,True,2022,Pokhara,Brand New,18
+Apple,iPhone 12,64999,4,128,6.1,2815,12,Apple A14,iOS,True,True,True,2020,Lalitpur,Good,12
+Xiaomi,Mi 13,79999,12,256,6.4,4500,108,Snapdragon 8 Gen 2,Android,True,True,True,2023,Kathmandu,Brand New,24
+Oppo,Find X5,84999,8,256,6.7,4800,108,MediaTek Dimensity 920,Android,True,True,True,2023,Birgunj,Like New,12
+Vivo,V29,39999,12,512,6.8,4700,50,MediaTek Dimensity 900,Android,True,True,True,2022,Dharan,Brand New,18
+Realme,Q5 Pro,25999,8,128,6.3,4500,64,MediaTek Dimensity 800,Android,True,True,True,2021,Butwal,Good,9
+Nokia,X30,26999,6,128,6.6,4500,64,Snapdragon 778G,Android,True,True,True,2022,Kathmandu,Like New,12
+Samsung,Galaxy S21 FE,54999,8,256,6.4,4500,64,Snapdragon 888,Android,True,True,True,2021,Kathmandu,Brand New,12
+Realme,GT Neo 3,35999,12,256,6.7,5000,64,MediaTek Dimensity 8100,Android,True,True,True,2022,Lalitpur,Like New,12
+Tecno,Camon 19 Pro,14999,4,128,6.5,5000,50,MediaTek Helio G99,Android,True,True,True,2023,Hetauda,Brand New,0
+Samsung,Galaxy A54 5G,35999,8,128,6.5,5000,50,Exynos 1280,Android,True,True,True,2023,Kathmandu,Like New,12
+Apple,iPhone 12,82999,4,128,6.1,2815,12,Apple A14,iOS,True,True,False,2020,Lalitpur,Good,12
+Xiaomi,Redmi Note 11 Pro,19999,6,128,6.6,5000,108,MediaTek Helio G96,Android,True,True,True,2022,Birgunj,Brand New,12
+Oppo,Reno7 5G,45999,8,256,6.4,4500,64,MediaTek Dimensity 900,Android,True,True,True,2022,Kathmandu,Like New,12
+Vivo,V21e,27999,6,128,6.44,4400,50,MediaTek 800U,Android,False,True,True,2021,Pokhara,Good,6
+Realme,Realme 9 Pro+,31999,8,128,6.4,5000,108,Snapdragon 695,Android,True,True,True,2022,Dharan,Like New,12
+OnePlus,Nord 2T,34999,8,128,6.43,4500,50,Dimensity 1300,Android,True,True,True,2022,Janakpur,Good,12
+Nokia,G50 5G,18999,6,128,6.56,4500,50,Qualcomm Snapdragon 480+,Android,True,False,True,2021,Biratnagar,Brand New,0
+Huawei,P50 Pro,54999,8,256,6.6,4360,50,Kirin 9000L,Android,True,True,True,2023,Kathmandu,Like New,18
+Infinix,Note 12 VIP,19999,6,128,6.78,5000,108,Helio G96,Android,True,True,True,2022,Butwal,Good,6
+Tecno,Pova 5 Pro,17999,6,128,6.8,7000,50,Unisoc T606,Android,False,True,True,2022,Hetauda,Brand New,12
+Samsung,Galaxy M14 5G,28999,4,128,6.6,6000,50,Exynos 1330,Android,True,True,True,2023,Pokhara,Good,12
+Apple,iPhone SE (2022),69999,4,128,4.7,2011,12,A15,iOS,True,True,True,2022,Kathmandu,Like New,12
+Xiaomi,9T Pro,34999,8,256,6.67,4800,108,Snapdragon 8+ Gen 1,Android,True,True,True,2023,Birgunj,Like New,18
+Oppo,Find X5 Pro,79999,12,256,6.7,5000,108,MediaTek Dimensity 9000,Android,True,True,True,2023,Kathmandu,Brand New,24
+Vivo,X80 Pro,99999,12,512,6.78,4800,50,Snapdragon 8 Gen 1,Android,True,True,True,2023,Lalitpur,Brand New,24
+Realme,GT Neo 3,25999,8,256,6.7,4500,64,Dimension 8100,Android,True,True,True,2022,Kathmandu,Good,12
+Nokia,X20,23999,8,128,6.5,4500,64,Snapdragon 480,Android,True,False,True,2021,Janakpur,Fair,6
+Huawei,Nova 9 SE,21999,8,128,6.7,4200,108,Kirin 8100,Android,True,True,True,2021,Birgunj,Good,6
+Infinix,Zero Ultra,55999,12,256,6.8,4500,200,Dimensity 9000,Android,True,True,True,2023,Dharan,Brand New,24
+Nokia,G42 4G,14999,3,64,6.3,4000,50,Snapdragon 480,Android,False,False,True,2021,Kathmandu,Good,12
+Oppo,Find X6 Lite,84999,12,256,6.7,4800,108,Snapdragon 8+ Gen 1,Android,True,True,True,2024,Kathmandu,Brand New,24
+Vivo,X80 Lite,54999,8,128,6.56,4500,108,Snapdragon 782G,Android,True,True,True,2024,Pokhara,Like New,12
+Samsung,Galaxy A54 5G,44999,8,128,6.5,5000,50,Exynos 1380,Android,True,True,True,2023,Kathmandu,Like New,12
+Xiaomi,Redmi Note 12 Pro+ 5G,38999,8,256,6.67,5000,108,MediaTek Dimensity 1080,Android,True,True,True,2023,Biratnagar,Brand New,12
+OnePlus,Nord 3 5G,55999,12,256,6.74,4800,50,MediaTek Dimensity 9000,Android,True,True,True,2023,Lalitpur,Like New,18
+Realme,GT Neo 5,37999,12,256,6.7,5500,108,Snapdragon 7 Gen 1,Android,True,True,True,2023,Pokhara,Brand New,12
+Samsung,Galaxy S23 FE,89999,8,256,6.4,4500,50,Snapdragon 8 Gen 1,Android,True,True,True,2023,Kathmandu,Good,18
