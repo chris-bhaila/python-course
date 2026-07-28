@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Education_Level,Annual_Income,Credit_Score,City_Category,Satisfaction_Level,Employment_Status,Experience_Years,Product_Preference,Subscription_Plan,Distance_from_Store,Number_of_Purchases,Target_Buy
+CUST_0001,56,Non-binary,Master,48747.730343426876,595,Tier 1,Very Satisfied,Unemployed,38,Fashion,Basic,5.918325155087222,10,No
+CUST_0002,69,Non-binary,Bachelor,105564.97406362496,535,Tier 2,Neutral,Employed,40,Electronics,Basic,5.183805734027732,9,Yes
+CUST_0003,46,Non-binary,Bachelor,34241.05220964001,355,Tier 3,Dissatisfied,Self-Employed,25,Electronics,Basic,5.813713917423621,6,Yes
+CUST_0004,32,Male,PhD,20000.0,659,Tier 2,Neutral,Unemployed,12,Electronics,Basic,2.3302767920988026,12,Yes
+CUST_0005,60,Non-binary,High School,79253.37839171063,409,Tier 2,Very Dissatisfied,Employed,39,Fashion,Premium,1.5218210611677605,17,Yes
+CUST_0006,25,Male,Bachelor,107274.35738593402,491,Tier 3,Satisfied,Unemployed,6,Home,Standard,7.129779493673243,7,No
+CUST_0007,38,Female,Master,65958.42130519605,392,Tier 1,Dissatisfied,Unemployed,16,Home,Standard,7.428306483427144,12,Yes
+CUST_0008,56,Non-binary,High School,65774.6478943992,359,Tier 2,Very Satisfied,Unemployed,38,Electronics,Basic,3.040505428726979,17,Yes
+CUST_0009,36,Male,Bachelor,53802.358527124976,338,Tier 3,Very Dissatisfied,Unemployed,16,Fashion,Basic,4.732513828504309,6,No
+CUST_0010,40,Male,PhD,24114.855389798802,839,Tier 3,Dissatisfied,Unemployed,18,Electronics,Basic,2.338189462897689,9,No
+CUST_0011,28,Non-binary,High School,30985.76164513047,348,Tier 2,Very Dissatisfied,Unemployed,9,Groceries,Basic,6.0524231368269,12,No
+CUST_0012,28,Female,Master,53664.93341202963,719,Tier 1,Very Satisfied,Unemployed,7,Home,Premium,9.030963545026186,9,Yes
+CUST_0013,41,Female,Bachelor,49830.89319940513,312,Tier 2,Dissatisfied,Self-Employed,23,Beauty,Basic,5.827500272978373,11,No
+CUST_0014,53,Female,Bachelor,57696.54144460116,335,Tier 1,Very Satisfied,Student,33,Electronics,Standard,3.593172469389689,9,Yes
+CUST_0015,57,Male,Bachelor,76586.49647856317,400,Tier 1,Neutral,Self-Employed,35,Groceries,Basic,3.0685198118819934,11,No
+CUST_0016,41,Male,High School,48363.24336165958,385,Tier 1,Very Satisfied,Unemployed,19,Home,Standard,5.140577856282879,16,Yes
+CUST_0017,20,Male,PhD,76994.33512809222,815,Tier 1,Neutral,Unemployed,2,Fashion,Premium,5.694217469964156,12,No
+CUST_0018,39,Male,PhD,48494.2058019446,522,Tier 2,Dissatisfied,Self-Employed,18,Home,Standard,4.090485424532705,11,Yes
+CUST_0019,19,Female,Bachelor,80764.79185731514,637,Tier 3,Neutral,Self-Employed,0,Fashion,Standard,4.903376659056277,8,Yes
+CUST_0020,41,Non-binary,Master,61727.35134146847,465,Tier 3,Dissatisfied,Student,20,Fashion,Premium,0.5078866408040855,7,Yes
+CUST_0021,61,Male,Bachelor,51283.39318156976,682,Tier 3,Dissatisfied,Self-Employed,40,Electronics,Standard,15.158405404968855,11,Yes
+CUST_0022,47,Male,Bachelor,61385.881210977794,675,Tier 3,Satisfied,Student,26,Electronics,Basic,7.821678983144736,5,Yes
+CUST_0023,55,Female,Bachelor,54129.22315684867,770,Tier 3,Dissatisfied,Unemployed,37,Home,Basic,2.3414484520462873,12,No
+CUST_0024,19,Non-binary,Bachelor,62262.68475359943,330,Tier 3,Neutral,Employed,1,Groceries,Standard,4.136966839559722,10,Yes
+CUST_0025,38,Non-binary,Bachelor,75162.12397034944,674,Tier 2,Satisfied,Employed,19,Home,Standard,0.24240484309272878,8,No
+CUST_0026,50,Female,Master,58255.688031687,310,Tier 1,Satisfied,Employed,29,Beauty,Basic,0.21050893009920718,10,Yes
+CUST_0027,29,Female,Bachelor,52608.622942924376,601,Tier 3,Dissatisfied,Employed,11,Fashion,Basic,1.443735430967936,6,Yes
+CUST_0028,39,Non-binary,High School,37529.67590178341,395,Tier 2,Very Satisfied,Unemployed,20,Fashion,Premium,5.851105001850577,12,No
+CUST_0029,61,Male,High School,71583.5603858343,489,Tier 3,Very Satisfied,Employed,40,Electronics,Basic,9.557708998966628,7,No
+CUST_0030,42,Non-binary,Bachelor,66965.4445280545,752,Tier 3,Satisfied,Self-Employed,21,Groceries,Basic,4.095659944714381,8,Yes
+CUST_0031,66,Female,Master,36361.14298144958,491,Tier 1,Dissatisfied,Self-Employed,40,Electronics,Basic,3.7978532744087956,10,Yes
+CUST_0032,44,Male,Bachelor,76709.88555841522,785,Tier 1,Very Satisfied,Employed,23,Beauty,Premium,2.573411370381548,11,Yes
+CUST_0033,59,Male,Bachelor,36036.319347953286,565,Tier 1,Dissatisfied,Self-Employed,39,Home,Basic,0.8812876369558097,15,Yes
+CUST_0034,45,Female,Bachelor,80584.43582467787,723,Tier 3,Dissatisfied,Student,26,Home,Standard,0.6298238950757586,8,Yes
+CUST_0035,33,Female,Bachelor,73757.26654374035,427,Tier 3,Satisfied,Unemployed,15,Groceries,Basic,7.149763563606167,13,No
+CUST_0036,32,Female,Bachelor,68393.31045196138,537,Tier 3,Satisfied,Employed,10,Electronics,Standard,13.121088508611383,4,Yes
+CUST_0037,64,Non-binary,Bachelor,52460.09681665928,654,Tier 1,Very Dissatisfied,Employed,40,Electronics,Premium,3.0650597678594,11,Yes
+CUST_0038,68,Non-binary,Master,71515.59565332906,411,Tier 2,Very Satisfied,Unemployed,40,Beauty,Basic,5.385902867570937,8,No
+CUST_0039,61,Male,Master,81527.43990482361,745,Tier 3,Very Satisfied,Self-Employed,40,Home,Standard,12.29371857165785,9,No
+CUST_0040,69,Female,Bachelor,71847.03842216346,642,Tier 3,Very Satisfied,Unemployed,40,Electronics,Basic,0.47217779312260505,8,Yes
+CUST_0041,20,Male,High School,46594.99956547525,444,Tier 3,Neutral,Unemployed,0,Groceries,Basic,7.3588571922533506,10,No
+CUST_0042,54,Male,High School,65348.13964710928,364,Tier 2,Dissatisfied,Self-Employed,35,Home,Premium,4.796211476895343,10,Yes
+CUST_0043,68,Male,High School,82640.69972590072,546,Tier 3,Satisfied,Unemployed,40,Beauty,Basic,4.564447349020934,7,No
+CUST_0044,24,Male,Bachelor,103981.96361113407,789,Tier 2,Very Satisfied,Self-Employed,3,Groceries,Standard,1.7303739691379318,8,No
+CUST_0045,38,Female,Bachelor,55895.740510016076,738,Tier 3,Very Dissatisfied,Self-Employed,16,Fashion,Basic,5.758378187248342,12,Yes
+CUST_0046,26,Male,Bachelor,77157.66212262861,405,Tier 2,Very Satisfied,Unemployed,5,Beauty,Basic,7.918796121630809,10,Yes
+CUST_0047,56,Female,Bachelor,82689.61040168637,480,Tier 3,Dissatisfied,Student,36,Groceries,Basic,0.5987520261051864,8,Yes
+CUST_0048,35,Female,High School,43751.900020204725,483,Tier 1,Dissatisfied,Self-Employed,14,Electronics,Standard,3.8127159984390504,11,Yes
+CUST_0049,21,Non-binary,Bachelor,95641.56636122963,525,Tier 1,Satisfied,Unemployed,0,Fashion,Basic,0.5338363065668027,12,No
+CUST_0050,42,Female,High School,38696.30631833109,388,Tier 1,Neutral,Self-Employed,24,Beauty,Standard,10.301098132376135,9,Yes
+CUST_0051,31,Non-binary,Bachelor,76179.71030065953,829,Tier 1,Satisfied,Student,12,Electronics,Basic,3.542692331825717,5,Yes
+CUST_0052,67,Female,High School,66106.39559094132,670,Tier 3,Very Satisfied,Student,40,Fashion,Basic,8.250406105763629,6,Yes
+CUST_0053,26,Female,Master,61111.5111999632,698,Tier 1,Very Dissatisfied,Employed,4,Home,Standard,2.2950069832650315,11,Yes
+CUST_0054,43,Female,High School,110936.66562897287,405,Tier 2,Satisfied,Self-Employed,23,Electronics,Premium,0.6681039934846343,12,Yes
+CUST_0055,19,Non-binary,PhD,53974.895293463975,570,Tier 1,Neutral,Self-Employed,0,Groceries,Basic,0.2119249538226374,8,No
+CUST_0056,37,Non-binary,Bachelor,53653.08814542783,802,Tier 1,Satisfied,Unemployed,17,Beauty,Standard,1.6530148181627995,9,No
+CUST_0057,45,Male,Master,86629.5761479559,824,Tier 1,Dissatisfied,Self-Employed,23,Fashion,Basic,1.400115390290302,10,No
+CUST_0058,64,Non-binary,Bachelor,75236.07556173566,331,Tier 3,Very Satisfied,Employed,40,Electronics,Standard,4.108904065738928,10,No
+CUST_0059,24,Non-binary,Master,85641.9784191711,692,Tier 1,Very Satisfied,Student,5,Home,Premium,0.10989303925304823,10,No
+CUST_0060,61,Non-binary,Master,62337.387646822266,339,Tier 2,Very Satisfied,Student,40,Beauty,Premium,3.6757925801122,7,No
+CUST_0061,25,Non-binary,Bachelor,66338.85234024326,517,Tier 1,Very Satisfied,Employed,7,Beauty,Standard,2.486025215738424,9,No
+CUST_0062,64,Male,Bachelor,98018.71225989149,381,Tier 1,Very Satisfied,Self-Employed,40,Electronics,Basic,4.303360979456631,9,Yes
+CUST_0063,52,Non-binary,Bachelor,43280.918408386075,500,Tier 1,Very Satisfied,Self-Employed,31,Home,Premium,6.060319380562481,13,Yes
+CUST_0064,31,Female,Bachelor,57942.45911816679,746,Tier 2,Very Dissatisfied,Employed,12,Fashion,Standard,5.026865966029731,10,Yes
+CUST_0065,34,Female,High School,75965.0814285089,727,Tier 1,Neutral,Unemployed,15,Electronics,Basic,20.881365280710774,12,Yes
+CUST_0066,53,Non-binary,Bachelor,56082.783598243244,337,Tier 2,Very Satisfied,Student,34,Fashion,Basic,0.744039396144409,9,No
+CUST_0067,67,Non-binary,Bachelor,48597.08241433929,510,Tier 2,Neutral,Employed,40,Beauty,Premium,2.8082881835884472,10,Yes
+CUST_0068,57,Female,Bachelor,72369.69025573044,743,Tier 1,Very Satisfied,Employed,39,Fashion,Premium,2.7654545522416685,7,Yes
+CUST_0069,21,Female,Master,86716.11332982988,626,Tier 2,Satisfied,Self-Employed,0,Home,Basic,2.6982967764576515,9,No
+CUST_0070,19,Male,Bachelor,57183.31274388286,526,Tier 3,Very Satisfied,Student,0,Groceries,Standard,5.450221376393158,10,Yes
+CUST_0071,23,Female,PhD,56628.20758378502,347,Tier 1,Dissatisfied,Self-Employed,3,Home,Premium,3.3650373694925078,10,Yes
+CUST_0072,59,Female,High School,47046.23948633138,317,Tier 1,Very Dissatisfied,Employed,38,Fashion,Basic,3.643172977809914,9,Yes
+CUST_0073,21,Non-binary,Bachelor,54080.46313188531,738,Tier 2,Satisfied,Unemployed,2,Electronics,Basic,2.8313040174304343,10,Yes
+CUST_0074,46,Female,Bachelor,81672.12159660371,486,Tier 2,Satisfied,Student,28,Beauty,Standard,23.957174143826748,15,No
+CUST_0075,35,Male,Bachelor,61621.257413873136,644,Tier 1,Dissatisfied,Employed,14,Groceries,Basic,13.125076329751774,6,No
+CUST_0076,43,Female,Master,43900.18678139424,523,Tier 3,Very Satisfied,Employed,22,Electronics,Basic,1.838854162449013,7,No
+CUST_0077,61,Non-binary,High School,65247.247606473255,787,Tier 2,Very Dissatisfied,Unemployed,40,Electronics,Standard,0.5916317429331388,10,Yes
+CUST_0078,51,Non-binary,Master,81023.88021972081,528,Tier 2,Satisfied,Employed,31,Home,Premium,9.155560345394434,5,No
+CUST_0079,27,Female,Bachelor,48762.286729051426,689,Tier 3,Very Dissatisfied,Employed,8,Fashion,Standard,29.337837071429714,12,No
+CUST_0080,53,Non-binary,Bachelor,33427.89560808873,487,Tier 3,Satisfied,Student,33,Home,Standard,1.7308578757382465,12,No
+CUST_0081,31,Male,Bachelor,103816.50319745504,569,Tier 1,Very Satisfied,Student,10,Fashion,Basic,2.2141601245865834,7,No
+CUST_0082,48,Male,Bachelor,32429.412999135056,609,Tier 3,Satisfied,Student,29,Home,Basic,14.2050386336883,12,Yes
+CUST_0083,65,Female,Bachelor,52819.54872288428,431,Tier 1,Satisfied,Self-Employed,40,Electronics,Standard,6.20888425251643,12,Yes
+CUST_0084,32,Female,Bachelor,64642.57023717339,371,Tier 3,Neutral,Unemployed,11,Beauty,Basic,1.7523166073614487,10,No
+CUST_0085,25,Female,High School,54551.44597511418,486,Tier 2,Very Satisfied,Student,5,Fashion,Premium,4.349976614672183,12,Yes
+CUST_0086,31,Non-binary,Bachelor,58501.783106899624,785,Tier 1,Dissatisfied,Self-Employed,11,Groceries,Basic,14.432558231395609,8,No
+CUST_0087,40,Male,High School,71536.76335749187,490,Tier 1,Dissatisfied,Self-Employed,20,Groceries,Basic,8.351598489818686,14,Yes
+CUST_0088,57,Male,Bachelor,20000.0,721,Tier 1,Very Satisfied,Unemployed,39,Electronics,Basic,6.770737538890501,10,Yes
+CUST_0089,38,Non-binary,Bachelor,34662.11056952298,419,Tier 3,Dissatisfied,Unemployed,17,Home,Premium,6.6779361152554,11,No
+CUST_0090,33,Male,Bachelor,60885.18772140658,519,Tier 2,Very Satisfied,Employed,14,Home,Basic,0.9801980482401127,9,Yes
+CUST_0091,62,Female,Bachelor,51915.6597605278,352,Tier 1,Dissatisfied,Self-Employed,40,Electronics,Basic,8.705747359169854,11,Yes
+CUST_0092,35,Female,High School,62588.225165511954,750,Tier 1,Neutral,Student,15,Groceries,Basic,1.615638784942712,5,Yes
+CUST_0093,64,Female,Bachelor,64553.06565262609,711,Tier 1,Dissatisfied,Unemployed,40,Groceries,Premium,13.322558866060705,9,No
+CUST_0094,41,Male,Bachelor,20000.0,536,Tier 1,Satisfied,Self-Employed,22,Home,Basic,2.2678174872784567,9,No
+CUST_0095,43,Female,Bachelor,85472.80664303293,705,Tier 2,Very Satisfied,Student,22,Fashion,Basic,9.74769753254151,10,Yes
+CUST_0096,42,Non-binary,Master,50034.642337993006,721,Tier 3,Very Dissatisfied,Self-Employed,20,Beauty,Basic,1.5478220669909193,12,No
+CUST_0097,62,Non-binary,High School,42689.73630447987,546,Tier 2,Very Dissatisfied,Unemployed,40,Fashion,Standard,3.613157374683425,6,Yes
+CUST_0098,58,Male,Bachelor,64167.10591918558,371,Tier 1,Very Satisfied,Employed,37,Groceries,Basic,0.565201289269741,16,Yes
+CUST_0099,46,Non-binary,Bachelor,62143.204555644865,484,Tier 2,Neutral,Self-Employed,24,Fashion,Basic,5.395797186155019,15,Yes
+CUST_0100,32,Non-binary,Bachelor,83933.81635309276,305,Tier 1,Dissatisfied,Student,12,Beauty,Basic,9.041861765949292,7,No
+CUST_0101,62,Male,High School,65437.46325540034,505,Tier 3,Neutral,Unemployed,40,Fashion,Standard,6.337177855738788,8,Yes
+CUST_0102,18,Female,High School,83162.21696048601,843,Tier 3,Very Dissatisfied,Employed,0,Fashion,Standard,3.7039044542559463,10,Yes
+CUST_0103,42,Female,Master,41236.45249144589,686,Tier 3,Very Satisfied,Student,20,Fashion,Standard,0.23082642356628189,16,Yes
+CUST_0104,24,Female,Bachelor,62837.22110414998,375,Tier 1,Very Satisfied,Student,4,Fashion,Premium,13.548333071786924,3,Yes
+CUST_0105,26,Male,Bachelor,37705.04585350222,476,Tier 2,Neutral,Student,6,Electronics,Premium,6.112203939114345,13,No
+CUST_0106,41,Non-binary,Bachelor,61953.51711120559,648,Tier 3,Neutral,Self-Employed,22,Groceries,Basic,6.849433300651503,10,Yes
+CUST_0107,18,Female,Bachelor,57714.24088796229,554,Tier 1,Dissatisfied,Unemployed,0,Beauty,Standard,7.915941721441742,11,Yes
+CUST_0108,61,Female,High School,56854.05149598194,607,Tier 1,Satisfied,Student,40,Groceries,Standard,6.88654279177034,11,Yes
+CUST_0109,25,Male,Bachelor,57029.44895276734,644,Tier 2,Satisfied,Self-Employed,7,Electronics,Premium,2.9090681719783102,10,No
+CUST_0110,41,Female,Bachelor,74727.78940369195,426,Tier 3,Dissatisfied,Unemployed,23,Electronics,Basic,6.614191427224427,12,No
+CUST_0111,28,Male,PhD,27852.806859948407,586,Tier 1,Satisfied,Unemployed,7,Electronics,Standard,4.904503448620723,17,Yes
+CUST_0112,68,Non-binary,High School,42004.24274431655,786,Tier 2,Very Dissatisfied,Self-Employed,40,Electronics,Basic,9.62130268987978,4,No
+CUST_0113,34,Male,Bachelor,59188.56346509649,682,Tier 3,Satisfied,Self-Employed,15,Fashion,Premium,8.109066243456327,14,Yes
+CUST_0114,25,Male,Bachelor,36426.738210575,705,Tier 2,Dissatisfied,Student,7,Groceries,Basic,0.2112733435569406,8,No
+CUST_0115,52,Male,Bachelor,60922.28212402088,687,Tier 2,Satisfied,Unemployed,34,Home,Basic,2.3812119723280647,13,Yes
+CUST_0116,52,Male,Bachelor,58982.94957517851,824,Tier 1,Very Satisfied,Employed,31,Beauty,Basic,0.17666539040025292,6,Yes
+CUST_0117,50,Non-binary,Bachelor,31924.867098948336,575,Tier 1,Neutral,Self-Employed,28,Electronics,Basic,0.5383432465620002,12,Yes
+CUST_0118,22,Non-binary,Master,30936.69707491445,799,Tier 1,Very Dissatisfied,Unemployed,0,Groceries,Standard,4.599118853606531,8,Yes
+CUST_0119,59,Female,Master,20000.0,636,Tier 2,Very Satisfied,Unemployed,38,Electronics,Basic,10.35030126596833,9,No
+CUST_0120,56,Non-binary,Bachelor,35586.59900636174,780,Tier 1,Very Satisfied,Student,38,Electronics,Basic,0.6381712675240627,15,Yes
+CUST_0121,58,Non-binary,Master,60286.465164212,572,Tier 2,Dissatisfied,Employed,39,Electronics,Premium,2.9990974362548513,9,Yes
+CUST_0122,45,Female,Bachelor,63123.75645881755,357,Tier 2,Neutral,Student,27,Electronics,Basic,12.088796069512512,9,Yes
+CUST_0123,24,Non-binary,Bachelor,64037.99119256902,627,Tier 1,Neutral,Employed,2,Electronics,Standard,8.418140538690704,9,Yes
+CUST_0124,26,Male,High School,44441.62374665238,408,Tier 3,Very Dissatisfied,Employed,8,Beauty,Basic,3.66638765978906,7,No
+CUST_0125,25,Male,PhD,59633.93031957021,578,Tier 3,Dissatisfied,Self-Employed,6,Groceries,Basic,7.3826588114828295,8,No
+CUST_0126,29,Female,High School,67944.89218482906,627,Tier 3,Very Dissatisfied,Unemployed,9,Electronics,Premium,3.697985054708362,8,No
+CUST_0127,51,Female,High School,34639.28900997694,614,Tier 2,Satisfied,Unemployed,33,Electronics,Standard,0.8604246749239182,8,No
+CUST_0128,50,Female,High School,62466.5814878108,773,Tier 2,Very Satisfied,Unemployed,29,Electronics,Basic,0.6661492660129724,2,Yes
+CUST_0129,65,Male,Bachelor,73129.62423670183,410,Tier 2,Very Dissatisfied,Employed,40,Electronics,Premium,1.0435426472223066,13,Yes
+CUST_0130,40,Non-binary,High School,50184.557403542385,528,Tier 1,Very Satisfied,Unemployed,19,Fashion,Premium,2.161012654542084,9,No
+CUST_0131,41,Male,High School,81244.68660699207,796,Tier 2,Dissatisfied,Self-Employed,20,Fashion,Premium,13.334248663590465,19,Yes
+CUST_0132,54,Female,High School,50651.3131235006,455,Tier 1,Satisfied,Employed,33,Home,Basic,8.039156360201321,14,Yes
+CUST_0133,52,Non-binary,High School,42798.7828975385,772,Tier 1,Dissatisfied,Employed,34,Electronics,Basic,2.8352302814133585,10,No
+CUST_0134,61,Non-binary,Bachelor,71136.82357105841,571,Tier 3,Satisfied,Employed,39,Home,Standard,3.396977940971602,8,Yes
+CUST_0135,57,Male,Bachelor,100665.87538932913,301,Tier 3,Satisfied,Employed,37,Beauty,Standard,1.5435715892242823,10,Yes
+CUST_0136,39,Female,Bachelor,61707.07237775618,810,Tier 3,Very Satisfied,Self-Employed,20,Home,Basic,6.092944783355155,11,Yes
+CUST_0137,44,Male,Bachelor,72698.15608227439,585,Tier 1,Dissatisfied,Unemployed,22,Groceries,Standard,8.116813860783122,13,Yes
+CUST_0138,52,Non-binary,Bachelor,49825.65557804312,312,Tier 1,Dissatisfied,Self-Employed,34,Fashion,Basic,1.3649834665406826,12,No
+CUST_0139,18,Male,High School,35167.67560407944,797,Tier 1,Very Dissatisfied,Unemployed,0,Fashion,Basic,0.21360660939309692,9,Yes
+CUST_0140,52,Male,Bachelor,63325.31291801467,537,Tier 2,Dissatisfied,Self-Employed,33,Electronics,Basic,4.88935407637655,9,No
+CUST_0141,54,Female,PhD,66487.99943575822,393,Tier 1,Very Dissatisfied,Student,34,Electronics,Standard,4.133531372244341,8,Yes
+CUST_0142,64,Female,Bachelor,52841.778192376754,637,Tier 3,Neutral,Student,40,Beauty,Basic,2.571919359385145,10,Yes
+CUST_0143,31,Non-binary,High School,72621.13036043012,470,Tier 3,Neutral,Student,9,Beauty,Premium,5.162633380654943,6,Yes
+CUST_0144,20,Male,Bachelor,46918.3998037136,766,Tier 1,Neutral,Student,1,Groceries,Standard,3.9993575510042816,11,No
+CUST_0145,18,Male,Bachelor,41958.27468296516,442,Tier 1,Dissatisfied,Employed,0,Electronics,Standard,1.4422890435814686,11,Yes
+CUST_0146,22,Male,Bachelor,81212.8586097233,500,Tier 3,Dissatisfied,Employed,2,Electronics,Premium,2.535238641895652,8,Yes
+CUST_0147,43,Non-binary,High School,81306.95253083261,479,Tier 1,Very Dissatisfied,Self-Employed,24,Beauty,Standard,2.794074279124338,13,No
+CUST_0148,31,Non-binary,High School,47313.13788328643,663,Tier 3,Satisfied,Self-Employed,10,Beauty,Premium,10.611661476184471,8,No
+CUST_0149,56,Female,High School,94377.00980809644,778,Tier 2,Very Dissatisfied,Student,36,Beauty,Basic,16.208695306712414,7,Yes
+CUST_0150,44,Female,PhD,54257.86614939501,770,Tier 3,Neutral,Unemployed,22,Fashion,Basic,11.174695886394176,13,Yes
+CUST_0151,26,Female,Master,61695.65729287917,683,Tier 2,Very Dissatisfied,Student,7,Home,Basic,6.3501717398481805,8,No
+CUST_0152,32,Male,High School,58306.949163031444,716,Tier 1,Satisfied,Self-Employed,10,Home,Basic,4.397296247605822,9,No
+CUST_0153,32,Male,High School,70475.2043489136,607,Tier 1,Dissatisfied,Student,10,Electronics,Premium,5.844019962325767,11,Yes
+CUST_0154,43,Female,Master,65428.42987601885,666,Tier 2,Very Dissatisfied,Self-Employed,21,Fashion,Basic,13.99336761745661,11,No
+CUST_0155,59,Male,High School,65159.243231633154,300,Tier 1,Neutral,Student,40,Beauty,Standard,1.4384019304248927,13,Yes
+CUST_0156,30,Female,High School,39608.76736560228,343,Tier 2,Neutral,Unemployed,8,Electronics,Standard,3.8298853163423323,14,No
+CUST_0157,68,Non-binary,PhD,26228.753664206313,397,Tier 1,Dissatisfied,Student,40,Fashion,Standard,5.849596627076591,17,Yes
+CUST_0158,49,Female,High School,82843.20056505724,564,Tier 3,Very Dissatisfied,Unemployed,28,Groceries,Basic,5.6854196329002615,8,Yes
+CUST_0159,56,Non-binary,Bachelor,49091.080021205125,439,Tier 1,Satisfied,Unemployed,36,Fashion,Standard,1.4536265558902413,10,Yes
+CUST_0160,66,Male,PhD,59019.33253133044,780,Tier 3,Dissatisfied,Self-Employed,40,Electronics,Basic,4.418289212344036,6,Yes
+CUST_0161,69,Female,Bachelor,66535.97819779562,536,Tier 3,Very Dissatisfied,Unemployed,40,Home,Basic,7.946048016515384,10,No
+CUST_0162,49,Male,High School,92580.19206698536,371,Tier 2,Very Satisfied,Employed,30,Beauty,Standard,3.2225373294920683,10,Yes
+CUST_0163,21,Non-binary,High School,63227.15849285016,489,Tier 1,Neutral,Employed,3,Groceries,Standard,7.882387537710168,7,No
+CUST_0164,47,Non-binary,Master,52104.048741518054,567,Tier 2,Satisfied,Employed,27,Fashion,Basic,2.230518392215779,8,Yes
+CUST_0165,54,Non-binary,Master,49529.112374262855,620,Tier 1,Satisfied,Self-Employed,32,Electronics,Premium,13.96478392338415,14,No
+CUST_0166,40,Male,Master,59252.86317516123,406,Tier 3,Satisfied,Employed,21,Electronics,Basic,3.8170804774253595,8,No
+CUST_0167,56,Male,High School,41812.70460718774,531,Tier 3,Neutral,Self-Employed,38,Beauty,Basic,4.531057873238569,12,No
+CUST_0168,62,Male,Master,60577.5144629802,341,Tier 1,Very Dissatisfied,Self-Employed,40,Electronics,Basic,0.15931936372592603,9,Yes
+CUST_0169,32,Male,PhD,58959.606230839716,438,Tier 1,Dissatisfied,Employed,12,Electronics,Standard,0.9332694618818496,11,No
+CUST_0170,60,Non-binary,Bachelor,92830.53897288302,572,Tier 2,Very Dissatisfied,Unemployed,38,Beauty,Standard,5.011066424752949,6,Yes
+CUST_0171,46,Non-binary,PhD,58327.97722818158,780,Tier 1,Dissatisfied,Student,26,Groceries,Basic,2.7225185174313555,7,Yes
+CUST_0172,53,Female,Master,21510.236779023006,715,Tier 1,Satisfied,Self-Employed,34,Home,Basic,3.548047626755626,17,Yes
+CUST_0173,30,Female,Bachelor,113470.21940792957,805,Tier 1,Very Dissatisfied,Employed,10,Home,Standard,0.3252074179229668,8,Yes
+CUST_0174,49,Male,Bachelor,79136.67462312194,723,Tier 2,Satisfied,Self-Employed,28,Fashion,Basic,8.98291255942195,8,No
+CUST_0175,24,Non-binary,Bachelor,101646.9748819117,706,Tier 1,Very Satisfied,Unemployed,5,Groceries,Basic,7.6741018325522115,8,No
+CUST_0176,68,Non-binary,High School,36853.60026031031,689,Tier 3,Satisfied,Unemployed,40,Fashion,Standard,1.0250079306361342,11,Yes
+CUST_0177,39,Non-binary,Bachelor,55563.46437487416,641,Tier 2,Satisfied,Employed,21,Home,Basic,5.030111169678129,9,Yes
+CUST_0178,45,Female,Bachelor,73488.02482988639,792,Tier 2,Dissatisfied,Self-Employed,23,Beauty,Premium,8.527410128000657,10,Yes
+CUST_0179,19,Female,Master,70727.82744568918,491,Tier 3,Very Satisfied,Student,0,Electronics,Basic,5.120133338822297,16,No
+CUST_0180,59,Non-binary,PhD,66138.75414719104,798,Tier 3,Satisfied,Student,38,Home,Standard,1.8582039879723988,5,Yes
+CUST_0181,62,Non-binary,Master,20000.0,532,Tier 3,Satisfied,Self-Employed,40,Groceries,Basic,5.337183928378791,9,Yes
+CUST_0182,23,Non-binary,High School,25751.210848713723,526,Tier 1,Very Satisfied,Self-Employed,5,Home,Premium,1.1815349757030686,7,No
+CUST_0183,45,Female,High School,90350.40218127743,670,Tier 3,Very Satisfied,Self-Employed,27,Groceries,Basic,1.9154979367973124,15,No
+CUST_0184,45,Non-binary,High School,93906.5906573938,438,Tier 1,Very Dissatisfied,Employed,27,Groceries,Standard,1.3726424936350279,12,No
+CUST_0185,61,Non-binary,Bachelor,57866.974171272086,448,Tier 2,Dissatisfied,Unemployed,40,Groceries,Standard,4.070082270654856,7,No
+CUST_0186,61,Male,Master,87808.54948812764,414,Tier 2,Very Satisfied,Student,40,Fashion,Basic,0.5727163349510698,5,No
+CUST_0187,37,Male,PhD,39535.444677134044,749,Tier 3,Very Satisfied,Employed,18,Beauty,Basic,13.53852982791568,13,Yes
+CUST_0188,47,Female,Bachelor,44111.478930626385,362,Tier 1,Neutral,Self-Employed,26,Home,Standard,2.0286683733161675,6,No
+CUST_0189,28,Non-binary,PhD,37954.39356273701,403,Tier 3,Very Satisfied,Self-Employed,8,Beauty,Premium,1.2357094016475887,13,Yes
+CUST_0190,45,Non-binary,Master,43001.60908622708,572,Tier 3,Dissatisfied,Unemployed,27,Electronics,Basic,3.4313525318945586,12,No
+CUST_0191,42,Male,Bachelor,74453.92019045238,305,Tier 1,Satisfied,Self-Employed,24,Home,Basic,1.6217151973810893,10,Yes
+CUST_0192,56,Female,Master,42752.952538731115,446,Tier 3,Satisfied,Employed,34,Beauty,Premium,3.827558144104397,10,No
+CUST_0193,50,Male,Bachelor,104794.86079855729,483,Tier 2,Satisfied,Employed,28,Beauty,Basic,2.1424596334701973,13,Yes
+CUST_0194,18,Male,High School,69201.41212694877,327,Tier 3,Satisfied,Unemployed,0,Electronics,Premium,0.7082026910813788,4,Yes
+CUST_0195,44,Male,Bachelor,81690.54092990176,849,Tier 1,Neutral,Employed,26,Groceries,Standard,1.5455176925886949,11,Yes
+CUST_0196,69,Male,Bachelor,69798.81165600146,418,Tier 1,Very Satisfied,Student,40,Home,Standard,2.8851818889655014,6,Yes
+CUST_0197,30,Non-binary,Bachelor,84285.39300918559,592,Tier 2,Satisfied,Employed,10,Home,Basic,0.15380774262487634,13,No
+CUST_0198,58,Non-binary,Bachelor,42640.00000922906,670,Tier 1,Very Dissatisfied,Employed,39,Electronics,Basic,7.3623673757315515,8,Yes
+CUST_0199,20,Male,Bachelor,88938.67076399113,543,Tier 1,Satisfied,Employed,2,Groceries,Standard,4.861985380951798,14,Yes
+CUST_0200,56,Female,Bachelor,62818.777711828734,517,Tier 2,Very Satisfied,Student,36,Home,Premium,4.598477699279182,16,No
+CUST_0201,23,Female,Bachelor,84185.32221937478,476,Tier 3,Satisfied,Self-Employed,5,Home,Premium,3.9488403455494794,6,No
+CUST_0202,25,Female,Bachelor,31208.718932476317,598,Tier 2,Neutral,Employed,3,Home,Basic,4.461811230467595,14,Yes
+CUST_0203,44,Female,Bachelor,63611.66413216726,357,Tier 3,Dissatisfied,Unemployed,23,Groceries,Basic,13.640138600557643,14,Yes
+CUST_0204,26,Male,Bachelor,62904.7743356333,568,Tier 2,Dissatisfied,Student,4,Electronics,Basic,0.1,8,No
+CUST_0205,54,Non-binary,High School,47615.27070041117,607,Tier 3,Very Satisfied,Unemployed,35,Home,Premium,0.24489938652233798,8,No
+CUST_0206,50,Female,Bachelor,66262.37659494528,587,Tier 2,Dissatisfied,Employed,28,Beauty,Basic,1.0628322450794228,4,No
+CUST_0207,68,Male,High School,90792.1369600303,404,Tier 3,Dissatisfied,Unemployed,40,Groceries,Basic,0.9154175149651388,8,No
+CUST_0208,59,Female,Bachelor,46076.95282073758,527,Tier 2,Very Dissatisfied,Employed,37,Fashion,Basic,0.9995432928529318,11,Yes
+CUST_0209,61,Female,Master,79237.08712409876,546,Tier 3,Very Satisfied,Student,40,Electronics,Basic,5.572853027503681,10,Yes
+CUST_0210,41,Male,Bachelor,37451.538877069834,793,Tier 2,Very Satisfied,Unemployed,22,Beauty,Premium,3.076148735028896,9,Yes
+CUST_0211,32,Non-binary,Bachelor,102188.89189284918,382,Tier 1,Dissatisfied,Unemployed,10,Home,Standard,24.005243117949163,10,No
+CUST_0212,49,Non-binary,PhD,75692.00636873418,485,Tier 3,Dissatisfied,Employed,28,Fashion,Basic,1.2866432685382296,11,Yes
+CUST_0213,49,Male,Master,94502.34664517143,551,Tier 2,Dissatisfied,Employed,28,Electronics,Basic,1.8613372529886618,9,Yes
+CUST_0214,41,Non-binary,PhD,73441.21038187535,654,Tier 3,Neutral,Self-Employed,20,Groceries,Basic,20.751628389624468,8,Yes
+CUST_0215,58,Male,Master,67812.26355458723,509,Tier 3,Satisfied,Employed,36,Fashion,Basic,8.911763483912067,10,Yes
+CUST_0216,69,Male,High School,75858.65880971837,746,Tier 2,Neutral,Employed,40,Fashion,Basic,3.1724975763254735,9,Yes
+CUST_0217,66,Male,High School,57271.05073291657,759,Tier 3,Very Satisfied,Self-Employed,40,Beauty,Standard,4.043877658478213,7,Yes
+CUST_0218,66,Non-binary,Bachelor,27643.32188883356,771,Tier 2,Very Dissatisfied,Employed,40,Electronics,Basic,9.263216844079622,10,Yes
+CUST_0219,69,Male,High School,68947.98692933585,669,Tier 1,Satisfied,Employed,40,Beauty,Basic,3.279066674864014,7,Yes
+CUST_0220,29,Female,Bachelor,44889.933308004904,791,Tier 3,Very Dissatisfied,Self-Employed,8,Beauty,Basic,1.153508483741157,9,No
+CUST_0221,56,Non-binary,Bachelor,37966.76169241195,436,Tier 1,Very Satisfied,Student,38,Home,Standard,8.814243371510473,14,Yes
+CUST_0222,19,Non-binary,Bachelor,72725.8633687722,666,Tier 3,Very Satisfied,Student,0,Groceries,Standard,3.858490329922052,7,Yes
+CUST_0223,20,Non-binary,Master,54417.83050200612,483,Tier 3,Very Dissatisfied,Employed,2,Fashion,Standard,0.830524387028226,15,Yes
+CUST_0224,66,Non-binary,Master,80554.0881321138,586,Tier 3,Very Dissatisfied,Employed,40,Electronics,Standard,3.5219085732084805,12,Yes
+CUST_0225,54,Female,Bachelor,44221.18462481859,771,Tier 2,Very Dissatisfied,Self-Employed,33,Groceries,Standard,2.665384969007901,6,No
+CUST_0226,66,Non-binary,Master,50583.42046972347,674,Tier 1,Very Satisfied,Self-Employed,40,Groceries,Basic,10.471457569000052,10,Yes
+CUST_0227,34,Non-binary,Bachelor,83005.92052602787,836,Tier 3,Dissatisfied,Student,13,Electronics,Premium,0.673691639737004,11,No
+CUST_0228,66,Male,Master,65596.85321995217,810,Tier 2,Very Dissatisfied,Unemployed,40,Groceries,Basic,10.405606937075824,10,Yes
+CUST_0229,19,Non-binary,High School,30453.439181877206,549,Tier 3,Satisfied,Employed,1,Home,Basic,3.5893618907114275,8,No
+CUST_0230,19,Female,PhD,65155.21765720222,809,Tier 2,Very Satisfied,Unemployed,0,Groceries,Standard,2.5906312931721076,12,No
+CUST_0231,45,Female,Bachelor,89624.77097177607,372,Tier 3,Neutral,Unemployed,27,Home,Basic,0.8834900992153267,11,Yes
+CUST_0232,40,Female,Bachelor,50428.45110757066,581,Tier 1,Neutral,Self-Employed,21,Fashion,Premium,6.033515351205522,17,No
+CUST_0233,54,Female,High School,71961.15392905817,659,Tier 1,Satisfied,Employed,33,Fashion,Basic,13.07325758362076,11,Yes
+CUST_0234,49,Non-binary,Bachelor,43012.2616968819,309,Tier 3,Dissatisfied,Employed,30,Beauty,Premium,2.3530378891244026,9,Yes
+CUST_0235,50,Non-binary,High School,57264.33450061142,510,Tier 2,Very Dissatisfied,Self-Employed,31,Home,Premium,1.382622753202121,10,Yes
+CUST_0236,18,Female,High School,81796.71072900867,451,Tier 3,Very Satisfied,Unemployed,0,Fashion,Premium,4.046909893015282,5,No
+CUST_0237,36,Female,Bachelor,64384.63335509947,304,Tier 2,Very Dissatisfied,Self-Employed,16,Groceries,Premium,7.952736063741371,8,No
+CUST_0238,19,Non-binary,Bachelor,85785.39725431273,494,Tier 3,Very Satisfied,Student,0,Electronics,Premium,0.1,11,Yes
+CUST_0239,61,Female,Bachelor,68506.04808455723,582,Tier 2,Neutral,Employed,40,Electronics,Standard,4.989910106415319,9,No
+CUST_0240,43,Male,PhD,104374.79354401684,763,Tier 1,Very Dissatisfied,Student,21,Home,Basic,4.538092234128837,12,Yes
+CUST_0241,49,Female,Bachelor,28701.732615614612,412,Tier 3,Satisfied,Self-Employed,30,Beauty,Basic,1.914743961899673,6,No
+CUST_0242,23,Female,Bachelor,55656.132998780704,570,Tier 1,Dissatisfied,Employed,1,Groceries,Standard,3.00213816414373,10,No
+CUST_0243,49,Male,High School,38309.324134158975,462,Tier 1,Satisfied,Student,29,Home,Premium,1.4182060664015295,10,No
+CUST_0244,21,Male,Master,39675.01651083501,759,Tier 3,Dissatisfied,Student,3,Electronics,Standard,7.80051895622446,12,No
+CUST_0245,28,Non-binary,Bachelor,39856.326123879204,404,Tier 3,Very Dissatisfied,Unemployed,8,Home,Premium,5.032922906425622,9,No
+CUST_0246,34,Non-binary,PhD,63354.5164410244,581,Tier 2,Very Dissatisfied,Employed,14,Groceries,Premium,3.8040435010065514,10,No
+CUST_0247,55,Male,Master,64526.01869643734,461,Tier 2,Dissatisfied,Student,37,Fashion,Basic,2.4922311483247923,7,Yes
+CUST_0248,41,Male,Bachelor,68549.11849990232,650,Tier 1,Neutral,Student,21,Groceries,Basic,1.7222102591210044,8,No
+CUST_0249,22,Non-binary,High School,37538.788797108966,733,Tier 2,Very Satisfied,Unemployed,1,Fashion,Basic,8.650589370630126,12,Yes
+CUST_0250,69,Female,Master,53515.50362003419,439,Tier 2,Satisfied,Student,40,Fashion,Basic,3.0019984120467695,12,Yes
+CUST_0251,51,Male,Master,40714.107204872635,770,Tier 3,Satisfied,Student,30,Fashion,Standard,3.4802310919781485,11,Yes
+CUST_0252,23,Non-binary,High School,78717.63112543432,431,Tier 2,Satisfied,Student,1,Home,Premium,3.6784859459842973,4,Yes
+CUST_0253,39,Female,High School,42594.64899638053,386,Tier 1,Very Dissatisfied,Unemployed,19,Electronics,Standard,2.9743609592102733,10,No
+CUST_0254,28,Male,Master,55725.75696008237,482,Tier 2,Satisfied,Student,10,Home,Basic,1.4791655184177974,12,No
+CUST_0255,65,Female,High School,71206.12882646211,667,Tier 1,Very Satisfied,Student,40,Electronics,Basic,0.6411015513679642,7,No
+CUST_0256,33,Non-binary,PhD,47687.4265100487,428,Tier 3,Very Satisfied,Employed,11,Groceries,Basic,0.5186828812948064,9,No
+CUST_0257,50,Male,Bachelor,73877.56889961308,545,Tier 1,Dissatisfied,Employed,32,Beauty,Standard,7.082995188100658,11,Yes
+CUST_0258,26,Female,High School,91921.59471066298,677,Tier 2,Very Dissatisfied,Unemployed,5,Groceries,Basic,1.2649723371502688,8,Yes
+CUST_0259,23,Male,Master,63794.234574510505,448,Tier 3,Very Satisfied,Self-Employed,3,Home,Basic,0.2864128927908,16,Yes
+CUST_0260,33,Female,Bachelor,78032.21829136815,732,Tier 2,Neutral,Employed,15,Home,Basic,7.985506775611294,9,No
+CUST_0261,46,Non-binary,Bachelor,20000.0,768,Tier 3,Very Dissatisfied,Unemployed,28,Electronics,Basic,0.8365439887664217,14,Yes
+CUST_0262,20,Non-binary,High School,51418.961463042986,745,Tier 3,Very Dissatisfied,Student,1,Home,Premium,4.906094534362716,6,No
+CUST_0263,37,Male,High School,63698.01633857954,780,Tier 2,Very Satisfied,Student,18,Fashion,Basic,2.0673095229812724,4,No
+CUST_0264,53,Female,Bachelor,38940.698431993864,593,Tier 2,Neutral,Unemployed,34,Home,Basic,0.6761227356745334,12,No
+CUST_0265,36,Male,Bachelor,64152.98670808184,442,Tier 3,Dissatisfied,Student,16,Electronics,Basic,2.6762830507150817,6,No
+CUST_0266,43,Male,Bachelor,81198.81112118301,549,Tier 3,Very Satisfied,Student,22,Electronics,Basic,0.1,3,No
+CUST_0267,20,Female,Master,22408.787439799562,601,Tier 2,Neutral,Self-Employed,0,Fashion,Standard,9.195670128361002,4,Yes
+CUST_0268,36,Female,Bachelor,36218.54268392305,324,Tier 1,Very Dissatisfied,Student,15,Electronics,Standard,3.602570934530938,14,Yes
+CUST_0269,37,Female,High School,63696.265415283706,369,Tier 2,Neutral,Employed,17,Beauty,Basic,0.7492331746202641,12,No
+CUST_0270,49,Non-binary,Bachelor,69208.39458880096,411,Tier 3,Very Dissatisfied,Student,29,Groceries,Standard,1.3523572649813507,12,Yes
+CUST_0271,24,Male,PhD,74761.60749819301,663,Tier 2,Very Satisfied,Unemployed,5,Home,Basic,2.9708114596843087,12,No
+CUST_0272,69,Male,Master,62217.78957775536,602,Tier 1,Very Satisfied,Self-Employed,40,Beauty,Standard,1.0466309044373316,15,Yes
+CUST_0273,58,Non-binary,Bachelor,69230.24810031618,770,Tier 2,Satisfied,Student,36,Home,Basic,1.5639681341874838,11,Yes
+CUST_0274,50,Female,High School,78069.61417081361,390,Tier 3,Satisfied,Unemployed,28,Beauty,Basic,3.8219868919809716,17,Yes
+CUST_0275,57,Non-binary,Bachelor,51710.83796459348,829,Tier 2,Satisfied,Employed,39,Home,Standard,8.937114818523632,8,Yes
+CUST_0276,56,Non-binary,Master,47828.27827987158,491,Tier 3,Very Satisfied,Student,37,Fashion,Premium,2.569482384145338,10,Yes
+CUST_0277,35,Non-binary,Master,56629.86738130263,541,Tier 3,Dissatisfied,Self-Employed,17,Electronics,Standard,6.311105062766799,11,Yes
+CUST_0278,57,Male,Bachelor,63989.75884554826,437,Tier 2,Very Satisfied,Student,39,Electronics,Basic,10.465034217180264,10,Yes
+CUST_0279,18,Non-binary,Master,46834.53113597364,644,Tier 3,Neutral,Unemployed,0,Fashion,Basic,1.218650923702504,6,Yes
+CUST_0280,28,Male,Master,52124.85367053576,479,Tier 3,Very Satisfied,Self-Employed,9,Beauty,Premium,8.230301251906075,9,No
+CUST_0281,45,Male,High School,67954.03541014591,802,Tier 1,Very Satisfied,Student,25,Groceries,Basic,7.081751720295553,6,Yes
+CUST_0282,42,Male,Bachelor,63155.015620594306,502,Tier 1,Very Dissatisfied,Employed,20,Beauty,Basic,2.2075652232181326,8,Yes
+CUST_0283,67,Female,High School,56293.257543684835,491,Tier 1,Very Dissatisfied,Self-Employed,40,Electronics,Basic,22.791413678378163,8,Yes
+CUST_0284,40,Male,High School,25178.61379874702,304,Tier 1,Very Dissatisfied,Employed,21,Groceries,Basic,1.5229366317195998,8,No
+CUST_0285,48,Male,Master,59929.8401598292,536,Tier 3,Very Satisfied,Unemployed,30,Home,Basic,1.4705351151144517,10,Yes
+CUST_0286,47,Female,Bachelor,40599.92064981915,610,Tier 2,Dissatisfied,Student,26,Groceries,Basic,7.397734918109258,7,Yes
+CUST_0287,59,Male,Bachelor,79661.654104118,848,Tier 3,Neutral,Employed,38,Beauty,Basic,2.851616074844408,11,Yes
+CUST_0288,52,Non-binary,High School,53825.576934429846,355,Tier 3,Neutral,Unemployed,33,Fashion,Premium,2.008324152453745,17,Yes
+CUST_0289,24,Non-binary,Bachelor,40075.358875549595,742,Tier 3,Dissatisfied,Student,3,Home,Basic,0.9841077085810539,13,No
+CUST_0290,33,Male,High School,58769.13452239903,536,Tier 2,Dissatisfied,Unemployed,13,Beauty,Basic,7.24792683025106,15,Yes
+CUST_0291,43,Female,High School,85413.99170184383,496,Tier 1,Neutral,Employed,22,Home,Standard,7.716420813718292,6,No
+CUST_0292,65,Non-binary,Bachelor,72616.31698289239,813,Tier 3,Satisfied,Unemployed,40,Groceries,Standard,4.180055683189701,10,No
+CUST_0293,69,Female,High School,64398.34301211868,748,Tier 3,Very Dissatisfied,Self-Employed,40,Electronics,Basic,15.76937609840356,10,No
+CUST_0294,66,Female,Bachelor,33478.09881906287,659,Tier 1,Very Dissatisfied,Student,40,Beauty,Premium,1.9148252462300195,9,Yes
+CUST_0295,19,Non-binary,High School,92432.00199532643,329,Tier 3,Neutral,Unemployed,0,Fashion,Basic,1.239865376484595,11,No
+CUST_0296,18,Female,High School,47567.45651928194,407,Tier 2,Dissatisfied,Employed,0,Groceries,Premium,5.6577455299554735,10,Yes
+CUST_0297,65,Non-binary,High School,78675.67825744685,744,Tier 3,Satisfied,Student,40,Beauty,Basic,7.1025378923024824,9,Yes
+CUST_0298,29,Female,Bachelor,53492.7424329717,737,Tier 3,Neutral,Self-Employed,7,Fashion,Basic,1.2738546433412312,12,No
+CUST_0299,22,Non-binary,Bachelor,76750.15744966478,756,Tier 1,Very Dissatisfied,Student,3,Beauty,Premium,0.39852213090022953,12,Yes
+CUST_0300,54,Male,Bachelor,86137.48191750547,794,Tier 3,Very Satisfied,Self-Employed,36,Groceries,Standard,8.31726629350102,11,Yes
+CUST_0301,49,Non-binary,Bachelor,72962.74539815067,546,Tier 3,Dissatisfied,Student,30,Beauty,Basic,18.754194231478277,11,Yes
+CUST_0302,26,Non-binary,Master,75117.0991951988,842,Tier 2,Very Satisfied,Unemployed,8,Home,Basic,5.173573887559227,4,Yes
+CUST_0303,58,Non-binary,High School,58031.220276887354,738,Tier 1,Neutral,Unemployed,36,Groceries,Basic,1.6277290412414849,8,No
+CUST_0304,52,Non-binary,Bachelor,51320.67715854378,577,Tier 1,Very Dissatisfied,Employed,34,Beauty,Standard,28.527833155774424,13,Yes
+CUST_0305,36,Female,Master,62765.97379571621,410,Tier 2,Satisfied,Self-Employed,17,Electronics,Basic,11.187107411347679,9,Yes
+CUST_0306,65,Male,Bachelor,53201.70988461566,684,Tier 3,Very Satisfied,Employed,40,Beauty,Basic,3.601365380290218,11,Yes
+CUST_0307,33,Non-binary,Bachelor,109344.07421624984,490,Tier 1,Satisfied,Unemployed,14,Home,Basic,8.72403452897522,12,No
+CUST_0308,20,Female,PhD,40152.83427018973,789,Tier 1,Very Dissatisfied,Self-Employed,0,Fashion,Standard,8.459222898670722,12,Yes
+CUST_0309,37,Male,Master,80041.70433180819,725,Tier 3,Very Satisfied,Employed,17,Fashion,Premium,13.651400038103503,9,Yes
+CUST_0310,41,Male,High School,70343.93669078028,704,Tier 3,Satisfied,Employed,21,Fashion,Standard,9.191861107265865,13,No
+CUST_0311,50,Male,Bachelor,64597.44416247876,634,Tier 1,Satisfied,Employed,30,Electronics,Basic,5.159619656075316,10,Yes
+CUST_0312,41,Male,Bachelor,89597.7219982768,508,Tier 3,Very Satisfied,Employed,19,Home,Premium,4.6991239783374175,7,Yes
+CUST_0313,69,Non-binary,Bachelor,65967.54905202358,321,Tier 1,Very Dissatisfied,Employed,40,Groceries,Standard,3.1495220708592893,19,Yes
+CUST_0314,28,Non-binary,Bachelor,47301.861605151695,507,Tier 3,Satisfied,Self-Employed,7,Fashion,Premium,4.9239941397411275,10,No
+CUST_0315,66,Female,Bachelor,65834.60754506815,307,Tier 3,Neutral,Employed,40,Home,Basic,7.929011890072242,9,No
+CUST_0316,25,Female,Bachelor,56336.43462189543,828,Tier 2,Very Satisfied,Self-Employed,7,Beauty,Basic,17.374912816927104,13,Yes
+CUST_0317,53,Female,Bachelor,70065.69337633297,465,Tier 3,Dissatisfied,Employed,34,Electronics,Standard,3.148865668754928,10,No
+CUST_0318,55,Male,Master,76261.47263258997,795,Tier 2,Dissatisfied,Unemployed,36,Home,Basic,4.262510932014704,6,No
+CUST_0319,57,Male,Bachelor,42818.241152718605,728,Tier 3,Very Dissatisfied,Unemployed,38,Home,Standard,2.9421838363934554,12,Yes
+CUST_0320,37,Non-binary,High School,83906.72236005632,462,Tier 1,Neutral,Employed,18,Groceries,Premium,5.520465720517098,14,Yes
+CUST_0321,52,Male,Bachelor,54902.00310263082,665,Tier 1,Satisfied,Student,31,Home,Premium,4.970187212665852,9,No
+CUST_0322,65,Male,High School,68872.27845364356,825,Tier 3,Dissatisfied,Unemployed,40,Groceries,Premium,0.1,10,Yes
+CUST_0323,42,Male,Bachelor,72340.60340641392,538,Tier 3,Very Dissatisfied,Self-Employed,23,Electronics,Standard,3.895285557463816,9,Yes
+CUST_0324,52,Female,Bachelor,67347.7738126126,371,Tier 1,Neutral,Employed,31,Electronics,Basic,0.46324654166877505,9,Yes
+CUST_0325,42,Female,High School,57817.829646948616,744,Tier 3,Neutral,Self-Employed,23,Beauty,Basic,0.13368955622035233,7,No
+CUST_0326,46,Non-binary,Bachelor,50228.04836014672,808,Tier 2,Very Dissatisfied,Student,26,Groceries,Basic,7.831824157588189,11,No
+CUST_0327,35,Male,High School,54620.10985393317,568,Tier 2,Very Dissatisfied,Employed,16,Groceries,Standard,1.4964112229305202,10,Yes
+CUST_0328,63,Male,High School,91303.43865057755,714,Tier 2,Satisfied,Unemployed,40,Fashion,Basic,2.082542391006959,12,Yes
+CUST_0329,35,Non-binary,Bachelor,42682.67125741881,544,Tier 2,Very Dissatisfied,Self-Employed,13,Fashion,Basic,0.3311508898007454,5,No
+CUST_0330,19,Male,Bachelor,45615.13324074067,359,Tier 2,Satisfied,Unemployed,0,Beauty,Standard,0.9892084296724618,10,No
+CUST_0331,52,Male,PhD,44737.023537125715,305,Tier 3,Satisfied,Unemployed,34,Electronics,Standard,7.253733885989281,7,No
+CUST_0332,33,Female,Bachelor,62715.0775983533,706,Tier 3,Very Satisfied,Employed,14,Fashion,Premium,3.401459131560423,7,No
+CUST_0333,58,Non-binary,Bachelor,29505.891000243882,516,Tier 2,Neutral,Self-Employed,40,Home,Standard,10.629248153328541,7,No
+CUST_0334,53,Non-binary,Bachelor,32928.80287731213,325,Tier 3,Neutral,Student,33,Electronics,Standard,2.5311985380837037,10,Yes
+CUST_0335,50,Non-binary,High School,54780.90334081484,304,Tier 3,Neutral,Unemployed,31,Home,Standard,1.5646625639831409,8,No
+CUST_0336,21,Non-binary,PhD,34244.49109403524,831,Tier 2,Very Satisfied,Employed,0,Groceries,Premium,2.135485619185874,13,Yes
+CUST_0337,50,Female,Bachelor,35874.57381434397,689,Tier 3,Satisfied,Employed,29,Electronics,Standard,6.237391173210276,10,Yes
+CUST_0338,31,Female,Master,34394.631812741216,747,Tier 3,Satisfied,Student,9,Beauty,Premium,4.048468718581041,10,Yes
+CUST_0339,38,Male,High School,43067.76581733342,445,Tier 3,Very Dissatisfied,Employed,16,Groceries,Premium,11.727004095072806,6,No
+CUST_0340,65,Male,Bachelor,74624.93013340812,687,Tier 2,Very Satisfied,Unemployed,40,Groceries,Premium,4.608637036601555,16,No
+CUST_0341,37,Male,Bachelor,79114.15912242165,548,Tier 3,Very Dissatisfied,Employed,16,Home,Basic,3.396400951002917,6,Yes
+CUST_0342,25,Male,Master,98380.01786437212,825,Tier 1,Very Satisfied,Self-Employed,4,Groceries,Basic,7.703122175877091,13,Yes
+CUST_0343,24,Female,High School,97647.23717026957,761,Tier 1,Very Dissatisfied,Self-Employed,5,Fashion,Basic,14.737935466085329,7,No
+CUST_0344,20,Non-binary,Bachelor,75726.25419760894,312,Tier 2,Dissatisfied,Unemployed,2,Electronics,Basic,2.1990865662235772,10,No
+CUST_0345,34,Female,PhD,80553.55349602064,683,Tier 1,Neutral,Self-Employed,16,Fashion,Basic,1.4375851647942541,5,No
+CUST_0346,50,Male,Bachelor,62622.041813718366,698,Tier 2,Neutral,Student,29,Home,Basic,4.788395114463314,12,Yes
+CUST_0347,65,Female,Bachelor,70397.29704024538,318,Tier 1,Satisfied,Employed,40,Home,Basic,3.454476800597382,10,Yes
+CUST_0348,29,Non-binary,High School,98872.0609636634,790,Tier 1,Dissatisfied,Unemployed,9,Electronics,Standard,22.63437187692499,13,Yes
+CUST_0349,68,Non-binary,PhD,67424.25736113661,718,Tier 1,Neutral,Student,40,Groceries,Standard,3.1028470313248375,7,Yes
+CUST_0350,39,Female,High School,83064.77157090479,636,Tier 2,Satisfied,Employed,17,Beauty,Basic,0.38619577637727054,8,Yes
+CUST_0351,39,Female,Master,41312.96782842978,718,Tier 2,Dissatisfied,Student,17,Home,Standard,18.942186583896397,14,No
+CUST_0352,63,Female,Master,46675.22551483545,421,Tier 3,Neutral,Unemployed,40,Electronics,Standard,9.276274931410988,13,Yes
+CUST_0353,47,Male,High School,66241.39195589935,731,Tier 2,Very Dissatisfied,Unemployed,28,Beauty,Standard,0.9815962081122294,8,No
+CUST_0354,55,Female,Bachelor,62998.63340126782,343,Tier 1,Very Satisfied,Student,37,Groceries,Premium,11.748658830600881,10,Yes
+CUST_0355,55,Female,High School,47601.31625190208,616,Tier 1,Dissatisfied,Employed,37,Home,Basic,2.0826314463604136,16,Yes
+CUST_0356,62,Female,High School,108147.55167862438,680,Tier 2,Satisfied,Self-Employed,40,Electronics,Basic,2.366942634041528,9,Yes
+CUST_0357,68,Non-binary,Master,63451.88207829732,444,Tier 2,Dissatisfied,Self-Employed,40,Electronics,Basic,11.843169496172976,12,Yes
+CUST_0358,25,Non-binary,Master,51145.498956306765,626,Tier 2,Satisfied,Student,5,Electronics,Basic,3.776342487830447,16,Yes
+CUST_0359,44,Male,Bachelor,63032.3765472126,662,Tier 3,Dissatisfied,Unemployed,24,Home,Standard,0.741125111154774,5,No
+CUST_0360,44,Male,Bachelor,60508.534052232695,349,Tier 1,Satisfied,Employed,22,Beauty,Basic,2.302692104716967,6,Yes
+CUST_0361,51,Non-binary,High School,63756.05095782177,364,Tier 3,Neutral,Employed,29,Electronics,Basic,6.402423764418023,9,No
+CUST_0362,38,Non-binary,High School,28125.65969297934,654,Tier 3,Very Dissatisfied,Unemployed,20,Groceries,Basic,0.9569175915124069,15,Yes
+CUST_0363,47,Non-binary,High School,85838.93393133732,463,Tier 1,Neutral,Self-Employed,28,Electronics,Basic,4.460810872230306,8,Yes
+CUST_0364,50,Female,High School,86976.588408783,440,Tier 1,Very Dissatisfied,Employed,31,Beauty,Standard,5.941713515367981,7,Yes
+CUST_0365,45,Female,Bachelor,89406.41544072972,427,Tier 2,Neutral,Student,24,Home,Standard,2.106856534654449,11,No
+CUST_0366,64,Non-binary,Bachelor,66508.63517072596,697,Tier 2,Neutral,Self-Employed,40,Electronics,Basic,5.918901734207327,9,Yes
+CUST_0367,50,Female,Bachelor,73249.62120329031,762,Tier 3,Dissatisfied,Student,30,Electronics,Basic,10.779771015792308,15,Yes
+CUST_0368,22,Female,High School,42675.461039855,486,Tier 2,Very Satisfied,Self-Employed,2,Groceries,Basic,3.194400631129361,11,No
+CUST_0369,65,Male,Bachelor,76657.9865719478,489,Tier 2,Satisfied,Unemployed,40,Groceries,Basic,2.4136965496261666,13,Yes
+CUST_0370,36,Non-binary,Master,65035.75413787878,687,Tier 1,Satisfied,Student,17,Electronics,Premium,1.4461390081010057,12,No
+CUST_0371,21,Non-binary,High School,50791.867687215155,728,Tier 1,Satisfied,Student,1,Electronics,Basic,4.63430045470301,11,Yes
+CUST_0372,52,Female,PhD,77294.8938328168,583,Tier 2,Very Dissatisfied,Unemployed,33,Groceries,Standard,10.595156813135677,10,Yes
+CUST_0373,66,Non-binary,Master,78068.98072182201,536,Tier 1,Satisfied,Student,40,Beauty,Premium,1.9627044379502854,10,Yes
+CUST_0374,34,Male,High School,61212.17671349866,493,Tier 2,Satisfied,Self-Employed,15,Fashion,Basic,2.5228554919056094,7,No
+CUST_0375,61,Male,Master,68767.65160256806,586,Tier 1,Dissatisfied,Employed,40,Fashion,Basic,2.6096478716251905,5,Yes
+CUST_0376,45,Male,Bachelor,39365.65976132879,435,Tier 1,Neutral,Employed,26,Electronics,Premium,4.114142448839887,14,Yes
+CUST_0377,47,Non-binary,Bachelor,84863.66874428716,470,Tier 1,Satisfied,Unemployed,27,Groceries,Premium,1.2965030614187045,10,Yes
+CUST_0378,46,Non-binary,Bachelor,42023.736239301965,458,Tier 1,Very Satisfied,Self-Employed,28,Home,Basic,8.63579349316929,10,Yes
+CUST_0379,63,Non-binary,Bachelor,45891.48703841648,500,Tier 2,Satisfied,Student,40,Home,Standard,1.7520606780973007,15,Yes
+CUST_0380,23,Non-binary,Bachelor,61246.31290861074,786,Tier 3,Very Dissatisfied,Student,4,Fashion,Premium,6.110050698579231,15,Yes
+CUST_0381,52,Non-binary,Bachelor,82290.32568436919,803,Tier 1,Very Dissatisfied,Employed,33,Beauty,Basic,3.599671278272343,12,Yes
+CUST_0382,58,Male,Bachelor,82278.97266431322,670,Tier 2,Very Dissatisfied,Student,39,Fashion,Premium,4.408210004211666,12,Yes
+CUST_0383,54,Female,Bachelor,59903.50756189739,402,Tier 2,Satisfied,Employed,36,Electronics,Basic,0.9898695237552829,14,Yes
+CUST_0384,41,Male,Bachelor,75460.26724507623,424,Tier 1,Dissatisfied,Unemployed,20,Beauty,Standard,6.6405649856138655,5,Yes
+CUST_0385,46,Non-binary,Master,26218.83101342208,612,Tier 3,Very Satisfied,Student,26,Home,Premium,1.0450970848626238,10,Yes
+CUST_0386,66,Male,High School,45613.600197408945,757,Tier 1,Satisfied,Self-Employed,40,Groceries,Premium,0.6022220816056332,5,No
+CUST_0387,63,Non-binary,High School,46020.99121072798,529,Tier 2,Dissatisfied,Student,40,Groceries,Basic,3.9557794894952547,8,No
+CUST_0388,48,Non-binary,Master,85044.25819519635,496,Tier 3,Dissatisfied,Employed,30,Electronics,Basic,6.177268112706836,10,Yes
+CUST_0389,52,Male,Bachelor,73093.08325816016,722,Tier 2,Satisfied,Unemployed,34,Fashion,Standard,0.25665508830983064,7,No
+CUST_0390,50,Non-binary,High School,63693.05551809201,470,Tier 1,Satisfied,Employed,32,Electronics,Standard,0.3596035256697616,16,Yes
+CUST_0391,69,Female,High School,65634.70127658748,681,Tier 3,Dissatisfied,Student,40,Groceries,Standard,8.114621296472807,8,Yes
+CUST_0392,38,Non-binary,High School,91366.78552060248,472,Tier 2,Dissatisfied,Employed,16,Home,Premium,8.278265336006218,13,Yes
+CUST_0393,49,Female,PhD,56596.40666986897,752,Tier 2,Dissatisfied,Employed,29,Groceries,Premium,1.4072060497738013,10,Yes
+CUST_0394,40,Female,Bachelor,33718.653829319206,649,Tier 2,Satisfied,Unemployed,19,Beauty,Basic,4.7755242748845195,6,No
+CUST_0395,50,Non-binary,PhD,81743.90368790609,793,Tier 1,Dissatisfied,Self-Employed,29,Groceries,Basic,2.927566930100156,9,No
+CUST_0396,20,Male,Bachelor,63636.78074410121,303,Tier 3,Very Dissatisfied,Student,0,Groceries,Basic,5.007827743290675,7,No
+CUST_0397,35,Female,Bachelor,79073.43356331562,392,Tier 1,Satisfied,Unemployed,14,Beauty,Standard,9.93446801583158,5,Yes
+CUST_0398,42,Male,Bachelor,59104.70385226985,305,Tier 1,Very Dissatisfied,Self-Employed,24,Fashion,Standard,0.41612780439252645,8,Yes
+CUST_0399,59,Female,Bachelor,43226.20952592214,587,Tier 1,Neutral,Employed,40,Groceries,Standard,7.525038731826589,7,No
+CUST_0400,48,Non-binary,High School,68056.43442165953,445,Tier 3,Satisfied,Self-Employed,29,Electronics,Basic,3.3965084120282323,8,Yes
+CUST_0401,20,Non-binary,Master,60203.501414828606,723,Tier 1,Neutral,Employed,0,Groceries,Basic,4.1520211672224665,10,No
+CUST_0402,57,Female,Master,63698.845657488186,756,Tier 1,Dissatisfied,Employed,38,Electronics,Basic,5.305590710730009,9,Yes
+CUST_0403,63,Non-binary,Bachelor,92331.40988234832,501,Tier 1,Dissatisfied,Unemployed,40,Beauty,Standard,12.795338137382469,12,Yes
+CUST_0404,41,Female,PhD,38025.95045230599,511,Tier 1,Very Satisfied,Employed,23,Groceries,Basic,0.2919603323624799,4,Yes
+CUST_0405,67,Non-binary,Master,65718.37320951965,305,Tier 2,Dissatisfied,Unemployed,40,Beauty,Basic,0.14959754988469717,9,No
+CUST_0406,49,Male,Bachelor,43620.06619682646,675,Tier 1,Neutral,Self-Employed,27,Beauty,Basic,0.981667018062058,9,No
+CUST_0407,64,Non-binary,High School,20000.0,746,Tier 2,Dissatisfied,Self-Employed,40,Fashion,Standard,21.506004624158614,10,Yes
+CUST_0408,39,Male,Bachelor,59020.696219555524,405,Tier 1,Satisfied,Employed,19,Groceries,Basic,6.277670451657631,12,No
+CUST_0409,40,Non-binary,Bachelor,60620.45873999614,700,Tier 3,Dissatisfied,Unemployed,18,Electronics,Premium,4.767901102920523,12,Yes
+CUST_0410,19,Male,High School,72470.44205901517,395,Tier 2,Very Satisfied,Employed,0,Electronics,Standard,0.2409067780822952,7,Yes
+CUST_0411,44,Non-binary,High School,55649.185028321124,687,Tier 2,Dissatisfied,Unemployed,22,Groceries,Standard,10.56438044904352,3,No
+CUST_0412,59,Male,Master,30219.992897520562,751,Tier 2,Neutral,Unemployed,37,Fashion,Standard,8.37673628486201,19,Yes
+CUST_0413,19,Female,High School,43551.36845490274,715,Tier 2,Neutral,Unemployed,1,Fashion,Basic,5.465140206213047,9,Yes
+CUST_0414,43,Female,Bachelor,86339.17673373407,803,Tier 3,Dissatisfied,Self-Employed,24,Fashion,Basic,2.07099682069732,10,Yes
+CUST_0415,34,Male,PhD,43267.44141418738,753,Tier 1,Neutral,Unemployed,12,Electronics,Premium,0.36556901634615835,9,No
+CUST_0416,57,Non-binary,Master,91664.51059385014,590,Tier 2,Neutral,Self-Employed,35,Beauty,Standard,4.3379610488153375,13,No
+CUST_0417,50,Male,High School,80999.68585142767,833,Tier 3,Very Satisfied,Unemployed,32,Fashion,Premium,6.359377270546514,9,No
+CUST_0418,26,Non-binary,Master,53644.38791327861,492,Tier 2,Satisfied,Self-Employed,7,Electronics,Standard,0.4949064781829624,11,Yes
+CUST_0419,60,Female,High School,45418.41673794602,449,Tier 1,Very Satisfied,Student,39,Electronics,Basic,5.022436688466159,15,Yes
+CUST_0420,65,Non-binary,High School,80958.25938261158,814,Tier 2,Very Dissatisfied,Self-Employed,40,Beauty,Basic,1.686925741201357,9,Yes
+CUST_0421,56,Female,Bachelor,55181.775098127604,692,Tier 3,Very Satisfied,Self-Employed,37,Groceries,Standard,7.224794227229091,16,No
+CUST_0422,46,Non-binary,Bachelor,29086.99720600083,615,Tier 1,Dissatisfied,Employed,26,Groceries,Basic,3.878470153099227,9,Yes
+CUST_0423,59,Non-binary,Bachelor,71246.33241246516,375,Tier 3,Satisfied,Unemployed,40,Fashion,Basic,0.6907776965686587,12,Yes
+CUST_0424,43,Non-binary,Bachelor,68345.26895716372,569,Tier 1,Dissatisfied,Student,24,Fashion,Premium,3.7382221974888745,13,Yes
+CUST_0425,52,Male,High School,82754.12405429556,524,Tier 1,Very Dissatisfied,Employed,31,Beauty,Basic,2.518727596202606,5,No
+CUST_0426,67,Male,High School,66991.89998720594,829,Tier 1,Satisfied,Unemployed,40,Fashion,Basic,0.9944257031819892,5,No
+CUST_0427,42,Female,Bachelor,49017.06045908565,412,Tier 2,Neutral,Student,21,Beauty,Premium,9.210499480126249,6,Yes
+CUST_0428,41,Female,Master,85393.57679204267,550,Tier 3,Very Satisfied,Student,19,Electronics,Premium,0.1,13,Yes
+CUST_0429,30,Male,Bachelor,87339.80865357687,532,Tier 3,Dissatisfied,Student,12,Fashion,Basic,1.870764536916476,12,No
+CUST_0430,24,Female,High School,64664.11927970415,382,Tier 3,Very Dissatisfied,Unemployed,2,Electronics,Premium,0.1,7,Yes
+CUST_0431,53,Male,Bachelor,61206.43829065945,424,Tier 1,Neutral,Student,34,Home,Premium,0.5046680140385306,15,No
+CUST_0432,62,Non-binary,High School,33534.579537897895,474,Tier 2,Very Satisfied,Student,40,Beauty,Basic,1.7626763295871697,10,No
+CUST_0433,37,Female,High School,47849.473153070474,368,Tier 1,Neutral,Employed,17,Home,Basic,0.27899708171538645,11,Yes
+CUST_0434,18,Female,Master,75215.39283918707,346,Tier 3,Very Satisfied,Self-Employed,0,Fashion,Basic,4.539511719375808,4,Yes
+CUST_0435,25,Male,High School,48854.39399274599,555,Tier 2,Satisfied,Unemployed,7,Electronics,Standard,0.4543462705651732,9,Yes
+CUST_0436,63,Female,High School,30863.24261213355,329,Tier 2,Neutral,Self-Employed,40,Fashion,Basic,6.048506471964953,7,Yes
+CUST_0437,33,Female,Bachelor,129917.55579200198,580,Tier 2,Neutral,Employed,13,Home,Premium,0.2703917010815832,11,Yes
+CUST_0438,31,Non-binary,Bachelor,30731.88083146623,536,Tier 3,Neutral,Self-Employed,13,Fashion,Standard,0.30570227780976883,9,No
+CUST_0439,29,Female,Bachelor,105135.02792868235,547,Tier 2,Satisfied,Student,8,Groceries,Standard,1.82156231433394,8,Yes
+CUST_0440,68,Non-binary,High School,53851.531108034804,667,Tier 2,Very Dissatisfied,Student,40,Home,Premium,11.344374838377849,8,Yes
+CUST_0441,40,Male,High School,58308.74001712384,794,Tier 1,Very Satisfied,Unemployed,22,Fashion,Premium,5.127644456133995,11,No
+CUST_0442,32,Female,High School,46554.43455624802,324,Tier 1,Neutral,Unemployed,10,Electronics,Basic,7.351234837602657,9,No
+CUST_0443,45,Non-binary,High School,75656.74329475785,789,Tier 2,Satisfied,Unemployed,26,Fashion,Basic,0.7631464938558121,7,No
+CUST_0444,51,Male,Bachelor,31204.515737798312,793,Tier 2,Very Dissatisfied,Employed,33,Electronics,Standard,8.982616991115645,15,Yes
+CUST_0445,19,Female,Master,23193.419275316563,613,Tier 1,Very Satisfied,Unemployed,0,Groceries,Basic,0.1,8,No
+CUST_0446,49,Male,Master,92203.43058757213,674,Tier 1,Satisfied,Employed,27,Fashion,Basic,1.197999529080061,11,No
+CUST_0447,40,Female,Master,43920.552023860444,324,Tier 1,Very Satisfied,Student,22,Groceries,Standard,4.7867658748064565,11,Yes
+CUST_0448,39,Male,Bachelor,74921.76239079368,633,Tier 3,Neutral,Self-Employed,18,Home,Premium,2.3519898036732956,13,Yes
+CUST_0449,68,Male,Bachelor,38290.87846207568,654,Tier 3,Very Dissatisfied,Student,40,Electronics,Basic,20.736635903645055,10,Yes
+CUST_0450,42,Non-binary,Bachelor,74168.42085789164,415,Tier 1,Satisfied,Student,24,Home,Standard,0.15404503822804397,13,No
+CUST_0451,39,Male,Bachelor,93670.929975569,347,Tier 2,Very Dissatisfied,Student,17,Electronics,Basic,32.84987640549361,9,Yes
+CUST_0452,39,Female,Bachelor,49457.572291697674,398,Tier 1,Neutral,Unemployed,21,Groceries,Standard,4.885884094537558,6,No
+CUST_0453,66,Female,High School,21331.177864280377,758,Tier 3,Very Dissatisfied,Unemployed,40,Beauty,Basic,4.090231064060362,14,No
+CUST_0454,69,Non-binary,Bachelor,93775.8782661981,822,Tier 2,Very Dissatisfied,Unemployed,40,Fashion,Premium,0.30678430030829545,3,Yes
+CUST_0455,59,Female,PhD,78524.88643049783,704,Tier 3,Dissatisfied,Self-Employed,38,Groceries,Basic,1.5964063942866407,8,Yes
+CUST_0456,23,Female,High School,50528.57532457384,513,Tier 2,Very Dissatisfied,Unemployed,5,Electronics,Standard,12.928898797419112,5,Yes
+CUST_0457,32,Female,High School,55640.95893462708,802,Tier 3,Very Satisfied,Employed,12,Electronics,Basic,2.186683288082528,12,Yes
+CUST_0458,60,Male,Bachelor,37786.95607500628,747,Tier 2,Satisfied,Student,40,Electronics,Basic,5.4184193769589655,8,No
+CUST_0459,54,Male,Master,88405.1386488392,557,Tier 2,Dissatisfied,Self-Employed,35,Electronics,Basic,37.96814903475095,9,Yes
+CUST_0460,50,Female,Bachelor,49305.6878437871,420,Tier 2,Satisfied,Self-Employed,32,Fashion,Basic,1.5263099131425117,11,Yes
+CUST_0461,25,Non-binary,Bachelor,31625.82924905053,353,Tier 2,Satisfied,Self-Employed,4,Home,Basic,4.291062971692025,10,No
+CUST_0462,61,Male,High School,64272.91763024943,630,Tier 3,Neutral,Self-Employed,39,Beauty,Basic,5.960843615502618,10,Yes
+CUST_0463,61,Non-binary,Bachelor,42799.7327684292,540,Tier 3,Neutral,Self-Employed,40,Fashion,Standard,0.8993862122212866,10,Yes
+CUST_0464,22,Female,Bachelor,39399.70848273784,829,Tier 2,Dissatisfied,Employed,4,Electronics,Standard,0.8047922894897074,11,No
+CUST_0465,56,Female,Master,51398.015924761086,782,Tier 2,Neutral,Student,36,Fashion,Basic,3.0468610322507876,12,Yes
+CUST_0466,21,Male,Bachelor,61727.10631000742,486,Tier 3,Neutral,Self-Employed,0,Groceries,Standard,2.437275291436277,8,No
+CUST_0467,23,Female,High School,32377.804881705062,561,Tier 2,Neutral,Student,1,Electronics,Basic,6.2625851387093645,11,No
+CUST_0468,62,Male,High School,87702.97850424648,663,Tier 2,Satisfied,Unemployed,40,Beauty,Standard,0.36021314770672896,13,Yes
+CUST_0469,49,Female,High School,73543.19424131575,790,Tier 2,Dissatisfied,Self-Employed,31,Electronics,Basic,17.90759696771991,10,Yes
+CUST_0470,69,Female,Bachelor,52692.74018454538,730,Tier 1,Satisfied,Self-Employed,40,Beauty,Standard,0.1,7,Yes
+CUST_0471,47,Male,High School,41933.13027406004,538,Tier 2,Very Satisfied,Student,28,Beauty,Basic,4.597941117345066,7,Yes
+CUST_0472,64,Male,Bachelor,58215.490941666714,603,Tier 1,Satisfied,Self-Employed,40,Home,Premium,4.13490847694839,10,Yes
+CUST_0473,52,Male,Bachelor,77988.70081511444,597,Tier 2,Very Satisfied,Self-Employed,31,Home,Basic,0.7234859560308469,9,No
+CUST_0474,57,Female,High School,74891.68054399359,375,Tier 3,Very Dissatisfied,Self-Employed,35,Fashion,Basic,0.8179856863836488,7,No
+CUST_0475,69,Female,High School,81170.08600902357,632,Tier 1,Very Dissatisfied,Employed,40,Fashion,Basic,7.867398341043064,4,Yes
+CUST_0476,33,Non-binary,High School,50392.450180393564,773,Tier 1,Very Satisfied,Employed,12,Beauty,Premium,10.926786987004656,11,Yes
+CUST_0477,30,Male,Master,20000.0,582,Tier 2,Very Satisfied,Self-Employed,8,Electronics,Standard,1.6635155049146675,10,Yes
+CUST_0478,67,Female,High School,84956.22395832493,371,Tier 2,Satisfied,Employed,40,Groceries,Standard,2.8809465504053398,14,Yes
+CUST_0479,59,Female,Bachelor,56656.07713855296,562,Tier 1,Very Satisfied,Unemployed,38,Groceries,Premium,2.192486369516447,8,Yes
+CUST_0480,47,Male,Master,73323.32130943325,311,Tier 3,Dissatisfied,Self-Employed,26,Electronics,Premium,0.3765658682072405,8,Yes
+CUST_0481,36,Non-binary,Bachelor,93384.57509280604,440,Tier 3,Very Dissatisfied,Unemployed,16,Electronics,Standard,5.592099543925651,8,Yes
+CUST_0482,34,Male,Master,108688.17266475363,316,Tier 2,Very Dissatisfied,Student,15,Home,Basic,8.720361989228834,11,Yes
+CUST_0483,36,Non-binary,Bachelor,47003.57043718359,362,Tier 3,Very Satisfied,Unemployed,14,Groceries,Premium,1.8183493099713206,8,No
+CUST_0484,45,Female,PhD,62679.19814331289,552,Tier 3,Neutral,Student,23,Beauty,Basic,23.114529505764306,12,Yes
+CUST_0485,43,Non-binary,High School,87336.72921210891,764,Tier 2,Neutral,Self-Employed,24,Fashion,Standard,0.39441283975913366,6,No
+CUST_0486,54,Female,High School,43114.41962954009,675,Tier 3,Very Satisfied,Student,35,Home,Standard,5.420451926101105,11,Yes
+CUST_0487,43,Male,Bachelor,48357.76812419144,819,Tier 2,Dissatisfied,Student,24,Groceries,Standard,2.973101939177546,13,Yes
+CUST_0488,40,Male,PhD,48239.2284308225,389,Tier 1,Neutral,Unemployed,21,Electronics,Standard,2.958388234781192,13,No
+CUST_0489,26,Male,Master,59438.19373183956,474,Tier 2,Very Satisfied,Unemployed,8,Groceries,Standard,3.059178231247033,8,No
+CUST_0490,29,Non-binary,High School,55597.5263942006,375,Tier 1,Dissatisfied,Unemployed,7,Beauty,Premium,1.4966264540833984,10,No
+CUST_0491,18,Female,High School,48124.093554873514,699,Tier 1,Dissatisfied,Self-Employed,0,Home,Basic,6.28621442005707,11,Yes
+CUST_0492,18,Male,PhD,40684.85168787481,370,Tier 3,Satisfied,Self-Employed,0,Electronics,Basic,6.3930601842652335,10,No
+CUST_0493,64,Male,High School,76238.80656790583,479,Tier 3,Dissatisfied,Unemployed,40,Beauty,Standard,1.6591947053993341,13,Yes
+CUST_0494,51,Female,Master,86756.62041932234,423,Tier 3,Neutral,Self-Employed,29,Fashion,Premium,9.01834435304787,5,No
+CUST_0495,49,Male,Master,89654.2958834483,680,Tier 2,Neutral,Self-Employed,28,Home,Basic,1.9051671135157735,14,No
+CUST_0496,65,Female,Bachelor,50378.528852310315,592,Tier 3,Very Satisfied,Student,40,Beauty,Basic,6.456614356714469,12,Yes
+CUST_0497,42,Female,Bachelor,77074.49344514555,494,Tier 1,Very Satisfied,Student,24,Beauty,Basic,0.6448505840280151,18,No
+CUST_0498,57,Female,Bachelor,64726.51805455551,527,Tier 3,Dissatisfied,Unemployed,38,Electronics,Basic,0.9238325731671844,11,Yes
+CUST_0499,62,Female,High School,48586.573027733495,730,Tier 3,Very Dissatisfied,Self-Employed,40,Fashion,Premium,1.8974932032112448,6,Yes
+CUST_0500,18,Female,Master,74684.36437416392,735,Tier 2,Satisfied,Student,0,Beauty,Standard,4.505456253154343,19,No
+CUST_0501,33,Non-binary,Bachelor,47667.89891909006,760,Tier 2,Very Dissatisfied,Employed,14,Home,Standard,5.18539666314234,5,No
+CUST_0502,56,Male,Master,52476.46794436623,320,Tier 1,Dissatisfied,Self-Employed,34,Beauty,Standard,2.5238547183497513,7,No
+CUST_0503,22,Non-binary,High School,32465.405949927404,363,Tier 2,Dissatisfied,Employed,3,Groceries,Standard,0.40517808156969237,7,Yes
+CUST_0504,39,Male,PhD,50715.578051335484,464,Tier 3,Very Dissatisfied,Unemployed,18,Home,Basic,2.3391072763427463,4,Yes
+CUST_0505,46,Non-binary,Bachelor,65077.2241802917,326,Tier 2,Satisfied,Self-Employed,28,Home,Basic,5.836075544803819,6,Yes
+CUST_0506,20,Female,High School,91378.68991354991,610,Tier 1,Very Dissatisfied,Unemployed,0,Beauty,Basic,5.5584186617772104,7,No
+CUST_0507,29,Male,High School,52930.091075966266,584,Tier 3,Very Satisfied,Unemployed,11,Electronics,Basic,0.8729361986536855,9,No
+CUST_0508,43,Male,Master,39236.61705826133,580,Tier 1,Neutral,Unemployed,21,Home,Basic,0.1,9,Yes
+CUST_0509,33,Non-binary,Bachelor,89947.3794186825,463,Tier 2,Very Satisfied,Unemployed,15,Groceries,Basic,6.9914626061056,12,Yes
+CUST_0510,68,Non-binary,Master,49908.95125831565,523,Tier 2,Neutral,Unemployed,40,Electronics,Basic,0.5623070392615739,8,Yes
+CUST_0511,54,Male,High School,25032.3668771827,445,Tier 1,Dissatisfied,Self-Employed,32,Electronics,Basic,0.42969145910824286,9,Yes
+CUST_0512,39,Non-binary,High School,62661.87470273568,329,Tier 3,Satisfied,Employed,19,Electronics,Standard,0.1,9,No
+CUST_0513,46,Non-binary,Bachelor,53504.530534416495,344,Tier 2,Very Dissatisfied,Self-Employed,28,Home,Basic,2.833465467549413,6,Yes
+CUST_0514,31,Non-binary,Bachelor,106007.91285370343,770,Tier 2,Satisfied,Self-Employed,13,Electronics,Premium,3.4984819081870615,8,Yes
+CUST_0515,45,Female,Bachelor,69507.32068694424,333,Tier 3,Very Dissatisfied,Self-Employed,26,Beauty,Basic,5.075917241072972,9,Yes
+CUST_0516,22,Female,PhD,57073.152926903276,726,Tier 2,Very Satisfied,Student,0,Electronics,Standard,1.7553380488320436,11,Yes
+CUST_0517,64,Non-binary,PhD,41510.055814887935,520,Tier 1,Very Satisfied,Student,40,Groceries,Premium,6.1966998437612055,8,No
+CUST_0518,66,Non-binary,PhD,66603.33682385934,833,Tier 2,Very Dissatisfied,Self-Employed,40,Fashion,Premium,0.927624554735298,12,Yes
+CUST_0519,47,Female,Master,89134.19900123589,666,Tier 2,Satisfied,Employed,28,Groceries,Premium,8.918660468275398,12,Yes
+CUST_0520,63,Female,Bachelor,66236.28366954521,849,Tier 3,Very Dissatisfied,Self-Employed,40,Home,Basic,4.24138887211942,11,No
+CUST_0521,69,Male,Bachelor,43051.40615764108,415,Tier 1,Dissatisfied,Unemployed,40,Electronics,Basic,4.384026030617399,8,Yes
+CUST_0522,22,Male,Bachelor,70776.12423503908,538,Tier 3,Very Satisfied,Student,2,Electronics,Basic,1.177190437836098,7,No
+CUST_0523,29,Female,Master,59027.86210254369,634,Tier 2,Dissatisfied,Student,11,Beauty,Basic,0.38499245540894045,12,Yes
+CUST_0524,33,Non-binary,High School,68972.26206636324,740,Tier 2,Very Satisfied,Self-Employed,15,Electronics,Basic,3.1248713878627603,11,No
+CUST_0525,43,Non-binary,Bachelor,52903.85299631559,447,Tier 3,Very Satisfied,Self-Employed,24,Groceries,Premium,4.780513473896307,12,Yes
+CUST_0526,43,Non-binary,High School,52434.09451477576,308,Tier 3,Neutral,Employed,21,Home,Standard,0.49935836068849443,9,Yes
+CUST_0527,65,Non-binary,Bachelor,51644.40405136441,587,Tier 3,Dissatisfied,Employed,40,Fashion,Standard,15.032396535797485,13,Yes
+CUST_0528,38,Male,Master,78844.76302994724,687,Tier 1,Dissatisfied,Unemployed,18,Electronics,Premium,19.664793231074576,18,Yes
+CUST_0529,56,Female,Master,52635.49449517817,349,Tier 2,Neutral,Self-Employed,37,Fashion,Standard,3.9423104511946914,14,Yes
+CUST_0530,53,Non-binary,High School,50805.38537251546,816,Tier 3,Satisfied,Self-Employed,31,Electronics,Standard,14.98558168197675,5,Yes
+CUST_0531,50,Male,PhD,41158.68196875267,577,Tier 2,Dissatisfied,Self-Employed,32,Home,Standard,0.9888731396899924,11,No
+CUST_0532,47,Non-binary,Bachelor,69080.27603433534,599,Tier 1,Very Dissatisfied,Student,27,Groceries,Basic,0.128746865370541,12,No
+CUST_0533,54,Female,High School,66234.03604262437,434,Tier 1,Neutral,Unemployed,33,Home,Basic,0.20103558095421153,13,Yes
+CUST_0534,40,Male,High School,51024.63551022738,446,Tier 1,Dissatisfied,Employed,22,Fashion,Premium,4.427746634104327,13,Yes
+CUST_0535,27,Female,High School,45812.42584884278,789,Tier 1,Satisfied,Student,8,Electronics,Premium,0.3181180772869231,8,No
+CUST_0536,22,Female,High School,97523.46826455425,777,Tier 2,Dissatisfied,Student,0,Fashion,Premium,15.915807078304669,9,No
+CUST_0537,53,Male,PhD,22391.13889750324,458,Tier 1,Very Satisfied,Student,35,Groceries,Basic,0.7653666979300756,9,Yes
+CUST_0538,51,Male,Bachelor,69863.44006403442,683,Tier 1,Very Dissatisfied,Student,30,Home,Premium,1.8172233636070927,10,Yes
+CUST_0539,69,Male,Master,85828.07096432017,462,Tier 3,Neutral,Unemployed,40,Fashion,Basic,8.644424840223913,6,Yes
+CUST_0540,48,Male,Bachelor,20000.0,740,Tier 1,Very Satisfied,Self-Employed,29,Fashion,Basic,1.2342384579073804,8,Yes
+CUST_0541,27,Male,High School,75882.80120152359,488,Tier 3,Satisfied,Employed,9,Groceries,Basic,1.3917517995310065,8,No
+CUST_0542,36,Male,Bachelor,55594.90797007824,714,Tier 1,Very Satisfied,Employed,16,Electronics,Basic,5.14042835093743,12,No
+CUST_0543,49,Male,High School,65121.097285665186,638,Tier 1,Very Satisfied,Student,31,Fashion,Basic,1.6154140020975691,11,No
+CUST_0544,18,Non-binary,Bachelor,53535.2407095582,480,Tier 3,Satisfied,Student,0,Groceries,Basic,1.2259721870552767,9,Yes
+CUST_0545,22,Female,PhD,81507.86891292153,587,Tier 1,Very Satisfied,Unemployed,3,Electronics,Basic,1.4663396504390067,10,Yes
+CUST_0546,62,Male,Bachelor,67262.38683342714,486,Tier 2,Neutral,Student,40,Electronics,Basic,3.3730748322370845,13,No
+CUST_0547,21,Non-binary,Bachelor,62634.397790686315,437,Tier 2,Dissatisfied,Employed,1,Home,Standard,16.921682551846068,5,Yes
+CUST_0548,33,Non-binary,High School,42022.787860828146,429,Tier 1,Very Satisfied,Employed,14,Groceries,Standard,8.92604311161621,8,Yes
+CUST_0549,41,Non-binary,High School,97645.84467668377,493,Tier 2,Neutral,Self-Employed,22,Electronics,Basic,1.6746390013075954,10,Yes
+CUST_0550,33,Female,High School,60198.62039466542,615,Tier 3,Dissatisfied,Self-Employed,14,Home,Basic,2.2578583985991405,12,No
+CUST_0551,19,Male,Bachelor,105796.11594920917,443,Tier 1,Dissatisfied,Employed,0,Beauty,Standard,3.1228863305716255,12,Yes
+CUST_0552,66,Non-binary,High School,98551.3877035639,315,Tier 1,Very Satisfied,Employed,40,Groceries,Standard,19.299441492172644,6,Yes
+CUST_0553,45,Female,Bachelor,24432.980654692386,601,Tier 3,Neutral,Unemployed,24,Beauty,Basic,0.946069079706745,18,No
+CUST_0554,49,Female,Bachelor,46901.08078394619,722,Tier 3,Very Satisfied,Unemployed,31,Electronics,Standard,2.2118108224572093,5,No
+CUST_0555,44,Female,Bachelor,39260.97988050117,544,Tier 3,Satisfied,Employed,22,Groceries,Premium,6.536049989932318,8,Yes
+CUST_0556,37,Non-binary,High School,59035.87837025875,406,Tier 1,Dissatisfied,Student,18,Home,Basic,16.613373118335396,14,No
+CUST_0557,41,Male,High School,63743.28040972324,387,Tier 3,Very Satisfied,Self-Employed,19,Electronics,Basic,0.8460901970515146,10,Yes
+CUST_0558,29,Non-binary,PhD,64598.52935786861,428,Tier 3,Dissatisfied,Employed,7,Groceries,Basic,1.2898394159112778,11,Yes
+CUST_0559,67,Non-binary,Bachelor,81082.57352037958,640,Tier 2,Neutral,Student,40,Groceries,Standard,1.2789450282323587,16,Yes
+CUST_0560,52,Male,Bachelor,89871.65538617739,303,Tier 2,Very Dissatisfied,Employed,33,Beauty,Basic,0.10577105177554771,9,Yes
+CUST_0561,50,Male,High School,79349.75498477278,626,Tier 1,Very Satisfied,Self-Employed,28,Electronics,Basic,4.633165463189527,9,Yes
+CUST_0562,50,Male,PhD,48781.29571552506,709,Tier 2,Very Satisfied,Self-Employed,31,Home,Basic,5.55397712519683,9,No
+CUST_0563,68,Female,Bachelor,44359.52269785121,605,Tier 2,Dissatisfied,Unemployed,40,Home,Premium,4.6131273969976565,10,No
+CUST_0564,60,Male,Bachelor,60055.23671767873,524,Tier 3,Neutral,Unemployed,40,Electronics,Standard,0.369971374541109,12,Yes
+CUST_0565,54,Non-binary,Master,68522.39052809324,647,Tier 3,Satisfied,Unemployed,34,Electronics,Standard,0.3587160675570594,8,Yes
+CUST_0566,29,Male,High School,56336.17308565755,620,Tier 2,Neutral,Unemployed,7,Fashion,Premium,1.181058813791273,7,Yes
+CUST_0567,20,Non-binary,Bachelor,33090.30327495556,480,Tier 2,Very Satisfied,Self-Employed,0,Beauty,Basic,1.7145260292406748,8,No
+CUST_0568,18,Female,Bachelor,73641.19017153601,685,Tier 2,Satisfied,Student,0,Electronics,Premium,7.721614722761149,8,Yes
+CUST_0569,50,Non-binary,High School,52153.70462532193,407,Tier 1,Neutral,Student,29,Electronics,Standard,0.8681388817777224,10,Yes
+CUST_0570,57,Non-binary,PhD,51549.745311559134,830,Tier 1,Very Dissatisfied,Student,35,Fashion,Basic,0.22546915625119857,8,Yes
+CUST_0571,27,Male,Master,58907.74651883815,709,Tier 1,Dissatisfied,Employed,8,Fashion,Premium,2.5042733939520128,5,Yes
+CUST_0572,60,Male,Bachelor,55202.021658396785,595,Tier 2,Neutral,Unemployed,40,Groceries,Premium,2.6926302297145197,10,Yes
+CUST_0573,61,Non-binary,High School,52669.97888975797,470,Tier 2,Neutral,Unemployed,40,Home,Premium,2.997440344083788,11,Yes
+CUST_0574,46,Male,High School,34397.49386133621,630,Tier 1,Very Dissatisfied,Self-Employed,27,Beauty,Basic,8.769531454399896,6,Yes
+CUST_0575,30,Female,Bachelor,57755.05066096682,792,Tier 1,Very Satisfied,Self-Employed,11,Groceries,Premium,0.5157338106019739,11,No
+CUST_0576,29,Female,Master,74059.07583813736,494,Tier 2,Dissatisfied,Employed,10,Electronics,Premium,6.086000881525463,14,Yes
+CUST_0577,48,Male,High School,65292.88010242578,311,Tier 3,Neutral,Employed,30,Fashion,Basic,2.0620375373005255,13,No
+CUST_0578,63,Female,Bachelor,78962.4287820129,494,Tier 1,Satisfied,Student,40,Home,Basic,1.855174470152554,7,No
+CUST_0579,19,Male,Master,45429.099553599866,789,Tier 2,Neutral,Self-Employed,0,Groceries,Basic,13.481333951339465,10,No
+CUST_0580,68,Non-binary,High School,34438.83041764397,481,Tier 2,Dissatisfied,Unemployed,40,Home,Premium,1.428210934946073,8,Yes
+CUST_0581,67,Non-binary,Bachelor,55083.00042044007,615,Tier 3,Neutral,Student,40,Fashion,Standard,5.14354485356789,6,No
+CUST_0582,52,Female,High School,47715.26762902606,329,Tier 2,Very Dissatisfied,Unemployed,30,Groceries,Basic,1.6087992836299314,3,Yes
+CUST_0583,40,Male,PhD,49793.30033584504,395,Tier 2,Neutral,Student,19,Groceries,Basic,3.537689993669158,8,Yes
+CUST_0584,34,Male,Bachelor,64234.99436162254,680,Tier 1,Neutral,Unemployed,15,Home,Basic,7.715744292093484,7,Yes
+CUST_0585,43,Female,High School,49938.38921790689,743,Tier 1,Satisfied,Employed,25,Fashion,Standard,10.673609596654025,13,Yes
+CUST_0586,25,Non-binary,Bachelor,34998.630215872116,597,Tier 3,Very Dissatisfied,Student,5,Electronics,Basic,9.122360924265973,12,Yes
+CUST_0587,46,Female,Bachelor,48820.105442360036,660,Tier 3,Very Dissatisfied,Unemployed,24,Groceries,Premium,4.363531615415322,11,Yes
+CUST_0588,43,Non-binary,Master,66801.18733721603,673,Tier 2,Neutral,Unemployed,23,Electronics,Standard,1.4305253517889378,10,Yes
+CUST_0589,27,Male,Master,73429.61202013835,602,Tier 1,Satisfied,Self-Employed,9,Fashion,Standard,5.412219274448936,12,No
+CUST_0590,43,Non-binary,Bachelor,73228.45568166694,720,Tier 3,Neutral,Student,21,Groceries,Basic,6.187734906242004,7,Yes
+CUST_0591,51,Female,High School,68489.46188495819,545,Tier 3,Neutral,Unemployed,31,Groceries,Basic,0.1,14,Yes
+CUST_0592,68,Male,High School,56638.13068069511,536,Tier 3,Dissatisfied,Self-Employed,40,Electronics,Basic,2.8920484309162875,8,No
+CUST_0593,58,Female,High School,68098.28197918259,833,Tier 2,Dissatisfied,Unemployed,38,Beauty,Basic,9.265899653147839,8,Yes
+CUST_0594,24,Female,Bachelor,59153.28683603526,484,Tier 1,Satisfied,Student,5,Electronics,Basic,3.3626812260759973,12,No
+CUST_0595,21,Non-binary,Master,62261.92275640475,767,Tier 3,Very Satisfied,Employed,3,Electronics,Premium,1.8652953264270453,15,No
+CUST_0596,67,Female,Bachelor,41213.4652426812,662,Tier 1,Dissatisfied,Student,40,Beauty,Basic,10.270731739718077,8,Yes
+CUST_0597,62,Non-binary,High School,60877.49927521431,582,Tier 3,Very Satisfied,Student,40,Fashion,Basic,0.8473072036899654,6,Yes
+CUST_0598,28,Male,Bachelor,67573.32468502823,635,Tier 3,Very Dissatisfied,Unemployed,9,Fashion,Basic,1.156163605640119,9,No
+CUST_0599,46,Non-binary,Master,66822.54626879418,461,Tier 1,Dissatisfied,Unemployed,28,Groceries,Basic,5.813712336922117,16,No
+CUST_0600,53,Male,Master,34249.61947881403,459,Tier 1,Dissatisfied,Student,32,Home,Premium,2.1726877914830136,9,No
+CUST_0601,42,Non-binary,Master,61925.215528067645,773,Tier 1,Satisfied,Self-Employed,20,Home,Basic,6.241658630182258,8,Yes
+CUST_0602,38,Female,High School,31122.208450721733,621,Tier 2,Very Satisfied,Self-Employed,20,Groceries,Basic,0.8581166646075278,11,No
+CUST_0603,53,Non-binary,High School,63473.53292277052,311,Tier 3,Dissatisfied,Self-Employed,34,Home,Standard,1.4535605559362794,10,Yes
+CUST_0604,27,Non-binary,Master,45973.25616794572,723,Tier 2,Dissatisfied,Unemployed,8,Electronics,Basic,0.8518505734232841,10,Yes
+CUST_0605,54,Male,Bachelor,94112.8588505089,372,Tier 1,Satisfied,Unemployed,36,Electronics,Basic,15.278506367809799,11,Yes
+CUST_0606,26,Female,Bachelor,62384.8665859178,500,Tier 3,Satisfied,Student,5,Beauty,Basic,2.5993651490543423,4,No
+CUST_0607,41,Non-binary,Master,76023.28039647845,821,Tier 2,Very Satisfied,Employed,19,Beauty,Basic,2.056560164864924,12,No
+CUST_0608,52,Female,Master,102217.4527404856,804,Tier 3,Very Dissatisfied,Unemployed,32,Groceries,Basic,0.1,6,No
+CUST_0609,66,Non-binary,Bachelor,43651.96377822558,338,Tier 2,Very Dissatisfied,Student,40,Groceries,Basic,0.83273857914823,10,Yes
+CUST_0610,52,Non-binary,Bachelor,68713.49821811823,359,Tier 1,Neutral,Student,30,Groceries,Premium,2.7334373419646236,14,Yes
+CUST_0611,65,Female,Bachelor,36281.77981534308,620,Tier 2,Dissatisfied,Employed,40,Electronics,Basic,0.35481043437547033,9,Yes
+CUST_0612,53,Non-binary,Bachelor,66897.94016499838,734,Tier 3,Very Satisfied,Self-Employed,34,Home,Standard,3.574299315216793,12,No
+CUST_0613,35,Female,Bachelor,95314.18532900806,707,Tier 3,Dissatisfied,Student,15,Groceries,Standard,3.0349890608891266,7,Yes
+CUST_0614,66,Non-binary,Master,47442.33571116421,685,Tier 3,Very Satisfied,Student,40,Groceries,Standard,7.287193591488035,13,No
+CUST_0615,56,Male,Master,42280.91373410808,377,Tier 3,Very Satisfied,Student,37,Electronics,Basic,5.39114769837998,3,No
+CUST_0616,49,Female,Master,58176.51532962874,493,Tier 1,Very Satisfied,Self-Employed,30,Electronics,Basic,2.9524774000414884,10,Yes
+CUST_0617,41,Non-binary,High School,100916.34576176571,584,Tier 2,Dissatisfied,Self-Employed,20,Electronics,Standard,1.2722726956098773,9,Yes
+CUST_0618,40,Non-binary,Master,75420.77839906511,826,Tier 1,Satisfied,Employed,18,Home,Standard,6.488919252290853,7,No
+CUST_0619,49,Male,Master,41901.70695887979,823,Tier 1,Dissatisfied,Unemployed,31,Groceries,Standard,6.152646698717757,8,No
+CUST_0620,54,Female,Bachelor,89101.21164963538,455,Tier 1,Very Satisfied,Self-Employed,36,Fashion,Basic,0.8320215184918539,17,Yes
+CUST_0621,29,Non-binary,Master,26898.740153336264,639,Tier 3,Neutral,Unemployed,11,Fashion,Premium,12.310943230226002,9,No
+CUST_0622,66,Male,Master,102731.1825760545,424,Tier 3,Very Dissatisfied,Unemployed,40,Groceries,Basic,0.33286356225961866,6,Yes
+CUST_0623,30,Non-binary,Bachelor,77129.01360030318,579,Tier 3,Very Satisfied,Self-Employed,9,Groceries,Basic,0.283051279373698,11,No
+CUST_0624,40,Female,Bachelor,95271.14880013437,427,Tier 2,Neutral,Student,20,Groceries,Basic,1.0372764019213245,7,No
+CUST_0625,42,Non-binary,High School,27044.0378323193,613,Tier 3,Satisfied,Employed,23,Groceries,Basic,12.00986175667902,8,No
+CUST_0626,52,Non-binary,Bachelor,63388.83661719373,631,Tier 2,Very Satisfied,Unemployed,32,Home,Basic,3.669826334157124,5,No
+CUST_0627,58,Non-binary,Bachelor,57322.22146868568,449,Tier 3,Neutral,Student,37,Fashion,Standard,7.754451835309313,12,Yes
+CUST_0628,47,Non-binary,Master,39860.41053106718,753,Tier 3,Very Satisfied,Self-Employed,25,Beauty,Premium,1.2928381266553066,8,Yes
+CUST_0629,34,Male,High School,34079.527594972154,335,Tier 1,Dissatisfied,Unemployed,16,Fashion,Premium,3.3688994621460515,14,No
+CUST_0630,66,Male,High School,70141.62517519097,719,Tier 1,Neutral,Unemployed,40,Fashion,Basic,2.2180897744350396,6,Yes
+CUST_0631,37,Female,Bachelor,71954.63416227247,321,Tier 1,Dissatisfied,Unemployed,18,Electronics,Standard,8.796324138852482,10,Yes
+CUST_0632,65,Male,High School,85999.48093451506,505,Tier 2,Dissatisfied,Student,40,Groceries,Basic,0.11431918082509514,12,Yes
+CUST_0633,42,Male,High School,49931.57893346338,655,Tier 2,Neutral,Student,20,Groceries,Basic,1.3975294764615147,9,Yes
+CUST_0634,39,Female,High School,57167.8037968838,739,Tier 3,Very Dissatisfied,Student,21,Groceries,Basic,0.82776011930351,4,No
+CUST_0635,30,Male,High School,32350.801501078164,395,Tier 2,Neutral,Unemployed,10,Electronics,Basic,9.801684941497472,7,No
+CUST_0636,36,Male,High School,90815.71623989497,463,Tier 3,Very Dissatisfied,Unemployed,14,Home,Basic,3.151273658159984,10,Yes
+CUST_0637,66,Female,Bachelor,61390.96175514486,447,Tier 2,Very Satisfied,Employed,40,Home,Basic,2.5894194062571554,9,Yes
+CUST_0638,53,Female,Bachelor,74451.77003240211,829,Tier 2,Very Satisfied,Employed,32,Beauty,Standard,2.984485050708827,11,Yes
+CUST_0639,29,Female,Master,75158.10792222024,593,Tier 2,Neutral,Student,10,Home,Premium,17.86429887503487,10,Yes
+CUST_0640,58,Non-binary,Bachelor,89182.14314603957,494,Tier 1,Very Satisfied,Student,40,Home,Basic,9.49452102282869,13,Yes
+CUST_0641,36,Non-binary,Master,43372.010654650934,779,Tier 2,Satisfied,Self-Employed,17,Groceries,Premium,6.127153124951189,7,Yes
+CUST_0642,29,Female,High School,73951.73200694357,422,Tier 1,Dissatisfied,Student,10,Fashion,Standard,1.7158256352029313,11,No
+CUST_0643,26,Female,High School,59499.82587381917,699,Tier 1,Dissatisfied,Employed,7,Home,Standard,0.9026538032455135,6,No
+CUST_0644,24,Female,Master,102113.54132681261,751,Tier 2,Very Dissatisfied,Employed,5,Home,Standard,12.71905760642433,9,Yes
+CUST_0645,45,Non-binary,High School,43312.71642007966,403,Tier 3,Very Satisfied,Employed,27,Electronics,Basic,2.7502195488472725,8,No
+CUST_0646,31,Non-binary,Bachelor,83428.52695527744,761,Tier 3,Very Dissatisfied,Unemployed,9,Beauty,Premium,1.6338875102493682,10,No
+CUST_0647,48,Male,Bachelor,67006.83558456793,695,Tier 3,Dissatisfied,Unemployed,28,Electronics,Standard,3.183085959077233,11,Yes
+CUST_0648,69,Male,Bachelor,65957.12188412042,636,Tier 2,Dissatisfied,Student,40,Groceries,Premium,12.495885316789884,12,Yes
+CUST_0649,36,Female,High School,61080.414520949795,441,Tier 3,Very Satisfied,Self-Employed,16,Fashion,Standard,2.4475007942459244,9,No
+CUST_0650,64,Non-binary,Bachelor,86933.31645673575,616,Tier 1,Satisfied,Self-Employed,40,Beauty,Premium,4.135004522759347,14,Yes
+CUST_0651,33,Non-binary,Bachelor,65277.03402147869,826,Tier 3,Satisfied,Self-Employed,12,Electronics,Standard,8.121902522553496,10,No
+CUST_0652,22,Non-binary,High School,29511.693237580457,700,Tier 2,Very Satisfied,Unemployed,4,Home,Basic,2.785504411489913,11,No
+CUST_0653,52,Female,Bachelor,84390.0713742449,609,Tier 3,Very Satisfied,Employed,31,Home,Basic,1.3298755913243805,12,Yes
+CUST_0654,29,Male,Master,80724.03664263444,794,Tier 1,Very Dissatisfied,Employed,11,Beauty,Basic,26.038498517938216,10,No
+CUST_0655,42,Female,PhD,71742.75368425695,408,Tier 2,Very Satisfied,Unemployed,22,Home,Basic,15.683122879725298,18,Yes
+CUST_0656,69,Male,High School,37430.52740504907,671,Tier 3,Satisfied,Self-Employed,40,Electronics,Basic,9.272830866151304,7,Yes
+CUST_0657,38,Male,Master,40537.692795573596,505,Tier 2,Very Satisfied,Self-Employed,16,Electronics,Premium,5.829755705554689,6,Yes
+CUST_0658,53,Female,Bachelor,22451.142295277823,342,Tier 2,Very Dissatisfied,Student,32,Home,Standard,1.746834479243761,7,No
+CUST_0659,40,Male,Bachelor,69206.59746359628,544,Tier 2,Very Dissatisfied,Student,18,Home,Premium,12.23302438003747,12,No
+CUST_0660,33,Male,High School,33009.023036512604,586,Tier 3,Very Dissatisfied,Self-Employed,13,Groceries,Premium,1.6117586995486994,12,No
+CUST_0661,56,Non-binary,Master,25624.982142756708,654,Tier 2,Very Dissatisfied,Unemployed,35,Fashion,Standard,8.067467995039646,12,No
+CUST_0662,62,Male,High School,85499.78238600088,775,Tier 3,Neutral,Self-Employed,40,Beauty,Premium,12.520946939257996,9,Yes
+CUST_0663,59,Female,Bachelor,75363.59128925693,382,Tier 1,Very Satisfied,Student,37,Electronics,Standard,4.619143359843588,12,Yes
+CUST_0664,56,Female,High School,53336.56670338146,409,Tier 3,Dissatisfied,Self-Employed,36,Beauty,Premium,8.124184804879505,11,Yes
+CUST_0665,31,Male,Master,57319.06833485609,489,Tier 1,Very Satisfied,Unemployed,10,Groceries,Basic,7.843762016979744,13,Yes
+CUST_0666,48,Non-binary,Master,20000.0,550,Tier 3,Neutral,Employed,27,Electronics,Basic,1.073135541426263,13,No
+CUST_0667,22,Non-binary,Master,78334.89838118441,590,Tier 2,Very Dissatisfied,Unemployed,2,Groceries,Basic,5.5119642338448305,8,No
+CUST_0668,52,Male,High School,46145.370710226314,500,Tier 3,Neutral,Unemployed,31,Groceries,Standard,0.4906443960126562,15,No
+CUST_0669,40,Male,High School,66605.81726266282,625,Tier 2,Satisfied,Student,19,Home,Standard,3.54486010874064,10,Yes
+CUST_0670,46,Female,Bachelor,20000.0,810,Tier 1,Satisfied,Unemployed,26,Beauty,Basic,0.8850915085572728,12,Yes
+CUST_0671,60,Male,Bachelor,79551.36064323092,708,Tier 3,Very Satisfied,Unemployed,38,Beauty,Basic,2.6922646607194474,19,Yes
+CUST_0672,28,Non-binary,High School,44943.10461228552,807,Tier 2,Very Satisfied,Student,7,Home,Premium,8.94827067595248,13,Yes
+CUST_0673,35,Male,Bachelor,32479.154724212913,371,Tier 1,Dissatisfied,Student,14,Beauty,Standard,21.779003651449532,10,No
+CUST_0674,64,Female,PhD,53207.967310232656,546,Tier 1,Dissatisfied,Employed,40,Home,Basic,1.9133336250664388,7,Yes
+CUST_0675,29,Female,Master,48072.0956412903,643,Tier 3,Satisfied,Self-Employed,8,Electronics,Standard,3.795961634124127,13,No
+CUST_0676,26,Female,Master,81485.35225819732,353,Tier 1,Very Dissatisfied,Unemployed,6,Groceries,Standard,3.580012160459564,5,No
+CUST_0677,27,Female,PhD,51592.09755276746,827,Tier 2,Neutral,Student,5,Groceries,Premium,15.43940336670175,7,Yes
+CUST_0678,61,Female,High School,87252.34053226735,831,Tier 1,Dissatisfied,Employed,39,Beauty,Basic,3.2560328909286436,6,Yes
+CUST_0679,34,Male,Bachelor,66602.85231578146,492,Tier 1,Dissatisfied,Self-Employed,16,Fashion,Basic,6.00498959178029,7,No
+CUST_0680,55,Male,PhD,77887.35774424749,357,Tier 2,Very Dissatisfied,Student,34,Groceries,Basic,12.741739784371278,14,Yes
+CUST_0681,24,Male,High School,59956.67093544227,736,Tier 1,Very Dissatisfied,Self-Employed,3,Home,Basic,2.337063419521373,14,No
+CUST_0682,63,Male,Master,85441.17964679767,410,Tier 1,Very Satisfied,Self-Employed,40,Fashion,Premium,11.620179539542379,5,Yes
+CUST_0683,30,Female,Bachelor,36927.52019434648,428,Tier 1,Neutral,Unemployed,8,Fashion,Basic,12.472132413189081,9,Yes
+CUST_0684,57,Non-binary,Bachelor,62272.48914988654,625,Tier 1,Very Dissatisfied,Unemployed,38,Groceries,Premium,13.343847254077891,10,Yes
+CUST_0685,59,Male,Bachelor,52071.2834113717,307,Tier 2,Dissatisfied,Student,40,Groceries,Basic,1.5766107234052729,11,Yes
+CUST_0686,26,Non-binary,PhD,87932.56959014623,328,Tier 1,Dissatisfied,Self-Employed,4,Groceries,Premium,2.5570922828661837,16,No
+CUST_0687,67,Male,Master,89980.68809318851,411,Tier 2,Satisfied,Student,40,Home,Basic,10.216354616149058,9,Yes
+CUST_0688,44,Male,High School,60008.42518474237,430,Tier 1,Very Dissatisfied,Student,25,Fashion,Premium,2.2248915495476678,13,No
+CUST_0689,19,Non-binary,Master,34169.7779780839,487,Tier 1,Very Satisfied,Self-Employed,0,Beauty,Premium,4.584617571862702,11,No
+CUST_0690,22,Female,High School,68541.94633583335,774,Tier 1,Neutral,Student,2,Home,Premium,0.6281251224979599,12,No
+CUST_0691,46,Male,Bachelor,26707.805299324667,663,Tier 1,Very Satisfied,Self-Employed,28,Electronics,Basic,0.2896022811915067,11,Yes
+CUST_0692,54,Male,Bachelor,92522.85597566223,503,Tier 2,Dissatisfied,Self-Employed,32,Groceries,Basic,2.6550905459183327,12,Yes
+CUST_0693,55,Male,Bachelor,50536.59858727923,511,Tier 2,Very Satisfied,Self-Employed,33,Fashion,Standard,4.324621025379335,12,Yes
+CUST_0694,36,Non-binary,Bachelor,59388.5967316501,575,Tier 2,Dissatisfied,Self-Employed,17,Home,Basic,2.493654580537847,10,Yes
+CUST_0695,25,Female,PhD,46380.97848386492,372,Tier 3,Dissatisfied,Employed,4,Electronics,Basic,4.310620119142655,8,No
+CUST_0696,65,Non-binary,Master,41964.36826598359,542,Tier 1,Dissatisfied,Self-Employed,40,Home,Basic,3.6189018733383262,6,Yes
+CUST_0697,62,Non-binary,Bachelor,74745.82633094104,401,Tier 1,Dissatisfied,Unemployed,40,Home,Standard,5.787151683357575,9,No
+CUST_0698,18,Female,High School,56827.66645897357,470,Tier 2,Dissatisfied,Unemployed,0,Beauty,Standard,5.242435523962187,11,Yes
+CUST_0699,39,Non-binary,PhD,60849.6507784635,487,Tier 3,Satisfied,Unemployed,17,Beauty,Basic,2.7603713867963204,9,No
+CUST_0700,69,Female,PhD,39922.17841562322,740,Tier 1,Very Satisfied,Self-Employed,40,Home,Basic,2.766884803441863,13,Yes
+CUST_0701,34,Male,Master,77121.1844699408,385,Tier 2,Satisfied,Unemployed,16,Electronics,Basic,0.7586417303116013,10,No
+CUST_0702,24,Female,High School,79155.79470273733,775,Tier 1,Satisfied,Employed,6,Fashion,Standard,3.599905785160276,11,No
+CUST_0703,42,Male,High School,55821.43026240845,351,Tier 1,Very Dissatisfied,Student,20,Fashion,Basic,4.42370752203101,12,Yes
+CUST_0704,62,Non-binary,High School,85358.44266663774,410,Tier 2,Very Dissatisfied,Self-Employed,40,Groceries,Basic,3.2359899774665575,10,Yes
+CUST_0705,21,Non-binary,High School,57917.51691550955,342,Tier 2,Very Dissatisfied,Unemployed,3,Groceries,Premium,1.9704552068864492,7,No
+CUST_0706,53,Male,Bachelor,75595.10992577641,510,Tier 1,Neutral,Employed,35,Fashion,Premium,6.394353672230904,9,Yes
+CUST_0707,23,Non-binary,PhD,27541.44838339805,499,Tier 1,Very Dissatisfied,Student,1,Home,Premium,0.3879790939083845,11,No
+CUST_0708,48,Female,Bachelor,67068.61732972825,325,Tier 2,Very Satisfied,Employed,28,Home,Premium,12.292708581766627,5,Yes
+CUST_0709,36,Male,High School,54570.3706478613,598,Tier 1,Satisfied,Unemployed,17,Beauty,Basic,0.10429746959861641,11,No
+CUST_0710,61,Non-binary,High School,63110.448519099926,376,Tier 1,Very Satisfied,Employed,40,Beauty,Standard,16.397129344599417,12,No
+CUST_0711,56,Male,High School,62213.64811311652,436,Tier 2,Very Dissatisfied,Student,36,Groceries,Basic,3.102789528181151,8,No
+CUST_0712,44,Female,High School,62513.99644353968,319,Tier 1,Neutral,Unemployed,23,Fashion,Standard,2.6608417059921052,9,No
+CUST_0713,27,Female,High School,72314.01458725106,739,Tier 1,Neutral,Student,7,Home,Basic,1.4815560998461623,14,No
+CUST_0714,43,Non-binary,High School,48696.52736788042,510,Tier 3,Satisfied,Employed,21,Fashion,Standard,0.1,10,Yes
+CUST_0715,36,Female,Master,71381.58519071287,734,Tier 2,Very Satisfied,Self-Employed,15,Electronics,Standard,1.6064718775559348,13,Yes
+CUST_0716,56,Male,PhD,84650.49766235813,506,Tier 3,Dissatisfied,Self-Employed,35,Fashion,Basic,0.5792990119926453,9,Yes
+CUST_0717,20,Female,Bachelor,31797.179900393534,738,Tier 3,Very Satisfied,Self-Employed,0,Electronics,Standard,5.39141433448893,13,No
+CUST_0718,62,Male,Bachelor,44389.19803541349,341,Tier 3,Very Dissatisfied,Self-Employed,40,Beauty,Basic,1.9215153520334414,15,Yes
+CUST_0719,30,Male,Master,45229.291489976276,710,Tier 1,Dissatisfied,Student,12,Beauty,Basic,7.287433857750125,7,No
+CUST_0720,67,Female,High School,38159.08401098081,822,Tier 1,Neutral,Self-Employed,40,Groceries,Basic,1.1591318616097754,13,No
+CUST_0721,45,Non-binary,High School,50506.044607258824,726,Tier 3,Satisfied,Student,27,Fashion,Basic,11.52468214770761,6,Yes
+CUST_0722,37,Female,Master,80662.37030799681,574,Tier 3,Satisfied,Unemployed,17,Fashion,Basic,3.7010001822298837,8,No
+CUST_0723,45,Male,High School,88951.73849024856,747,Tier 3,Neutral,Self-Employed,27,Electronics,Premium,0.6080490974504624,6,Yes
+CUST_0724,25,Male,Bachelor,62123.49939493004,668,Tier 1,Very Dissatisfied,Student,5,Beauty,Basic,2.561176715212908,8,Yes
+CUST_0725,58,Female,Bachelor,53515.27978303599,519,Tier 3,Neutral,Self-Employed,37,Electronics,Basic,1.1581505781729429,12,Yes
+CUST_0726,56,Non-binary,Bachelor,76058.4793816132,531,Tier 3,Very Dissatisfied,Self-Employed,37,Beauty,Basic,1.113752056570459,3,No
+CUST_0727,18,Non-binary,Bachelor,20000.0,627,Tier 2,Dissatisfied,Self-Employed,0,Electronics,Standard,3.5298424940684,6,No
+CUST_0728,20,Male,Master,38896.43055793684,742,Tier 2,Neutral,Student,2,Beauty,Standard,5.572062520791976,10,No
+CUST_0729,30,Male,High School,20000.0,351,Tier 1,Very Dissatisfied,Employed,8,Electronics,Standard,12.130446375784793,11,No
+CUST_0730,45,Non-binary,High School,38686.00565289117,675,Tier 2,Dissatisfied,Self-Employed,24,Beauty,Standard,3.4874028885250654,7,No
+CUST_0731,66,Female,Master,44659.64946196,562,Tier 2,Neutral,Self-Employed,40,Electronics,Premium,16.883320258782522,14,No
+CUST_0732,42,Male,Bachelor,89553.63755875356,566,Tier 2,Satisfied,Unemployed,24,Fashion,Premium,14.205181746857455,14,Yes
+CUST_0733,50,Male,High School,20000.0,658,Tier 1,Neutral,Employed,29,Groceries,Standard,10.014718964581917,9,No
+CUST_0734,55,Non-binary,Master,51665.94799531332,616,Tier 2,Very Satisfied,Student,35,Electronics,Basic,3.4655085575925746,12,Yes
+CUST_0735,23,Female,Bachelor,72391.32944356215,623,Tier 1,Neutral,Unemployed,1,Groceries,Standard,0.7593726991818155,5,No
+CUST_0736,61,Non-binary,Master,68214.61326538186,720,Tier 3,Very Satisfied,Self-Employed,40,Fashion,Standard,1.2288919226825854,9,Yes
+CUST_0737,62,Female,Master,89234.76267069788,345,Tier 2,Dissatisfied,Unemployed,40,Fashion,Standard,5.215935251299799,9,Yes
+CUST_0738,49,Female,Bachelor,63221.02957193177,568,Tier 1,Neutral,Unemployed,31,Beauty,Premium,2.7387879529555628,9,Yes
+CUST_0739,62,Female,Bachelor,67485.5636096229,680,Tier 2,Dissatisfied,Self-Employed,40,Groceries,Standard,0.7938160244865735,10,Yes
+CUST_0740,64,Male,PhD,23229.863363948993,417,Tier 3,Dissatisfied,Employed,40,Home,Premium,3.2599679680500655,10,Yes
+CUST_0741,38,Non-binary,High School,40234.62283646382,415,Tier 1,Very Dissatisfied,Employed,17,Beauty,Basic,0.1,12,No
+CUST_0742,33,Non-binary,Master,24345.90513103953,559,Tier 1,Dissatisfied,Unemployed,15,Groceries,Basic,6.619328525282901,5,No
+CUST_0743,38,Female,High School,71452.162158282,374,Tier 1,Dissatisfied,Self-Employed,20,Electronics,Basic,0.38214490377113064,10,Yes
+CUST_0744,28,Male,Bachelor,66973.80903514492,779,Tier 3,Neutral,Student,10,Electronics,Premium,4.959297582060827,13,Yes
+CUST_0745,54,Male,Bachelor,66270.7593456703,604,Tier 3,Neutral,Unemployed,35,Fashion,Premium,7.875431411246728,14,Yes
+CUST_0746,53,Non-binary,PhD,42371.32783083852,306,Tier 3,Satisfied,Student,35,Home,Standard,0.7115281521516602,7,Yes
+CUST_0747,52,Male,PhD,40541.00441366669,665,Tier 1,Very Dissatisfied,Unemployed,30,Electronics,Standard,3.655685640007355,8,No
+CUST_0748,36,Male,High School,64188.93864592835,822,Tier 3,Dissatisfied,Unemployed,14,Groceries,Standard,7.549490594883338,8,Yes
+CUST_0749,37,Female,High School,46612.2789445773,647,Tier 2,Very Dissatisfied,Self-Employed,19,Groceries,Premium,1.509807396600544,12,No
+CUST_0750,35,Male,Master,39591.908723355264,737,Tier 3,Very Satisfied,Self-Employed,13,Electronics,Premium,0.8891578175952929,9,Yes
+CUST_0751,64,Female,Bachelor,49832.21257483863,514,Tier 1,Dissatisfied,Student,40,Groceries,Standard,2.053537459360867,7,Yes
+CUST_0752,58,Non-binary,High School,46785.15927929383,728,Tier 2,Very Dissatisfied,Student,36,Groceries,Standard,4.0450260876411095,8,No
+CUST_0753,66,Male,Bachelor,42665.54050743094,797,Tier 3,Satisfied,Employed,40,Fashion,Basic,4.281620983978877,13,Yes
+CUST_0754,31,Non-binary,Bachelor,35484.64366484796,839,Tier 2,Satisfied,Self-Employed,11,Home,Standard,0.701349274085939,7,Yes
+CUST_0755,32,Non-binary,PhD,68973.79536677814,666,Tier 2,Dissatisfied,Unemployed,11,Fashion,Basic,3.058470548879151,10,No
+CUST_0756,48,Male,High School,91120.98878954114,612,Tier 1,Very Satisfied,Unemployed,29,Home,Basic,1.5618017619108278,12,Yes
+CUST_0757,18,Male,Bachelor,59219.915987626926,837,Tier 2,Satisfied,Employed,0,Groceries,Premium,9.226567682978368,5,No
+CUST_0758,20,Non-binary,Bachelor,64448.68273939856,353,Tier 2,Satisfied,Self-Employed,1,Home,Standard,1.8812925097710633,10,Yes
+CUST_0759,33,Male,Master,70727.55705203407,840,Tier 1,Very Satisfied,Unemployed,13,Groceries,Premium,9.122586723356491,12,Yes
+CUST_0760,40,Female,Bachelor,67331.31514386243,766,Tier 1,Very Dissatisfied,Employed,21,Groceries,Basic,2.7980193002984817,9,Yes
+CUST_0761,28,Female,Bachelor,43061.753433660415,463,Tier 1,Satisfied,Employed,10,Fashion,Basic,6.48383646250645,7,Yes
+CUST_0762,29,Male,High School,94396.9242220517,633,Tier 2,Neutral,Unemployed,11,Fashion,Basic,3.567364054141964,11,No
+CUST_0763,27,Non-binary,Master,44853.78972644078,846,Tier 2,Satisfied,Unemployed,7,Beauty,Basic,4.863811051451365,7,Yes
+CUST_0764,49,Male,Bachelor,72961.76729320818,647,Tier 2,Very Dissatisfied,Student,31,Electronics,Basic,2.5155813439629604,7,No
+CUST_0765,33,Male,High School,70603.82614685824,572,Tier 1,Very Dissatisfied,Self-Employed,13,Beauty,Basic,7.309547726281731,12,Yes
+CUST_0766,25,Non-binary,Bachelor,20831.169157307246,713,Tier 3,Dissatisfied,Student,5,Beauty,Basic,2.7685732758670127,11,Yes
+CUST_0767,55,Non-binary,High School,52823.07166174161,799,Tier 2,Neutral,Employed,37,Home,Basic,3.0574824926441,20,Yes
+CUST_0768,29,Female,High School,61132.5690362434,392,Tier 3,Very Dissatisfied,Unemployed,7,Groceries,Basic,3.6457236181581503,9,No
+CUST_0769,41,Non-binary,Master,62663.024228485716,378,Tier 1,Very Satisfied,Student,21,Groceries,Standard,8.913724664211987,12,No
+CUST_0770,45,Female,Bachelor,66028.41031033534,516,Tier 2,Neutral,Employed,27,Groceries,Basic,5.384923235700137,9,No
+CUST_0771,25,Non-binary,Master,75153.25745879952,657,Tier 3,Neutral,Self-Employed,3,Electronics,Standard,2.1474601833008427,10,Yes
+CUST_0772,45,Male,High School,59849.69271458444,806,Tier 2,Very Satisfied,Unemployed,25,Home,Standard,5.5481584086438565,7,No
+CUST_0773,53,Female,Master,67092.35136035888,480,Tier 2,Satisfied,Student,31,Home,Basic,5.142072738759768,3,No
+CUST_0774,43,Female,High School,59100.90826455234,545,Tier 2,Very Satisfied,Self-Employed,22,Groceries,Premium,13.369640869943687,9,Yes
+CUST_0775,25,Female,Bachelor,39653.326864904535,543,Tier 3,Very Satisfied,Student,4,Beauty,Standard,9.20736803544722,12,Yes
+CUST_0776,67,Male,PhD,60648.02882739348,805,Tier 1,Satisfied,Employed,40,Electronics,Standard,5.212770485730158,13,Yes
+CUST_0777,45,Male,Master,74981.7968850614,721,Tier 2,Satisfied,Self-Employed,25,Beauty,Basic,2.089007780812044,8,Yes
+CUST_0778,45,Male,Bachelor,82175.7676495073,619,Tier 1,Satisfied,Student,27,Fashion,Standard,7.561021755328917,15,Yes
+CUST_0779,54,Male,Bachelor,70746.31315088409,386,Tier 1,Satisfied,Self-Employed,35,Home,Premium,4.280781657604335,8,No
+CUST_0780,58,Male,Master,86687.00651898599,516,Tier 3,Satisfied,Employed,40,Home,Basic,21.08934120347024,9,Yes
+CUST_0781,53,Female,Bachelor,68377.29494817961,789,Tier 3,Very Satisfied,Self-Employed,34,Beauty,Basic,1.4218121333554021,8,Yes
+CUST_0782,44,Male,Master,77277.59643337675,818,Tier 1,Dissatisfied,Student,25,Electronics,Basic,0.41503796473532484,17,Yes
+CUST_0783,34,Female,Master,78747.82298559572,577,Tier 2,Dissatisfied,Employed,14,Home,Standard,0.3622718414875736,16,Yes
+CUST_0784,26,Male,High School,55532.98918232529,468,Tier 3,Very Dissatisfied,Unemployed,4,Beauty,Basic,5.108678315914416,15,Yes
+CUST_0785,50,Non-binary,High School,74520.06865135337,629,Tier 2,Dissatisfied,Student,32,Electronics,Standard,14.005782940414635,8,Yes
+CUST_0786,37,Female,Bachelor,41187.10204718172,740,Tier 2,Dissatisfied,Student,15,Beauty,Basic,0.1,9,No
+CUST_0787,30,Non-binary,High School,66996.24685097727,690,Tier 2,Very Satisfied,Employed,9,Electronics,Premium,6.4689596323232195,14,Yes
+CUST_0788,45,Female,High School,71540.51653336905,795,Tier 1,Satisfied,Employed,25,Groceries,Basic,5.351074432073139,13,Yes
+CUST_0789,65,Non-binary,PhD,81021.90241398661,680,Tier 2,Satisfied,Unemployed,40,Electronics,Basic,6.58951994359203,8,Yes
+CUST_0790,46,Male,Bachelor,76415.18607962612,605,Tier 1,Very Satisfied,Student,25,Fashion,Standard,2.1956684870748253,7,Yes
+CUST_0791,30,Male,Master,81282.28366669427,812,Tier 1,Dissatisfied,Employed,12,Groceries,Basic,8.587801321649653,11,Yes
+CUST_0792,63,Male,Bachelor,58012.39339747154,487,Tier 2,Very Satisfied,Unemployed,40,Beauty,Basic,0.22868553741712955,13,Yes
+CUST_0793,52,Female,Bachelor,53092.13690659906,815,Tier 2,Very Dissatisfied,Unemployed,34,Groceries,Basic,7.041291063588093,8,Yes
+CUST_0794,23,Non-binary,High School,54502.024842287676,726,Tier 2,Satisfied,Employed,4,Groceries,Standard,1.5535386418192614,7,No
+CUST_0795,35,Male,Bachelor,65325.67460897261,801,Tier 2,Neutral,Student,15,Beauty,Premium,3.2393184054897297,13,No
+CUST_0796,68,Non-binary,High School,23825.059687154957,559,Tier 1,Very Dissatisfied,Self-Employed,40,Beauty,Premium,8.647763460014785,5,Yes
+CUST_0797,22,Non-binary,Bachelor,86635.13940789107,812,Tier 2,Very Dissatisfied,Self-Employed,0,Fashion,Basic,1.5828708599240162,9,Yes
+CUST_0798,64,Male,Master,60877.4671965795,370,Tier 2,Very Satisfied,Unemployed,40,Beauty,Basic,1.0241090683764362,7,Yes
+CUST_0799,42,Male,Bachelor,51699.96835329762,777,Tier 1,Dissatisfied,Self-Employed,22,Home,Standard,5.717732153508787,12,Yes
+CUST_0800,19,Non-binary,Bachelor,20000.0,477,Tier 3,Satisfied,Self-Employed,0,Home,Standard,3.811359855597795,16,No
+CUST_0801,27,Male,Bachelor,59263.72987643435,756,Tier 3,Neutral,Employed,6,Fashion,Basic,3.6118900310441644,13,No
+CUST_0802,47,Male,High School,56030.469698484885,488,Tier 1,Very Dissatisfied,Unemployed,29,Electronics,Basic,1.4837453723957192,8,Yes
+CUST_0803,67,Male,Bachelor,42059.0713870949,590,Tier 3,Neutral,Student,40,Electronics,Basic,0.17751574957623653,11,No
+CUST_0804,62,Female,High School,46539.06309745976,819,Tier 1,Dissatisfied,Unemployed,40,Home,Standard,2.640445064109816,17,Yes
+CUST_0805,22,Non-binary,High School,59467.26711109673,591,Tier 2,Dissatisfied,Employed,4,Beauty,Basic,0.5633775839595445,13,No
+CUST_0806,50,Non-binary,High School,48235.270808246336,582,Tier 2,Neutral,Self-Employed,31,Fashion,Premium,11.821725423734206,9,No
+CUST_0807,18,Female,Bachelor,71437.56132356712,843,Tier 3,Satisfied,Student,0,Electronics,Basic,0.21062631844877974,9,No
+CUST_0808,35,Non-binary,Master,45024.32822711967,676,Tier 2,Dissatisfied,Unemployed,14,Electronics,Basic,2.82509677885097,5,Yes
+CUST_0809,49,Male,High School,63092.16859041556,455,Tier 3,Neutral,Self-Employed,31,Groceries,Basic,0.2682993241213807,8,Yes
+CUST_0810,64,Non-binary,Bachelor,83600.9073762234,807,Tier 3,Very Dissatisfied,Unemployed,40,Home,Basic,0.5021074115239421,14,Yes
+CUST_0811,66,Male,Bachelor,59268.08274874897,712,Tier 2,Neutral,Student,40,Beauty,Basic,5.377409360139026,9,Yes
+CUST_0812,28,Female,High School,67119.5424791949,827,Tier 2,Neutral,Unemployed,8,Fashion,Basic,5.208012293130607,10,Yes
+CUST_0813,38,Male,Master,65853.02774801197,654,Tier 3,Very Satisfied,Unemployed,17,Electronics,Basic,0.16805380538014036,10,No
+CUST_0814,43,Non-binary,Bachelor,60159.937992345316,486,Tier 2,Dissatisfied,Unemployed,24,Groceries,Basic,0.1,10,Yes
+CUST_0815,42,Non-binary,Bachelor,58659.857161129796,330,Tier 1,Satisfied,Self-Employed,21,Home,Basic,0.4104886740455793,9,No
+CUST_0816,39,Non-binary,Bachelor,48572.515571001764,559,Tier 2,Satisfied,Student,17,Home,Premium,7.198452434266792,13,No
+CUST_0817,44,Female,High School,63020.24581115639,720,Tier 2,Very Satisfied,Student,23,Fashion,Standard,4.392283657846812,15,No
+CUST_0818,66,Female,Bachelor,54334.64982321065,828,Tier 1,Satisfied,Self-Employed,40,Electronics,Standard,0.19431875933786869,7,Yes
+CUST_0819,30,Non-binary,Bachelor,90921.80336469415,603,Tier 2,Neutral,Self-Employed,9,Fashion,Basic,3.348100780118151,19,Yes
+CUST_0820,50,Male,Master,76222.86518219823,338,Tier 2,Very Satisfied,Self-Employed,28,Fashion,Basic,6.224483691293408,6,No
+CUST_0821,51,Female,High School,30944.08208223308,788,Tier 3,Very Dissatisfied,Employed,33,Groceries,Basic,10.16093495507646,12,No
+CUST_0822,58,Non-binary,Bachelor,32056.840035638448,841,Tier 2,Dissatisfied,Unemployed,38,Home,Standard,13.59326789313978,11,No
+CUST_0823,52,Non-binary,Bachelor,57390.8026192127,577,Tier 2,Dissatisfied,Unemployed,34,Beauty,Basic,1.9833239459359266,14,Yes
+CUST_0824,18,Female,High School,52093.89045120507,502,Tier 1,Dissatisfied,Student,0,Home,Basic,0.7299429019396076,6,Yes
+CUST_0825,38,Female,Bachelor,56336.121635561496,365,Tier 3,Neutral,Unemployed,20,Home,Standard,1.3520008146835072,12,Yes
+CUST_0826,65,Female,Master,73023.22921304626,407,Tier 3,Very Dissatisfied,Employed,40,Groceries,Basic,7.484375549028299,8,Yes
+CUST_0827,23,Male,Master,66314.71797754714,567,Tier 3,Very Satisfied,Self-Employed,2,Beauty,Basic,17.786487434329082,10,No
+CUST_0828,45,Male,Bachelor,66112.58460916308,521,Tier 2,Very Satisfied,Student,27,Electronics,Basic,3.140484114918544,8,Yes
+CUST_0829,34,Non-binary,Master,88923.89330990787,829,Tier 3,Dissatisfied,Student,16,Beauty,Standard,1.821758917687235,10,No
+CUST_0830,22,Female,PhD,32222.168916538412,389,Tier 1,Very Dissatisfied,Unemployed,4,Electronics,Standard,2.803499468979717,9,No
+CUST_0831,48,Male,Master,62078.77668297799,554,Tier 3,Very Dissatisfied,Student,30,Beauty,Basic,1.8178730646355103,6,No
+CUST_0832,22,Female,High School,48418.94904105492,754,Tier 1,Very Dissatisfied,Self-Employed,2,Fashion,Basic,1.4818486603110532,4,Yes
+CUST_0833,55,Non-binary,Master,88708.71571678705,552,Tier 3,Satisfied,Student,33,Beauty,Standard,4.503941987095581,11,Yes
+CUST_0834,20,Male,Bachelor,20000.0,556,Tier 3,Satisfied,Self-Employed,0,Groceries,Basic,0.1,10,No
+CUST_0835,40,Male,PhD,20000.0,682,Tier 1,Dissatisfied,Employed,22,Electronics,Standard,1.5025010319647465,5,Yes
+CUST_0836,54,Male,Bachelor,66092.72592696102,741,Tier 3,Very Dissatisfied,Employed,34,Home,Standard,5.414414402577408,10,Yes
+CUST_0837,54,Non-binary,High School,82525.93118648294,389,Tier 3,Very Dissatisfied,Self-Employed,34,Groceries,Basic,0.16293981357572626,11,Yes
+CUST_0838,27,Female,Master,75465.086426341,689,Tier 3,Very Satisfied,Unemployed,9,Electronics,Basic,0.434339571907691,13,Yes
+CUST_0839,27,Male,Bachelor,43980.38413364583,343,Tier 2,Very Satisfied,Student,8,Electronics,Standard,1.736425440327223,7,Yes
+CUST_0840,36,Non-binary,PhD,90128.43444003159,318,Tier 1,Dissatisfied,Unemployed,18,Home,Basic,10.510677507508168,8,No
+CUST_0841,34,Female,PhD,35370.62502811583,400,Tier 3,Very Dissatisfied,Student,15,Fashion,Basic,7.238427286526397,17,No
+CUST_0842,38,Non-binary,Bachelor,86149.6837908669,656,Tier 1,Dissatisfied,Employed,20,Groceries,Standard,0.11202887275245146,7,No
+CUST_0843,31,Female,High School,38015.43499283712,841,Tier 1,Very Satisfied,Employed,12,Home,Basic,3.482893474266813,12,Yes
+CUST_0844,26,Non-binary,Bachelor,52963.51655325556,332,Tier 1,Very Satisfied,Employed,7,Home,Basic,1.605763371118679,4,No
+CUST_0845,63,Female,High School,72785.39075713835,528,Tier 3,Satisfied,Student,40,Fashion,Basic,5.2298002319776415,13,No
+CUST_0846,18,Male,High School,30675.8433820767,823,Tier 3,Dissatisfied,Employed,0,Groceries,Standard,6.392653563183188,11,No
+CUST_0847,68,Female,Master,89380.46795081535,454,Tier 1,Dissatisfied,Employed,40,Home,Basic,9.933858846308368,2,Yes
+CUST_0848,62,Non-binary,High School,52841.123371973714,722,Tier 2,Very Dissatisfied,Employed,40,Fashion,Premium,3.225750817137783,14,Yes
+CUST_0849,30,Non-binary,Bachelor,62745.522713565784,545,Tier 1,Very Dissatisfied,Employed,10,Groceries,Standard,25.969866527552142,11,Yes
+CUST_0850,21,Female,PhD,83244.01578081504,704,Tier 2,Satisfied,Unemployed,2,Beauty,Basic,19.556643054656426,12,No
+CUST_0851,18,Male,Bachelor,44137.493096657,840,Tier 1,Neutral,Employed,0,Electronics,Basic,10.692422864370672,11,Yes
+CUST_0852,66,Male,High School,81216.27372510778,460,Tier 1,Neutral,Employed,40,Fashion,Basic,4.27679543488913,8,Yes
+CUST_0853,57,Female,PhD,92810.67141784739,416,Tier 1,Neutral,Unemployed,38,Electronics,Standard,2.5375426362921205,15,No
+CUST_0854,49,Female,High School,46888.42005340842,570,Tier 3,Dissatisfied,Unemployed,29,Beauty,Premium,2.265821530339324,12,Yes
+CUST_0855,51,Non-binary,Master,87387.75345192589,786,Tier 2,Dissatisfied,Student,33,Home,Standard,0.1,7,Yes
+CUST_0856,45,Male,PhD,24788.42811516794,471,Tier 2,Very Satisfied,Self-Employed,24,Home,Basic,1.4329100370088024,8,No
+CUST_0857,48,Female,PhD,67792.00789589134,573,Tier 1,Dissatisfied,Employed,27,Groceries,Standard,6.343592022499602,15,No
+CUST_0858,25,Male,Bachelor,35428.02968592383,558,Tier 3,Dissatisfied,Employed,3,Fashion,Basic,4.627062291723826,9,Yes
+CUST_0859,56,Female,Bachelor,78851.37097072379,434,Tier 3,Dissatisfied,Employed,37,Fashion,Standard,12.409886073930284,9,No
+CUST_0860,43,Female,High School,77209.12096844407,721,Tier 2,Satisfied,Student,21,Groceries,Standard,0.25658366760889745,10,Yes
+CUST_0861,51,Male,Master,101547.59991182486,720,Tier 3,Dissatisfied,Employed,33,Electronics,Basic,0.843730231254983,14,Yes
+CUST_0862,20,Female,Master,88425.65965904998,485,Tier 2,Very Dissatisfied,Self-Employed,0,Home,Basic,7.785266066340481,11,Yes
+CUST_0863,67,Female,Bachelor,56684.5760479709,663,Tier 2,Very Dissatisfied,Unemployed,40,Home,Standard,2.219789954294926,8,Yes
+CUST_0864,29,Non-binary,High School,38365.0502540232,677,Tier 2,Very Satisfied,Student,11,Fashion,Standard,0.6297741723632279,12,Yes
+CUST_0865,18,Female,High School,71313.7415933878,822,Tier 3,Satisfied,Unemployed,0,Fashion,Basic,28.204749836665343,3,Yes
+CUST_0866,61,Female,High School,58785.371792290134,495,Tier 2,Very Dissatisfied,Employed,40,Groceries,Basic,7.7381946709118505,6,No
+CUST_0867,22,Female,Master,91023.10089191407,397,Tier 2,Satisfied,Employed,1,Beauty,Standard,2.627505897368872,14,No
+CUST_0868,47,Non-binary,Bachelor,20000.0,321,Tier 1,Satisfied,Employed,25,Electronics,Basic,8.667853112473033,12,No
+CUST_0869,47,Male,PhD,103761.13518577254,749,Tier 2,Very Satisfied,Self-Employed,26,Beauty,Basic,5.706615800580332,14,Yes
+CUST_0870,34,Non-binary,Master,70639.81215223607,471,Tier 2,Satisfied,Self-Employed,15,Beauty,Basic,7.802637814813039,11,Yes
+CUST_0871,65,Non-binary,High School,43739.757565592554,682,Tier 1,Dissatisfied,Student,40,Fashion,Basic,8.442578155033463,7,No
+CUST_0872,64,Male,Bachelor,74679.78454837132,433,Tier 1,Satisfied,Unemployed,40,Fashion,Standard,0.4426736833304454,17,No
+CUST_0873,40,Non-binary,Bachelor,85948.42842579407,725,Tier 3,Very Satisfied,Employed,18,Fashion,Premium,4.877190890866291,9,Yes
+CUST_0874,32,Male,Bachelor,62286.93782607377,324,Tier 2,Very Satisfied,Employed,12,Beauty,Standard,0.1,13,Yes
+CUST_0875,54,Non-binary,Master,24701.59231710314,802,Tier 3,Very Satisfied,Employed,34,Electronics,Basic,0.2221437380254292,13,No
+CUST_0876,38,Male,Master,54123.05927305788,484,Tier 3,Very Dissatisfied,Employed,19,Fashion,Standard,11.715994350956873,7,No
+CUST_0877,31,Female,Master,80787.90106084276,384,Tier 1,Dissatisfied,Self-Employed,13,Home,Basic,3.749262005785861,4,No
+CUST_0878,19,Non-binary,High School,69933.2946845475,443,Tier 3,Very Dissatisfied,Unemployed,0,Electronics,Basic,6.657174895441658,9,Yes
+CUST_0879,28,Non-binary,High School,56869.85938329255,711,Tier 2,Neutral,Unemployed,7,Home,Premium,9.116281345565644,17,Yes
+CUST_0880,68,Non-binary,Master,86166.3166178287,523,Tier 1,Dissatisfied,Student,40,Electronics,Basic,14.93750795021434,12,Yes
+CUST_0881,56,Non-binary,High School,74786.11681664594,519,Tier 2,Satisfied,Self-Employed,35,Fashion,Premium,10.176275426804942,5,Yes
+CUST_0882,55,Female,Bachelor,76326.78311876688,478,Tier 2,Very Satisfied,Employed,34,Groceries,Basic,3.301575006369629,10,Yes
+CUST_0883,51,Non-binary,High School,51787.306160383974,732,Tier 1,Neutral,Unemployed,33,Fashion,Standard,2.0471420635253987,14,Yes
+CUST_0884,55,Female,Bachelor,49852.32636507803,564,Tier 2,Dissatisfied,Unemployed,37,Beauty,Basic,0.8390955545959394,6,Yes
+CUST_0885,67,Female,High School,26000.80558633958,728,Tier 1,Very Dissatisfied,Self-Employed,40,Beauty,Basic,2.556807857528965,6,No
+CUST_0886,51,Female,Bachelor,54812.164881254874,715,Tier 2,Very Satisfied,Student,32,Electronics,Basic,2.2824257188647987,11,Yes
+CUST_0887,35,Female,PhD,78707.84107596255,752,Tier 1,Very Dissatisfied,Student,13,Beauty,Premium,4.100073751622059,10,Yes
+CUST_0888,47,Male,High School,55918.134059688266,496,Tier 3,Dissatisfied,Employed,25,Fashion,Standard,5.47573263816852,11,No
+CUST_0889,32,Male,High School,68910.7769305801,352,Tier 2,Dissatisfied,Student,13,Home,Premium,19.158088689370953,10,No
+CUST_0890,44,Non-binary,Bachelor,82223.9871330656,779,Tier 1,Neutral,Unemployed,26,Fashion,Standard,6.516870117003743,7,Yes
+CUST_0891,68,Male,Master,67456.65983597265,742,Tier 2,Satisfied,Student,40,Electronics,Premium,5.1605921397465035,12,Yes
+CUST_0892,51,Male,High School,69410.29523521604,629,Tier 2,Very Dissatisfied,Employed,29,Beauty,Basic,2.0405362344364426,6,No
+CUST_0893,69,Non-binary,Bachelor,32843.550759248916,550,Tier 2,Neutral,Unemployed,40,Home,Basic,0.17556596069009803,8,Yes
+CUST_0894,55,Non-binary,High School,53548.70431796046,422,Tier 1,Very Satisfied,Student,36,Groceries,Standard,1.6992656289408778,9,No
+CUST_0895,50,Non-binary,Master,94532.5301299319,686,Tier 3,Satisfied,Student,29,Home,Standard,7.314751893829813,12,Yes
+CUST_0896,41,Male,Bachelor,62075.94362192187,638,Tier 3,Neutral,Self-Employed,22,Home,Standard,1.1487764337458015,10,Yes
+CUST_0897,32,Male,Master,97934.7636399315,647,Tier 3,Very Dissatisfied,Employed,14,Fashion,Basic,6.227242313476026,16,Yes
+CUST_0898,47,Non-binary,PhD,45537.687387221056,328,Tier 1,Dissatisfied,Student,28,Groceries,Basic,4.334882603414096,8,No
+CUST_0899,59,Female,High School,64678.949042690794,334,Tier 3,Very Satisfied,Self-Employed,40,Electronics,Premium,0.9428463845784352,9,Yes
+CUST_0900,68,Non-binary,Master,52346.43124896264,817,Tier 1,Very Dissatisfied,Unemployed,40,Electronics,Standard,1.516515955054409,10,Yes
+CUST_0901,34,Female,High School,71839.69370249106,695,Tier 2,Satisfied,Self-Employed,13,Home,Basic,3.428907901446152,11,No
+CUST_0902,22,Female,Master,77900.17336120241,593,Tier 2,Satisfied,Self-Employed,0,Home,Standard,2.7096443090161064,4,Yes
+CUST_0903,46,Non-binary,Bachelor,72049.32191401802,648,Tier 3,Dissatisfied,Student,26,Beauty,Premium,7.538104909123124,9,No
+CUST_0904,21,Non-binary,Master,80837.04287496058,446,Tier 1,Dissatisfied,Student,2,Groceries,Basic,6.62890670493811,8,No
+CUST_0905,27,Non-binary,High School,59736.540229553466,366,Tier 2,Very Satisfied,Student,7,Home,Premium,4.27332721296833,10,Yes
+CUST_0906,34,Male,High School,56189.43264672645,819,Tier 1,Very Satisfied,Self-Employed,12,Beauty,Premium,8.637581218605758,11,No
+CUST_0907,27,Female,Bachelor,24836.139854480563,421,Tier 1,Dissatisfied,Unemployed,6,Groceries,Premium,4.135330849272437,11,No
+CUST_0908,34,Male,Bachelor,72769.0187032913,639,Tier 2,Dissatisfied,Employed,12,Electronics,Premium,16.675539536799594,10,Yes
+CUST_0909,37,Male,High School,63443.68184480315,474,Tier 1,Satisfied,Self-Employed,16,Beauty,Standard,1.224544148841992,10,Yes
+CUST_0910,41,Non-binary,Bachelor,58641.705248749335,750,Tier 2,Dissatisfied,Student,20,Groceries,Basic,6.2611254539252865,13,No
+CUST_0911,22,Male,High School,56183.6518909131,435,Tier 2,Neutral,Employed,4,Beauty,Basic,2.309733921248556,9,Yes
+CUST_0912,51,Non-binary,Bachelor,59262.408773124196,315,Tier 2,Very Dissatisfied,Unemployed,32,Home,Basic,1.6353462786155617,13,Yes
+CUST_0913,23,Female,Master,55275.27737004166,632,Tier 1,Dissatisfied,Employed,1,Fashion,Basic,0.9946179103502589,13,No
+CUST_0914,19,Non-binary,Bachelor,49439.323228733905,494,Tier 2,Very Satisfied,Student,0,Electronics,Basic,4.0204325473981015,11,No
+CUST_0915,30,Male,High School,64791.77761448338,795,Tier 1,Neutral,Self-Employed,8,Home,Basic,1.2133487178865927,8,No
+CUST_0916,60,Male,Bachelor,69683.18237865905,308,Tier 2,Very Satisfied,Self-Employed,38,Home,Basic,1.1179110591108563,9,Yes
+CUST_0917,60,Non-binary,High School,44588.64171227638,633,Tier 2,Neutral,Student,39,Groceries,Basic,23.299137812176767,7,Yes
+CUST_0918,65,Non-binary,PhD,51985.28861625218,632,Tier 3,Dissatisfied,Self-Employed,40,Beauty,Premium,8.091066943851398,12,Yes
+CUST_0919,28,Male,High School,55907.56497470263,626,Tier 3,Very Dissatisfied,Student,9,Electronics,Basic,6.897126441646789,9,No
+CUST_0920,68,Female,Master,60096.266147535694,314,Tier 3,Very Satisfied,Self-Employed,40,Home,Standard,7.900867269545704,13,Yes
+CUST_0921,64,Female,PhD,57436.29060828466,525,Tier 1,Neutral,Self-Employed,40,Groceries,Standard,17.356416098752835,9,Yes
+CUST_0922,40,Non-binary,Master,73194.42399312787,724,Tier 1,Satisfied,Self-Employed,22,Electronics,Basic,4.258097294069155,10,Yes
+CUST_0923,33,Female,Bachelor,26952.659685923813,707,Tier 2,Dissatisfied,Unemployed,15,Beauty,Premium,1.243870357624362,11,No
+CUST_0924,48,Male,Master,30499.25603319766,412,Tier 2,Very Dissatisfied,Unemployed,29,Home,Standard,9.9101094238742,14,Yes
+CUST_0925,28,Non-binary,PhD,63871.38798507155,727,Tier 2,Dissatisfied,Student,8,Home,Basic,6.788159986370609,8,Yes
+CUST_0926,33,Male,Bachelor,47946.28304344422,300,Tier 2,Satisfied,Unemployed,14,Home,Basic,2.674808790616555,12,No
+CUST_0927,25,Male,Bachelor,77684.84611547622,565,Tier 1,Very Dissatisfied,Student,6,Electronics,Basic,3.208179786062319,8,Yes
+CUST_0928,21,Female,Bachelor,83396.019051771,790,Tier 2,Satisfied,Employed,2,Electronics,Basic,2.6487885375463343,13,No
+CUST_0929,57,Non-binary,Bachelor,64674.94352845821,507,Tier 2,Dissatisfied,Employed,38,Electronics,Basic,13.292170478366938,12,No
+CUST_0930,21,Non-binary,Bachelor,38560.50167451642,668,Tier 3,Neutral,Unemployed,1,Electronics,Standard,2.1044036897866065,8,No
+CUST_0931,42,Female,Bachelor,81091.87032454119,605,Tier 2,Dissatisfied,Employed,24,Groceries,Premium,16.550061946894886,7,Yes
+CUST_0932,20,Male,High School,63978.05324300655,311,Tier 2,Dissatisfied,Employed,0,Fashion,Standard,12.054849288429516,7,Yes
+CUST_0933,49,Male,High School,30261.280549457646,644,Tier 2,Dissatisfied,Self-Employed,31,Groceries,Basic,4.978308793822727,9,No
+CUST_0934,20,Male,High School,32029.607038696315,764,Tier 1,Very Satisfied,Self-Employed,2,Home,Basic,4.335381539769465,8,Yes
+CUST_0935,44,Male,High School,90338.9357941729,793,Tier 3,Satisfied,Student,22,Groceries,Basic,2.310885920178859,13,No
+CUST_0936,46,Non-binary,High School,87022.7182652246,667,Tier 2,Satisfied,Employed,27,Beauty,Basic,0.1,14,No
+CUST_0937,49,Non-binary,Bachelor,20000.0,719,Tier 2,Satisfied,Student,29,Electronics,Basic,0.6826691126925909,15,No
+CUST_0938,67,Female,High School,32844.182094842465,470,Tier 3,Very Satisfied,Student,40,Beauty,Premium,7.016822621324908,10,Yes
+CUST_0939,68,Female,Master,82817.10991243311,433,Tier 2,Neutral,Employed,40,Beauty,Basic,3.1889420099065893,8,No
+CUST_0940,36,Non-binary,High School,59630.148232139036,726,Tier 1,Dissatisfied,Unemployed,14,Home,Premium,0.8116425863011967,8,No
+CUST_0941,38,Non-binary,High School,74036.98570984186,324,Tier 2,Neutral,Employed,17,Electronics,Basic,1.5323598717341436,8,Yes
+CUST_0942,22,Male,Master,58760.945078038065,829,Tier 1,Very Satisfied,Self-Employed,3,Beauty,Premium,14.766899638406652,9,Yes
+CUST_0943,35,Male,Bachelor,73089.84980142408,489,Tier 1,Satisfied,Employed,17,Home,Standard,2.2874736463540026,7,Yes
+CUST_0944,45,Female,High School,60116.67093330867,440,Tier 2,Dissatisfied,Unemployed,25,Electronics,Standard,11.912577734212205,14,Yes
+CUST_0945,59,Non-binary,Master,51247.83486486068,614,Tier 3,Very Dissatisfied,Student,37,Fashion,Basic,1.8165979416837015,11,No
+CUST_0946,39,Female,Master,81174.87659829619,743,Tier 1,Very Dissatisfied,Student,17,Home,Premium,3.9177680551406455,8,Yes
+CUST_0947,38,Non-binary,Bachelor,64041.09232051292,618,Tier 3,Neutral,Self-Employed,20,Groceries,Premium,0.10344822805037027,13,No
+CUST_0948,23,Male,Bachelor,73047.77432487132,740,Tier 2,Satisfied,Self-Employed,2,Electronics,Standard,3.689416526240301,10,No
+CUST_0949,18,Female,PhD,63148.95849921533,391,Tier 1,Very Dissatisfied,Self-Employed,0,Beauty,Standard,5.065963535460407,12,No
+CUST_0950,22,Female,Bachelor,50272.86212900374,478,Tier 2,Neutral,Student,4,Beauty,Standard,1.334857452958094,10,No
+CUST_0951,58,Non-binary,Bachelor,92167.78622714385,355,Tier 3,Very Satisfied,Self-Employed,37,Groceries,Basic,4.324866156336501,11,Yes
+CUST_0952,29,Male,Master,67099.3650951533,454,Tier 2,Neutral,Employed,7,Groceries,Standard,5.2088130497986995,13,No
+CUST_0953,43,Female,High School,52899.02711255697,410,Tier 2,Neutral,Student,24,Beauty,Premium,5.8059409391519745,13,Yes
+CUST_0954,63,Male,Bachelor,85566.58940637432,436,Tier 1,Neutral,Unemployed,40,Electronics,Basic,7.489556973988546,9,Yes
+CUST_0955,51,Female,High School,33583.524522420856,531,Tier 2,Dissatisfied,Student,31,Home,Basic,1.8650324961077123,13,Yes
+CUST_0956,66,Male,Master,104725.67301591972,767,Tier 2,Neutral,Employed,40,Groceries,Basic,4.194067597107635,15,Yes
+CUST_0957,31,Non-binary,Bachelor,56417.004846731434,780,Tier 2,Neutral,Employed,13,Groceries,Standard,19.97132788305124,15,No
+CUST_0958,43,Female,Bachelor,34639.715852332476,367,Tier 1,Dissatisfied,Self-Employed,21,Groceries,Basic,11.420984517185804,12,Yes
+CUST_0959,62,Female,High School,98118.8269691513,548,Tier 3,Dissatisfied,Student,40,Fashion,Basic,15.252571717277078,10,Yes
+CUST_0960,44,Male,High School,50736.64773854417,622,Tier 3,Very Satisfied,Student,25,Electronics,Basic,2.4399126147703107,10,No
+CUST_0961,26,Male,Bachelor,64864.891397112544,817,Tier 2,Satisfied,Student,7,Electronics,Standard,7.730628196109488,9,Yes
+CUST_0962,43,Female,Master,74353.81482878927,731,Tier 1,Very Dissatisfied,Unemployed,24,Electronics,Basic,4.836577571575901,11,Yes
+CUST_0963,64,Non-binary,Bachelor,83683.45055320291,786,Tier 2,Very Dissatisfied,Self-Employed,40,Electronics,Standard,0.43179476602473066,6,Yes
+CUST_0964,39,Male,High School,65995.49127443129,728,Tier 3,Neutral,Employed,17,Electronics,Basic,8.68579932453685,9,Yes
+CUST_0965,64,Male,Master,47053.69183339926,568,Tier 1,Very Satisfied,Employed,40,Beauty,Standard,5.652082770101417,15,Yes
+CUST_0966,47,Male,High School,64379.85046667985,836,Tier 3,Neutral,Self-Employed,29,Groceries,Premium,1.108955827971204,11,Yes
+CUST_0967,60,Female,PhD,51613.689093365574,447,Tier 3,Very Dissatisfied,Employed,40,Beauty,Basic,0.4154873630124809,10,Yes
+CUST_0968,65,Female,High School,64980.233527290475,417,Tier 1,Dissatisfied,Employed,40,Fashion,Basic,9.070704291208624,7,Yes
+CUST_0969,34,Female,Bachelor,92562.99091513717,666,Tier 1,Satisfied,Self-Employed,14,Home,Premium,0.4109432859625234,9,Yes
+CUST_0970,43,Female,High School,75118.50383287588,365,Tier 2,Very Satisfied,Employed,22,Groceries,Basic,0.4789977571508441,11,Yes
+CUST_0971,53,Non-binary,PhD,64132.928761966774,669,Tier 2,Dissatisfied,Student,34,Fashion,Basic,2.787911802916984,8,Yes
+CUST_0972,18,Non-binary,Bachelor,74769.81665212681,474,Tier 3,Satisfied,Unemployed,0,Beauty,Premium,0.7239603749449828,11,No
+CUST_0973,25,Female,High School,76201.61303818371,794,Tier 1,Very Satisfied,Self-Employed,3,Home,Premium,12.247867268699471,11,No
+CUST_0974,66,Non-binary,Bachelor,38442.51794062549,413,Tier 1,Very Satisfied,Unemployed,40,Fashion,Standard,3.177070723942376,6,Yes
+CUST_0975,52,Male,High School,60834.45422431396,410,Tier 2,Very Dissatisfied,Employed,31,Home,Basic,4.209987766958625,10,No
+CUST_0976,69,Male,High School,111250.55318665032,738,Tier 3,Dissatisfied,Employed,40,Fashion,Basic,13.162818557782794,16,Yes
+CUST_0977,32,Male,PhD,84256.41970063733,446,Tier 3,Very Satisfied,Student,12,Beauty,Basic,3.777913978584202,6,No
+CUST_0978,64,Female,Bachelor,49931.288816776,334,Tier 2,Very Satisfied,Self-Employed,40,Home,Standard,2.1816153720102065,10,Yes
+CUST_0979,39,Male,Master,47935.84207764757,608,Tier 1,Satisfied,Employed,19,Fashion,Standard,7.976568300237031,12,Yes
+CUST_0980,31,Non-binary,Bachelor,47269.485536487955,837,Tier 2,Very Dissatisfied,Self-Employed,12,Beauty,Premium,2.9246056496363937,11,No
+CUST_0981,43,Female,Bachelor,77326.39900524114,313,Tier 2,Neutral,Self-Employed,23,Groceries,Basic,1.917070827328412,9,Yes
+CUST_0982,45,Non-binary,High School,92152.81842232434,673,Tier 2,Very Dissatisfied,Self-Employed,26,Beauty,Standard,6.422832432501289,11,Yes
+CUST_0983,40,Male,High School,71643.34088960115,727,Tier 2,Neutral,Self-Employed,18,Beauty,Basic,8.087493482507986,8,No
+CUST_0984,31,Male,Master,63143.24699737636,532,Tier 1,Dissatisfied,Self-Employed,10,Groceries,Basic,7.844267752753734,11,Yes
+CUST_0985,41,Male,PhD,51116.89284734457,739,Tier 2,Dissatisfied,Unemployed,22,Beauty,Standard,19.010109548644326,5,Yes
+CUST_0986,19,Female,High School,66587.46291167053,801,Tier 1,Very Satisfied,Student,0,Groceries,Basic,7.724503570743959,8,Yes
+CUST_0987,62,Non-binary,High School,43597.56559807581,574,Tier 2,Dissatisfied,Self-Employed,40,Groceries,Standard,7.346933015054345,8,Yes
+CUST_0988,43,Female,Bachelor,21284.689055775227,375,Tier 3,Very Satisfied,Unemployed,24,Groceries,Standard,9.741549010372704,3,No
+CUST_0989,31,Female,PhD,92736.51380224898,738,Tier 1,Very Dissatisfied,Employed,9,Fashion,Premium,0.1,12,Yes
+CUST_0990,68,Male,High School,39883.746592757816,588,Tier 3,Dissatisfied,Self-Employed,40,Home,Standard,2.2504670872164163,11,Yes
+CUST_0991,24,Female,Bachelor,53503.35252661361,839,Tier 2,Very Dissatisfied,Employed,3,Fashion,Premium,6.689485104467402,3,Yes
+CUST_0992,20,Female,Master,73127.14901258581,552,Tier 2,Very Dissatisfied,Self-Employed,0,Groceries,Standard,4.5779425313398665,16,No
+CUST_0993,64,Male,High School,88689.33738692108,425,Tier 2,Dissatisfied,Unemployed,40,Home,Basic,0.9774717068401007,10,Yes
+CUST_0994,40,Female,High School,65142.61304837243,476,Tier 1,Very Dissatisfied,Unemployed,18,Home,Basic,1.8101109973668636,9,No
+CUST_0995,63,Male,Bachelor,36125.78024678343,336,Tier 3,Dissatisfied,Unemployed,40,Groceries,Standard,2.0533376695572767,14,No
+CUST_0996,60,Male,PhD,53973.071006168975,709,Tier 1,Dissatisfied,Student,38,Home,Standard,4.1946593953537885,6,No
+CUST_0997,64,Male,High School,46430.291899498414,426,Tier 1,Dissatisfied,Employed,40,Home,Standard,8.907015305397257,7,No
+CUST_0998,62,Male,Bachelor,59235.77945057358,782,Tier 2,Neutral,Student,40,Fashion,Basic,13.477529537234778,10,Yes
+CUST_0999,35,Female,Bachelor,84639.68942539272,467,Tier 3,Very Dissatisfied,Self-Employed,17,Home,Basic,6.9333204043618615,14,Yes
+CUST_1000,55,Male,Bachelor,20000.0,593,Tier 2,Satisfied,Employed,35,Groceries,Basic,9.255967687059822,12,No
