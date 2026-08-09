@@ -1,0 +1,109 @@
+Age,Gender,BMI,Height,Weight,Label
+25,Male,25.3,175,80,Normal Weight
+30,Female,22.5,160,60,Normal Weight
+35,Male,27.3,180,90,Overweight
+40,Female,20.0,150,50,Underweight
+45,Male,31.2,190,100,Obese
+50,Female,16.7,140,40,Underweight
+55,Male,34.2,200,110,Obese
+60,Female,13.3,130,30,Underweight
+65,Male,37.2,210,120,Obese
+70,Female,10.0,120,20,Underweight
+18,Male,23.4,175,70,Normal Weight
+23,Female,20.0,160,50,Underweight
+28,Male,25.3,180,80,Normal Weight
+33,Female,22.5,150,60,Normal Weight
+38,Male,27.3,190,90,Overweight
+43,Female,20.0,140,50,Underweight
+48,Male,31.2,200,100,Obese
+53,Female,16.7,130,40,Underweight
+58,Male,34.2,210,110,Obese
+63,Female,13.3,120,30,Underweight
+68,Male,25.3,175,80,Normal Weight
+73,Female,22.5,160,60,Normal Weight
+78,Male,27.3,180,90,Overweight
+83,Female,20.0,150,50,Underweight
+88,Male,31.2,190,100,Obese
+93,Female,16.7,140,40,Underweight
+98,Male,34.2,200,110,Obese
+103,Female,13.3,130,30,Underweight
+108,Male,37.2,210,120,Obese
+19,Male,24.2,175,75,Normal Weight
+24,Female,21.2,160,55,Normal Weight
+29,Male,26.1,180,85,Overweight
+39,Male,27.0,190,95,Overweight
+44,Female,25.0,140,75,Overweight
+49,Male,28.9,200,105,Obese
+54,Female,27.5,130,85,Overweight
+59,Male,30.8,210,115,Obese
+64,Female,29.1,120,95,Overweight
+17,Male,22.7,175,65,Normal Weight
+22,Female,18.7,160,45,Underweight
+27,Male,24.2,180,75,Normal Weight
+32,Female,21.2,150,55,Normal Weight
+37,Male,26.1,190,85,Overweight
+42,Female,22.7,140,65,Normal Weight
+47,Male,27.0,200,95,Overweight
+52,Female,25.0,130,75,Overweight
+57,Male,28.9,210,105,Obese
+62,Female,27.5,120,85,Overweight
+67,Male,22.7,175,65,Normal Weight
+72,Female,18.7,160,45,Underweight
+77,Male,24.2,180,75,Normal Weight
+82,Female,21.2,150,55,Normal Weight
+87,Male,26.1,190,85,Overweight
+92,Female,22.7,140,65,Normal Weight
+97,Male,27.0,200,95,Overweight
+102,Female,25.0,130,75,Overweight
+107,Male,28.9,210,105,Obese
+112,Female,27.5,120,85,Overweight
+16,Male,21.2,175,55,Normal Weight
+21,Female,16.7,160,35,Underweight
+26,Male,22.7,180,65,Normal Weight
+31,Female,18.7,150,45,Underweight
+36,Male,24.2,190,75,Normal Weight
+41,Female,21.2,140,55,Normal Weight
+46,Male,26.1,200,85,Overweight
+51,Female,22.7,130,65,Normal Weight
+56,Male,27.0,210,95,Overweight
+61,Female,25.0,120,75,Overweight
+15,Male,18.7,175,45,Underweight
+20,Female,13.3,160,30,Underweight
+25,Male,21.2,180,55,Normal Weight
+30,Female,16.7,150,40,Underweight
+35,Male,22.7,190,65,Normal Weight
+40,Female,20.0,140,50,Underweight
+45,Male,24.2,200,75,Normal Weight
+50,Female,22.5,130,60,Normal Weight
+55,Male,26.1,210,85,Overweight
+60,Female,23.4,120,70,Normal Weight
+14,Male,16.7,175,35,Underweight
+19,Female,10.0,160,25,Underweight
+24,Male,18.7,180,45,Underweight
+29,Female,13.3,150,30,Underweight
+34,Male,21.2,190,55,Normal Weight
+13,Male,10.0,175,25,Underweight
+18,Female,8.3,160,20,Underweight
+23,Male,13.3,180,30,Underweight
+28,Female,10.0,150,25,Underweight
+33,Male,16.7,190,40,Underweight
+38,Female,16.7,140,35,Underweight
+43,Male,20.0,200,50,Underweight
+48,Female,16.7,130,40,Underweight
+53,Male,21.2,210,55,Normal Weight
+58,Female,16.7,120,35,Underweight
+12,Male,5.6,175,15,Underweight
+17,Female,5.6,160,15,Underweight
+22,Male,8.3,180,20,Underweight
+27,Female,8.3,150,20,Underweight
+32,Male,10.0,190,25,Underweight
+37,Female,10.0,140,25,Underweight
+42,Male,13.3,200,30,Underweight
+47,Female,13.3,130,30,Underweight
+52,Male,16.7,210,35,Underweight
+57,Female,10.0,120,25,Underweight
+11,Male,3.9,175,10,Underweight
+16,Female,3.9,160,10,Underweight
+21,Male,5.6,180,15,Underweight
+26,Female,5.6,150,15,Underweight
+31,Male,8.3,190,20,Underweight
