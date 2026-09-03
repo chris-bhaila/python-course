@@ -1,3 +1,4 @@
 venv/
 .venv/
 Deep Learning/ANN/Cifar_data/
+hand_landmarker.task
